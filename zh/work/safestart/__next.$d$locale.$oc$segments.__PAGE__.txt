@@ -1,0 +1,29 @@
+3:"$Sreact.fragment"
+4:I[7121,[],""]
+5:I[4581,[],""]
+a:"static/chunks/500-fc3b64d9ff4a32a7.js"
+b:"static/chunks/413-85838be942de8bfe.js"
+c:"static/chunks/app/%5Blocale%5D/%5B%5B...segments%5D%5D/page-6a18018a0c7a318d.js"
+d:I[8500,["500","$a","413","$b","202","$c"],""]
+e:I[484,[],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[484,[],"$12"]
+14:"MetadataBoundary"
+15:I[484,[],"$14"]
+:HL["/haiwei-website-pages/_next/static/css/6433f99d74fe4cf4.css","style"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","article",null,{"className":"page-shell detail-page","children":[["$","$Ld",null,{"className":"back-link","href":"/zh/work","children":["← ","返回项目"]}],["$","div",null,{"className":"card-meta","children":[["$","span",null,{"children":"工程"}],null]}],["$","h1",null,{"children":[["$","span",null,{"className":"original-label","children":"英文原文"}],"SafeStart"]}],["$","p",null,{"className":"lead","children":[["$","span",null,{"className":"original-label","children":"英文原文"}],"Prototyping a retrieval-grounded AI assistant for mining pre-task planning, using safety requirements, SOPs, and incident records to draft step-based JSAs with missing-context checks and supervisor review."]}],null,"$undefined",["$","div",null,{"className":"case-grid","children":[[["$","section","problem",{"children":[["$","h2",null,{"children":"要解决的问题"}],["$","p",null,{"children":[["$","span",null,{"className":"original-label","children":"英文原文"}],"Mining pre-task planning"]}]]}],null,null,["$","section","contribution",{"children":[["$","h2",null,{"children":"做了什么"}],["$","p",null,{"children":[["$","span",null,{"className":"original-label","children":"英文原文"}],"Prototyping a retrieval-grounded AI assistant for mining pre-task planning, using safety requirements, SOPs, and incident records to draft step-based JSAs with missing-context checks and supervisor review."]}]]}],null],["$","section",null,{"children":[["$","h2",null,{"children":"工具与技术"}],["$","div",null,{"className":"tag-row","children":[]}]]}]]}],false,"$undefined"]}],[["$","link","0",{"rel":"stylesheet","href":"/haiwei-website-pages/_next/static/css/6433f99d74fe4cf4.css","precedence":"next"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$8"}}]]
+2:[["children",{"s":{"n":"segments","t":"oc","k":"work/safestart","s":[]},"h":65600,"d":{"r":["$","$3","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"zh","s":["_not-found","_global-error","robots.txt","sitemap.xml","version.json"]},"h":196656,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"SafeStart · 于海威"}],["$","meta","1",{"name":"description","content":"Prototyping a retrieval-grounded AI assistant for mining pre-task planning, using safety requirements, SOPs, and incident records to draft step-based JSAs with missing-context checks and supervisor review."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://userzeroa.github.io/haiwei-website-pages/zh/work/safestart/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://userzeroa.github.io/haiwei-website-pages/en/work/safestart/"}],["$","link","5",{"rel":"alternate","hrefLang":"zh-CN","href":"https://userzeroa.github.io/haiwei-website-pages/zh/work/safestart/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://userzeroa.github.io/haiwei-website-pages/en/work/safestart/"}],["$","meta","7",{"property":"og:title","content":"SafeStart · 于海威"}],["$","meta","8",{"property":"og:description","content":"Prototyping a retrieval-grounded AI assistant for mining pre-task planning, using safety requirements, SOPs, and incident records to draft step-based JSAs with missing-context checks and supervisor review."}],["$","meta","9",{"property":"og:url","content":"https://userzeroa.github.io/haiwei-website-pages/zh/work/safestart/"}],["$","meta","10",{"property":"og:locale","content":"zh_CN"}],["$","meta","11",{"property":"og:image","content":"https://userzeroa.github.io/haiwei-website-pages/assets/og.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"于海威"}],["$","meta","15",{"property":"og:locale:alternate","content":"en_US"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"SafeStart · 于海威"}],["$","meta","19",{"name":"twitter:description","content":"Prototyping a retrieval-grounded AI assistant for mining pre-task planning, using safety requirements, SOPs, and incident records to draft step-based JSAs with missing-context checks and supervisor review."}],["$","meta","20",{"name":"twitter:image","content":"https://userzeroa.github.io/haiwei-website-pages/assets/og.png"}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$8"}},"a":"$@17","u":"$@18","b":"TMZal4I49Blz9ru3Nm9MP"}
+10:null
+18:true
+8:300
+8:C
+17:0
+6:"$undefined"
+16:"$undefined"
+11:"$undefined"

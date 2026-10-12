@@ -1,0 +1,29 @@
+3:"$Sreact.fragment"
+4:I[7121,[],""]
+5:I[4581,[],""]
+a:"static/chunks/500-fc3b64d9ff4a32a7.js"
+b:"static/chunks/413-85838be942de8bfe.js"
+c:"static/chunks/app/%5Blocale%5D/%5B%5B...segments%5D%5D/page-6a18018a0c7a318d.js"
+d:I[8500,["500","$a","413","$b","202","$c"],""]
+e:I[484,[],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[484,[],"$12"]
+14:"MetadataBoundary"
+15:I[484,[],"$14"]
+:HL["/haiwei-website-pages/_next/static/css/6433f99d74fe4cf4.css","style"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","article",null,{"className":"page-shell narrow publication-detail","children":[["$","$Ld",null,{"className":"back-link","href":"/en/research","children":["← ","Back to research"]}],["$","div",null,{"className":"card-meta","children":[["$","span",null,{"children":"Preprint"}],null,["$","span",null,{"children":2026}]]}],["$","h1",null,{"children":"Iteration Without Elaboration: A Simple ReAct Architecture Suffices for Text-to-SQL Generation"}],false,["$","p",null,{"className":"pub-authors","children":["Jian Lu, Haiwei Yu, Raymond M Xiong, Anru Zhang, Danyang Zhuo",false]}],["$","p",null,{"className":"submission-venue","children":["Submitted to",": ","NAACL 2027"]}],["$","p",null,{"children":"arXiv"}],["$","div",null,{"className":"public-links","children":[["$","a","arxiv",{"className":"text-link","href":"https://arxiv.org/abs/2608.22651","rel":"noopener noreferrer","children":["arXiv",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a","doi",{"className":"text-link","href":"https://doi.org/10.48550/arXiv.2608.22651","rel":"noopener noreferrer","children":["DOI",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}],["$","p",null,{"className":"publication-note","children":"Additional publication details are not available yet."}],false,false,false,"$undefined",false]}],[["$","link","0",{"rel":"stylesheet","href":"/haiwei-website-pages/_next/static/css/6433f99d74fe4cf4.css","precedence":"next"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$8"}}]]
+2:[["children",{"s":{"n":"segments","t":"oc","k":"publications/iteration-without-elaboration","s":[]},"h":65600,"d":{"r":["$","$3","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["_not-found","_global-error","robots.txt","sitemap.xml","version.json"]},"h":196656,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Iteration Without Elaboration: A Simple ReAct Architecture Suffices for Text-to-SQL Generation · Haiwei Yu"}],["$","meta","1",{"name":"description","content":"The personal website of Haiwei Yu. Explore work, research, writing, and life at the desk."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://userzeroa.github.io/haiwei-website-pages/en/publications/iteration-without-elaboration/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://userzeroa.github.io/haiwei-website-pages/en/publications/iteration-without-elaboration/"}],["$","link","5",{"rel":"alternate","hrefLang":"zh-CN","href":"https://userzeroa.github.io/haiwei-website-pages/zh/publications/iteration-without-elaboration/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://userzeroa.github.io/haiwei-website-pages/en/publications/iteration-without-elaboration/"}],["$","meta","7",{"property":"og:title","content":"Iteration Without Elaboration: A Simple ReAct Architecture Suffices for Text-to-SQL Generation · Haiwei Yu"}],["$","meta","8",{"property":"og:description","content":"The personal website of Haiwei Yu. Explore work, research, writing, and life at the desk."}],["$","meta","9",{"property":"og:url","content":"https://userzeroa.github.io/haiwei-website-pages/en/publications/iteration-without-elaboration/"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://userzeroa.github.io/haiwei-website-pages/assets/og.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Haiwei Yu"}],["$","meta","15",{"property":"og:locale:alternate","content":"zh_CN"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Iteration Without Elaboration: A Simple ReAct Architecture Suffices for Text-to-SQL Generation · Haiwei Yu"}],["$","meta","19",{"name":"twitter:description","content":"The personal website of Haiwei Yu. Explore work, research, writing, and life at the desk."}],["$","meta","20",{"name":"twitter:image","content":"https://userzeroa.github.io/haiwei-website-pages/assets/og.png"}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$8"}},"a":"$@17","u":"$@18","b":"TMZal4I49Blz9ru3Nm9MP"}
+10:null
+18:true
+8:300
+8:C
+17:0
+6:"$undefined"
+16:"$undefined"
+11:"$undefined"

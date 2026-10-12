@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:"static/chunks/500-fc3b64d9ff4a32a7.js"
+3:"static/chunks/app/_not-found/page-bc51477817c32ab6.js"
+4:I[8500,["500","$2","492","$3"],""]
+8:I[7121,[],""]
+9:I[4581,[],""]
+d:I[484,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[484,[],"$11"]
+13:"MetadataBoundary"
+14:I[484,[],"$13"]
+:HL["/haiwei-website-pages/_next/static/css/c935700c9deee144.css","style"]
+6:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","main",null,{"className":"page-shell error-page","children":[["$","span",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"This page wandered off."}],["$","p",null,{"children":"The address may have changed, or this page is not available."}],["$","$L4",null,{"className":"button","href":"/en","children":"Back to the desk"}]]}]}]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$6"}}]]
+7:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$6"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/haiwei-website-pages/_next/static/css/c935700c9deee144.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","main",null,{"className":"page-shell error-page","children":[["$","span",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"This page wandered off."}],["$","p",null,{"children":"The address may have changed, or this page is not available."}],["$","$L4",null,{"className":"button","href":"/en","children":"Back to the desk"}]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[]}]}],null]}],null]}],"p":"$@15","v":null,"s":"$6"}},"a":"$@16","u":"$@17","b":"TMZal4I49Blz9ru3Nm9MP"}
+f:null
+6:300
+17:true
+6:C
+16:0
+a:"$undefined"
+5:"$undefined"
+15:"$undefined"
+10:"$undefined"

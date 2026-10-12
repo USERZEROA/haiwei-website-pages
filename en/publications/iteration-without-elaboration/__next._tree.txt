@@ -1,0 +1,6 @@
+:HL["/haiwei-website-pages/_next/static/css/c935700c9deee144.css","style"]
+:HL["/haiwei-website-pages/_next/static/css/6433f99d74fe4cf4.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"segments","t":"oc","k":"publications/iteration-without-elaboration","s":[]},"h":65600,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["_not-found","_global-error","robots.txt","sitemap.xml","version.json"]},"h":196656,"c":"$Q2"}]]
+0:{"b":"TMZal4I49Blz9ru3Nm9MP","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
