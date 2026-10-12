@@ -1,0 +1,21 @@
+{
+  "name": "Haiwei Yu — At My Desk",
+  "short_name": "Haiwei Yu",
+  "start_url": "../",
+  "scope": "../",
+  "display": "browser",
+  "background_color": "#f7f2e9",
+  "theme_color": "#345b71",
+  "icons": [
+    {
+      "src": "./icon-desk-v3-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-desk-v3-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

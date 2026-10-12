@@ -1,6 +1,7 @@
-:HL["/haiwei-website-pages/_next/static/css/6520c69a8cc07216.css","style"]
+:HL["/haiwei-website-pages/_next/static/css/f363a9cdd8e4583e.css","style"]
 :HL["/haiwei-website-pages/_next/static/css/d56bcaea1b90c71a.css","style"]
+:HL["/haiwei-website-pages/assets/favicon-desk-v3.svg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"segments","t":"oc","k":"learning","s":[]},"h":65600,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"zh","s":["_not-found","_global-error","robots.txt","sitemap.xml","version.json"]},"h":196656,"c":"$Q2"}]]
-0:{"b":"vCsd_oCyzKOKRwUlKaCda","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"pdD7iitgPg0oJBP6j2vJt","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

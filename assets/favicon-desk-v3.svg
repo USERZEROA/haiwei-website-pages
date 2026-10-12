@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Desk and open book">
+  <rect width="64" height="64" rx="14" fill="#345b71"/>
+  <path d="m10 37 24-14 22 13-24 14Z" fill="#e3b995"/>
+  <path d="M13 39v10m20 2v6m20-19v11" fill="none" stroke="#f7f2e9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M19 14c5-1 10 0 14 3 4-3 9-4 14-3v18c-5-1-10 0-14 3-4-3-9-4-14-3Z" fill="#f7f2e9" stroke="#345b71" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M33 17v18M23 20h6m-6 6h6m8-6h6m-6 6h6" fill="none" stroke="#345b71" stroke-width="2" stroke-linecap="round"/>
+</svg>
