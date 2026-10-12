@@ -1,6 +1,6 @@
-:HL["/haiwei-website-pages/_next/static/css/f363a9cdd8e4583e.css","style"]
-:HL["/haiwei-website-pages/_next/static/css/d56bcaea1b90c71a.css","style"]
-:HL["/haiwei-website-pages/assets/favicon-desk-v3.svg","image"]
+:HL["/_next/static/css/b9ca6b5c3e0f9977.css","style"]
+:HL["/_next/static/css/d56bcaea1b90c71a.css","style"]
+:HL["/assets/favicon-desk-v3.svg","image"]
 2:[["children",{"s":"__PAGE__","h":128}]]
 1:[["children",{"s":"(entry)","h":48,"c":"$Q2"}]]
-0:{"b":"pdD7iitgPg0oJBP6j2vJt","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"mIPEaHy9WcrONkSu3_-CP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
