@@ -1,7 +1,8 @@
-:HL["/_next/static/css/9818e4f2366bffb8.css","style"]
-:HL["/_next/static/css/d56bcaea1b90c71a.css","style"]
+:HL["/_next/static/css/d8c8daf6e1586508.css","style"]
+:HL["/_next/static/css/9db8dbcd9238d07c.css","style"]
+:HL["/_next/static/css/4235888360b03b60.css","style"]
 :HL["/assets/favicon-desk-v3.svg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"segments","t":"oc","k":"publications/prompt-engineering-charts","s":[]},"h":65600,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["_not-found","_global-error","robots.txt","sitemap.xml","version.json"]},"h":196656,"c":"$Q2"}]]
-0:{"b":"w6whr7MCacrJbsYi3RRpZ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"Ran0GQXs0TT5btSuF7cj6","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

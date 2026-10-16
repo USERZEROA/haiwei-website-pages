@@ -1,6 +1,6 @@
-:HL["/_next/static/css/9818e4f2366bffb8.css","style"]
-:HL["/_next/static/css/d56bcaea1b90c71a.css","style"]
+:HL["/_next/static/css/d8c8daf6e1586508.css","style"]
+:HL["/_next/static/css/9db8dbcd9238d07c.css","style"]
 :HL["/assets/favicon-desk-v3.svg","image"]
 2:[["children",{"s":"__PAGE__","h":128}]]
 1:[["children",{"s":"(entry)","h":48,"c":"$Q2"}]]
-0:{"b":"w6whr7MCacrJbsYi3RRpZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Ran0GQXs0TT5btSuF7cj6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,0 +1,31 @@
+3:"$Sreact.fragment"
+4:I[7121,[],""]
+5:I[4581,[],""]
+a:"static/chunks/500-fc3b64d9ff4a32a7.js"
+b:"static/chunks/413-85838be942de8bfe.js"
+c:"static/chunks/711-82d21c78f2b4a054.js"
+d:"static/chunks/app/%5Blocale%5D/%5B%5B...segments%5D%5D/page-74cbae89c5cdc54d.js"
+e:I[8500,["500","$a","413","$b","711","$c","202","$d"],""]
+f:I[484,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[484,[],"$13"]
+15:"MetadataBoundary"
+16:I[484,[],"$15"]
+:HL["/_next/static/css/9db8dbcd9238d07c.css","style"]
+:HL["/_next/static/css/4235888360b03b60.css","style"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","article",null,{"className":"page-shell narrow learning-detail","children":[["$","$Le",null,{"className":"back-link","href":"/zh/learning","children":["← ","返回学习书架"]}],["$","div",null,{"className":"card-meta","children":[["$","span",null,{"children":"课程"}],null,["$","span",null,{"children":"学习中"}],["$","span",null,{"className":"learning-period","children":["$","span",null,{"lang":"zh-CN","children":"机器学习系统：2026 年春季；分布式系统：2026 年秋季 — 正在修读"}]}],"$undefined"]}],["$","h1",null,{"children":"Systems for Machine Learning / Distributed Systems"}],["$","p",null,{"className":"lead","children":["$","span",null,{"lang":"zh-CN","children":"机器学习系统 / 分布式系统"}]}],["$","p",null,{"className":"learning-purpose","children":"这里是我的学习收藏，不代表我教授过这些课程或发表过这些演讲。"}],["$","p",null,{"children":["来源",": ","Duke University"]}],false,["$","p",null,{"className":"learning-person","children":["教师",": ",["$","a",null,{"className":"text-link","href":"https://danyangzhuo.com/","rel":"noopener noreferrer","referrerPolicy":"no-referrer","children":["Danyang Zhuo",["$","span",null,{"aria-hidden":"true","children":" ↗"}]]}]]}],["$","div",null,{"className":"learning-links","children":[["$","a",null,{"className":"button secondary","href":"https://danyangzhuo.com/","rel":"noopener noreferrer","referrerPolicy":"no-referrer","children":["教师主页"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","nav",null,{"className":"public-links","aria-label":"继续探索","children":[["$","a","machine-learning-systems",{"className":"text-link","href":"https://courses.cs.duke.edu/spring26/compsci590.6/","rel":"noopener noreferrer","referrerPolicy":"no-referrer","children":["机器学习系统",["$","span",null,{"aria-hidden":"true","children":" ↗"}]]}],["$","a","distributed-systems",{"className":"text-link","href":"https://courses.cs.duke.edu/fall26/compsci512/","rel":"noopener noreferrer","referrerPolicy":"no-referrer","children":["分布式系统",["$","span",null,{"aria-hidden":"true","children":" ↗"}]]}]]}]]}],null,null,"$undefined",["$","section",null,{"className":"section","children":[["$","h2",null,{"children":"为什么有用"}],["$","p",null,{"children":["$","span",null,{"lang":"zh-CN","children":"我很欣赏 Danyang Zhuo 务实的教学与研究方式，也觉得他的课很有意思。在智能体时代，我越来越觉得，许多看似模型的问题，最终仍要靠系统设计把它们解决。"}]}]]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9db8dbcd9238d07c.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/4235888360b03b60.css","precedence":"next"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$8"}}]]
+2:[["children",{"s":{"n":"segments","t":"oc","k":"learning/duke-systems-with-danyang-zhuo","s":[]},"h":65600,"d":{"r":["$","$3","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"zh","s":["_not-found","_global-error","robots.txt","sitemap.xml","version.json"]},"h":196656,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Systems for Machine Learning / Distributed Systems · 于海威"}],["$","meta","1",{"name":"description","content":"于海威的个人网站：应用 AI 项目、科研经历、教育背景与联系方式。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://haiweiyu.com/zh/learning/duke-systems-with-danyang-zhuo/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://haiweiyu.com/en/learning/duke-systems-with-danyang-zhuo/"}],["$","link","5",{"rel":"alternate","hrefLang":"zh-CN","href":"https://haiweiyu.com/zh/learning/duke-systems-with-danyang-zhuo/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://haiweiyu.com/en/learning/duke-systems-with-danyang-zhuo/"}],["$","meta","7",{"property":"og:title","content":"Systems for Machine Learning / Distributed Systems · 于海威"}],["$","meta","8",{"property":"og:description","content":"于海威的个人网站：应用 AI 项目、科研经历、教育背景与联系方式。"}],["$","meta","9",{"property":"og:url","content":"https://haiweiyu.com/zh/learning/duke-systems-with-danyang-zhuo/"}],["$","meta","10",{"property":"og:locale","content":"zh_CN"}],["$","meta","11",{"property":"og:image","content":"https://haiweiyu.com/assets/og.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"于海威"}],["$","meta","15",{"property":"og:locale:alternate","content":"en_US"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Systems for Machine Learning / Distributed Systems · 于海威"}],["$","meta","19",{"name":"twitter:description","content":"于海威的个人网站：应用 AI 项目、科研经历、教育背景与联系方式。"}],["$","meta","20",{"name":"twitter:image","content":"https://haiweiyu.com/assets/og.png"}]]}]}],null]}],null]}],"p":"$@17","v":null,"s":"$8"}},"a":"$@18","u":"$@19","b":"Ran0GQXs0TT5btSuF7cj6"}
+11:null
+19:true
+8:300
+8:C
+18:0
+6:"$undefined"
+17:"$undefined"
+12:"$undefined"

@@ -1,0 +1,31 @@
+3:"$Sreact.fragment"
+4:I[7121,[],""]
+5:I[4581,[],""]
+a:"static/chunks/500-fc3b64d9ff4a32a7.js"
+b:"static/chunks/413-85838be942de8bfe.js"
+c:"static/chunks/711-82d21c78f2b4a054.js"
+d:"static/chunks/app/%5Blocale%5D/%5B%5B...segments%5D%5D/page-74cbae89c5cdc54d.js"
+e:I[8500,["500","$a","413","$b","711","$c","202","$d"],""]
+f:I[484,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[484,[],"$13"]
+15:"MetadataBoundary"
+16:I[484,[],"$15"]
+:HL["/_next/static/css/9db8dbcd9238d07c.css","style"]
+:HL["/_next/static/css/4235888360b03b60.css","style"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","article",null,{"className":"page-shell narrow reflections_detail__VxmNM","children":[["$","$Le",null,{"className":"back-link","href":"/en/reflections/","children":["← ","Back to personal reflections"]}],["$","div",null,{"className":"card-meta","children":[["$","span",null,{"children":["Edited"," ",["$","time",null,{"dateTime":"2026-10-16","children":"Oct 16, 2026"}]]}],null]}],["$","h1",null,{"children":["$","span",null,{"lang":"en","children":"What universities can offer in the age of AI"}]}],["$","p",null,{"className":"reflections_purpose__O7VH5","children":"Personal views and open questions, rather than research papers."}],null,["$","div",null,{"className":"reflections_body___cdH8","lang":"en","children":[["$","p","0",{"children":"As more research turns toward AI, and the resources needed for frontier models become concentrated in industry, I often wonder where universities should build their next sources of value. AI is also changing how we learn."}],["$","p","1",{"children":"Free courses and patient AI tutors make knowledge easier to access, but getting answers and developing judgment may not be the same thing. As AI can help draft papers, I also wonder what makes research training meaningful. I would like universities to be clearer about how they help students ask worthwhile questions, evaluate ideas, and gain meaningful opportunities to practice."}]]}],false]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9db8dbcd9238d07c.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/4235888360b03b60.css","precedence":"next"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$8"}}]]
+2:[["children",{"s":{"n":"segments","t":"oc","k":"reflections/universities-in-the-age-of-ai","s":[]},"h":65600,"d":{"r":["$","$3","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["_not-found","_global-error","robots.txt","sitemap.xml","version.json"]},"h":196656,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"What universities can offer in the age of AI · Haiwei Yu"}],["$","meta","1",{"name":"description","content":"Haiwei Yu's personal website: Applied AI projects, research, education, and contact information."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://haiweiyu.com/en/reflections/universities-in-the-age-of-ai/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://haiweiyu.com/en/reflections/universities-in-the-age-of-ai/"}],["$","link","5",{"rel":"alternate","hrefLang":"zh-CN","href":"https://haiweiyu.com/zh/reflections/universities-in-the-age-of-ai/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://haiweiyu.com/en/reflections/universities-in-the-age-of-ai/"}],["$","meta","7",{"property":"og:title","content":"What universities can offer in the age of AI · Haiwei Yu"}],["$","meta","8",{"property":"og:description","content":"Haiwei Yu's personal website: Applied AI projects, research, education, and contact information."}],["$","meta","9",{"property":"og:url","content":"https://haiweiyu.com/en/reflections/universities-in-the-age-of-ai/"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://haiweiyu.com/assets/og.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Haiwei Yu"}],["$","meta","15",{"property":"og:locale:alternate","content":"zh_CN"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"What universities can offer in the age of AI · Haiwei Yu"}],["$","meta","19",{"name":"twitter:description","content":"Haiwei Yu's personal website: Applied AI projects, research, education, and contact information."}],["$","meta","20",{"name":"twitter:image","content":"https://haiweiyu.com/assets/og.png"}]]}]}],null]}],null]}],"p":"$@17","v":null,"s":"$8"}},"a":"$@18","u":"$@19","b":"Ran0GQXs0TT5btSuF7cj6"}
+11:null
+19:true
+8:300
+8:C
+18:0
+6:"$undefined"
+17:"$undefined"
+12:"$undefined"
