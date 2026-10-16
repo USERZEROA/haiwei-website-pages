@@ -1,10 +1,10 @@
 {
-  "sourceSha": "604c52ad1259f1b6694fb1acf11caf337bfea9b8",
+  "sourceSha": "3c443db1509e6028bf6bff6172b61e354891a4d7",
   "contentMode": "live",
   "siteEnv": "preview",
   "basePath": "",
   "siteUrl": "https://haiweiyu.com",
-  "artifactSha256": "521ebadc58cf27b320f8a7868d8392f4c75e93f325d85109420b400c0ee986f9",
+  "artifactSha256": "59d37d34491b5a8059d0541541826f44f38445514a8fd169a7ac52392f73e5a8",
   "files": [
     {
       "path": ".nojekyll",
@@ -14,12 +14,12 @@
     {
       "path": "404.html",
       "bytes": 4653,
-      "sha256": "fa90bc913aae6ff535a4baee7aa1bf8990d85d94ae7ec1f1b39393df6af29c2d"
+      "sha256": "d517eac0cb95b85a9bf163b32032248fa2d1f04f579d546e2b49875adc114c8d"
     },
     {
       "path": "404/index.html",
       "bytes": 4653,
-      "sha256": "fa90bc913aae6ff535a4baee7aa1bf8990d85d94ae7ec1f1b39393df6af29c2d"
+      "sha256": "d517eac0cb95b85a9bf163b32032248fa2d1f04f579d546e2b49875adc114c8d"
     },
     {
       "path": "CNAME",
@@ -28,48 +28,43 @@
     },
     {
       "path": "__next.!KGVudHJ5KQ.__PAGE__.txt",
-      "bytes": 44631,
-      "sha256": "17098e0d66f8887d508c8c55decb4fbad0629d87679ab37add293b48211aa60a"
+      "bytes": 54809,
+      "sha256": "b3fc13937a52d29126bb6a4ea658105f400822e11abbbb17da81cbb1f71c87a2"
     },
     {
       "path": "__next.!KGVudHJ5KQ.txt",
-      "bytes": 14576,
-      "sha256": "f5e81e84cbc53c4ffd1d52f183d9f955ab8637bea4c07eeed61036bd9abc78e3"
+      "bytes": 15331,
+      "sha256": "47ce764bb13f5318ac6c7b01add269d22b2916d16b8da5cc5c0967fa6ad62743"
     },
     {
       "path": "__next._full.txt",
-      "bytes": 51126,
-      "sha256": "f103625ccae3b373da1bb16eb4b5183c8217af53ead1704687a9a4bfe58f0a4b"
+      "bytes": 61965,
+      "sha256": "f0eaa8c1e9e677f0cffb74e60a945a3579a74f3ac2c54334df5f0d18264ebfb7"
     },
     {
       "path": "__next._tree.txt",
-      "bytes": 311,
-      "sha256": "60e79a02145ee4db0cf78bac84f75bc560a77792323b33cc8a83b32555e09a0d"
+      "bytes": 365,
+      "sha256": "83d714ade87db33988ec1b1a302945a7ec49d3c6990d933e73f100f843d8173d"
     },
     {
-      "path": "_next/static/MoKWwUhTudmqXg3jTho8h/_buildManifest.js",
+      "path": "_next/static/LpZbEmWwHYKJif9xqp6ZY/_buildManifest.js",
       "bytes": 595,
       "sha256": "c3b666f8f5b78860fbd0b0ebc37ef9c77260c281c1e7731abe3d14aa920a0290"
     },
     {
-      "path": "_next/static/MoKWwUhTudmqXg3jTho8h/_ssgManifest.js",
+      "path": "_next/static/LpZbEmWwHYKJif9xqp6ZY/_ssgManifest.js",
       "bytes": 117,
       "sha256": "983c5fa34ac67bd8e98a5f243dfdd21c41cf6a0b2586613a8b01e4285f76545a"
     },
     {
-      "path": "_next/static/chunks/268.54fa5b600232189e.js",
-      "bytes": 77316,
-      "sha256": "86cb01b689777f83e8ab8e4ea352922c9aa74186236dfcd3cf9b7ec10abb212e"
+      "path": "_next/static/chunks/140-48f1445f6865c4c5.js",
+      "bytes": 30769,
+      "sha256": "d8c6d5a449ed2f70c7911c922f0f124fe56982584146d494ab654b0a0f0fb8d8"
     },
     {
-      "path": "_next/static/chunks/360-19e545fb54032c7a.js",
-      "bytes": 18666,
-      "sha256": "8c787195e5f041d490918893045383bb6b1af72584af0cd8e1aa3056134af591"
-    },
-    {
-      "path": "_next/static/chunks/413-85838be942de8bfe.js",
-      "bytes": 6629,
-      "sha256": "07a43fb78bfed483ed4e0196fe278cc93d230fb3df91e9c91a56dae4760b844e"
+      "path": "_next/static/chunks/292.a93d837477b32d67.js",
+      "bytes": 47011,
+      "sha256": "25bb03591ed6bc40d4ac7680453c7844a54a71bf52317e48ae39022bf16c95e9"
     },
     {
       "path": "_next/static/chunks/4bd1b696-c7408084347438ae.js",
@@ -82,9 +77,24 @@
       "sha256": "905bc34977bb55dd8fda0041a3dbe144347dc46e9cd747d71e6b326deb234d7d"
     },
     {
-      "path": "_next/static/chunks/787.932039116307a1e5.js",
-      "bytes": 22008,
-      "sha256": "1bf97e37d42b233dbb2d9618ec778eab54487c4da7f8f3a63718209b578a37e3"
+      "path": "_next/static/chunks/525.8ec17fa6f51bd23e.js",
+      "bytes": 12846,
+      "sha256": "afc9a59562ef5a6ff9ac2a16b3e0ec6ea73d10606d51ea567ae21d829b324a81"
+    },
+    {
+      "path": "_next/static/chunks/725-9cdbc7223829d3ad.js",
+      "bytes": 76900,
+      "sha256": "6ec2aba103be58597b7c1806376206c8c39e92f30d25aa21dc86e876df95b665"
+    },
+    {
+      "path": "_next/static/chunks/782-2bd14054636e79d5.js",
+      "bytes": 101777,
+      "sha256": "0c2a2a5010b264ed75a6984a7c76c31afcc949b9bf5357ca9242d38ac9f70f01"
+    },
+    {
+      "path": "_next/static/chunks/787.795ee64a94d105a0.js",
+      "bytes": 24588,
+      "sha256": "4676d6e58d1bccab8b3562275a7e604e560df8b1c7279806084162415c2113aa"
     },
     {
       "path": "_next/static/chunks/794-f6a16fdde17f7dcf.js",
@@ -92,34 +102,39 @@
       "sha256": "2fe157ee446df605229c98bc4509a8017d1028e6c887315e59f3bf1032dc0a4b"
     },
     {
-      "path": "_next/static/chunks/app/(entry)/layout-a8fe7af14cd10cd9.js",
-      "bytes": 6428,
-      "sha256": "3762459fd60e04039d4d7d09ab2cad1fb94d4d3d0872832f0fa66f30dde2c104"
+      "path": "_next/static/chunks/919.949fdc75ca52c701.js",
+      "bytes": 30384,
+      "sha256": "bf6e6764f7ebce1b4ee42e9b6d89422d15d7b518835175c4556bd265d45c5825"
     },
     {
-      "path": "_next/static/chunks/app/(entry)/page-dda054109575f099.js",
-      "bytes": 361,
-      "sha256": "7ae8d8ab4f2e3abba0d945a00c43d3d252b3f27fa0ec788f2d03721c8f2bd943"
+      "path": "_next/static/chunks/app/(entry)/layout-28f8676abc8304d0.js",
+      "bytes": 6563,
+      "sha256": "de09f58e642cfc45cc6ed47e01192499ca04bb739889854c213717e2ce42f9b8"
     },
     {
-      "path": "_next/static/chunks/app/[locale]/[[...segments]]/page-c9c0a1b7998e8f7b.js",
-      "bytes": 13016,
-      "sha256": "3bbafafcb59d6ad96ebd7aa8bef1fbf5660a79a94f0c18f62461d29ef0da0ea7"
+      "path": "_next/static/chunks/app/(entry)/page-c4ab00bbd0043678.js",
+      "bytes": 478,
+      "sha256": "3016f292dec56f950443a976276b59a3192efe2587db3ebf3c0099e9f6e5182a"
     },
     {
-      "path": "_next/static/chunks/app/[locale]/error-6f39586702cb0fc0.js",
-      "bytes": 17304,
-      "sha256": "eabf04a06cb27f1de1b193206634f21e4c80ff95c47c5cf81fa01296a16a7711"
+      "path": "_next/static/chunks/app/[locale]/[[...segments]]/page-1ee1eb89fe218c68.js",
+      "bytes": 24667,
+      "sha256": "2aedd217007b441ce29b979892fa118adc414418d38a0db82f9debcb3c9065e1"
     },
     {
-      "path": "_next/static/chunks/app/[locale]/layout-a8fe7af14cd10cd9.js",
-      "bytes": 6428,
-      "sha256": "3762459fd60e04039d4d7d09ab2cad1fb94d4d3d0872832f0fa66f30dde2c104"
+      "path": "_next/static/chunks/app/[locale]/error-1c3cdec60018c34e.js",
+      "bytes": 17660,
+      "sha256": "3ac8e8cbcbf5e0b668431dfc018f9a7db03c58ab9d32d98df14f3ca66f1f2d1d"
     },
     {
-      "path": "_next/static/chunks/app/[locale]/not-found-5026dd028b0d2f01.js",
-      "bytes": 17882,
-      "sha256": "dd9c4bd80898070e93e5f61d8e3ee65c659b00202d1417738ab450f2352b7b95"
+      "path": "_next/static/chunks/app/[locale]/layout-28f8676abc8304d0.js",
+      "bytes": 6563,
+      "sha256": "de09f58e642cfc45cc6ed47e01192499ca04bb739889854c213717e2ce42f9b8"
+    },
+    {
+      "path": "_next/static/chunks/app/[locale]/not-found-b6d4d878019ccfb3.js",
+      "bytes": 18238,
+      "sha256": "9b70155983a2fdb6f191e708d014538a15275b754e9237b8e39061718e392ebc"
     },
     {
       "path": "_next/static/chunks/app/_global-error/page-4bdb30172c08c4c0.js",
@@ -217,14 +232,19 @@
       "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683"
     },
     {
-      "path": "_next/static/chunks/webpack-17c4e44fc5ba3e80.js",
-      "bytes": 3548,
-      "sha256": "502e4edd85f55dcb6aaf0f188ecc322c89da5f277b0d1733e6a912513fd2361e"
+      "path": "_next/static/chunks/webpack-fa89e1690bc97481.js",
+      "bytes": 3653,
+      "sha256": "3bfa31b1960e4d095b9dfa21f91bba6b41f57f231ebbb5f8a7f1da7f4b1e9894"
     },
     {
-      "path": "_next/static/css/196506d79b602d4d.css",
-      "bytes": 10325,
-      "sha256": "5aa3a12732b72edfd8c05c28eb81263f9a40a1beda344ce7920f09247a571e20"
+      "path": "_next/static/css/135f072f71bbc9fb.css",
+      "bytes": 44687,
+      "sha256": "5920fd60b967326f515e4323c2a7e2e41ab91daf4a0786885d85ef18c5db4713"
+    },
+    {
+      "path": "_next/static/css/2381d7d503765b4f.css",
+      "bytes": 16283,
+      "sha256": "b9437aaa7ff7b02768e3c5144637055c311d8206c38327af6b6da3bac26616e6"
     },
     {
       "path": "_next/static/css/4235888360b03b60.css",
@@ -232,34 +252,34 @@
       "sha256": "70f3268fb90c85fc7669719e3db7bd0f22859ace31ffbe91699bde43638ab1b0"
     },
     {
-      "path": "_next/static/css/d8c8daf6e1586508.css",
-      "bytes": 44516,
-      "sha256": "f9201f9c6aca3bfb15f711d74e6974c11b7d7d115be8690e8d7d3f065056dd77"
+      "path": "_next/static/css/ea01590eefac52e1.css",
+      "bytes": 13401,
+      "sha256": "f429719534edff15735b29e4b61e4a4626e7839fe6db1c09d2d896ab076c506d"
     },
     {
       "path": "_not-found/__next._full.txt",
       "bytes": 2793,
-      "sha256": "9a86b98634284e4b379fc0bddbdddb011588cf083a3d1bfd649725e0d3cbe0fe"
+      "sha256": "72b0232fe19a0c1e3379da0b9119a6e2955b8f841504620349199919ca485d73"
     },
     {
       "path": "_not-found/__next._not-found.__PAGE__.txt",
       "bytes": 2444,
-      "sha256": "31dfbe4ff441506739d1b932163a9049fcfbce2574e89c396f14aef4ffe9604b"
+      "sha256": "e5347a043f2fa0e94fb611d59913de359b02d0980492b3ccaf19ea6f8c8edbaa"
     },
     {
       "path": "_not-found/__next._tree.txt",
       "bytes": 218,
-      "sha256": "63cfa3535ab1489e67a8516e3a49fa52f3ac601b7beb9440766154b614bc29dd"
+      "sha256": "882654fdfae8efc1d06a76cb4ec5019d717eec9dfa86c92b8106da688fdf072d"
     },
     {
       "path": "_not-found/index.html",
       "bytes": 4653,
-      "sha256": "fa90bc913aae6ff535a4baee7aa1bf8990d85d94ae7ec1f1b39393df6af29c2d"
+      "sha256": "d517eac0cb95b85a9bf163b32032248fa2d1f04f579d546e2b49875adc114c8d"
     },
     {
       "path": "_not-found/index.txt",
       "bytes": 2793,
-      "sha256": "9a86b98634284e4b379fc0bddbdddb011588cf083a3d1bfd649725e0d3cbe0fe"
+      "sha256": "72b0232fe19a0c1e3379da0b9119a6e2955b8f841504620349199919ca485d73"
     },
     {
       "path": "assets/KaTeX-LICENSE.txt",
@@ -273,243 +293,243 @@
     },
     {
       "path": "assets/desk-posters/desktop-A-brown.webp",
-      "bytes": 20318,
-      "sha256": "c00fd1250670138afa2e33a64ca4702dcd4b346527754676b488835937becb2b"
+      "bytes": 22174,
+      "sha256": "8cb6475d7c334c9c8a2007f166fea66b7115d11e73936eb338b0d3283ee00a7b"
     },
     {
       "path": "assets/desk-posters/desktop-A-dark.webp",
-      "bytes": 20724,
-      "sha256": "5c68cb3aeb668009915f2d4180da15482f5e008ab1ea0ec64e79eca938f3bc6b"
+      "bytes": 22350,
+      "sha256": "8526bdbd24535681c202faebc10d9e9dd448acc2e73777c61cc4e8866010d09d"
     },
     {
       "path": "assets/desk-posters/desktop-A-metal.webp",
-      "bytes": 20218,
-      "sha256": "cda2ddb5878041e70903e435a594a6ca354cf95959f8ff447b7dd0b91e06dfce"
+      "bytes": 22096,
+      "sha256": "ca333bef52efd9c5a288c67c07facc3ff88d2fe423667cf86ea027d22956fac5"
     },
     {
       "path": "assets/desk-posters/desktop-A-none.webp",
-      "bytes": 19920,
-      "sha256": "de1ed99466db6507c30c3e9b62d5ce263a2909dd306e7cfec4e408bd3eef027a"
+      "bytes": 21846,
+      "sha256": "461900b4efb24c9dbf10ddcc6f7f742c1da651fcb7b3b26ae77f23e9754d49e8"
     },
     {
       "path": "assets/desk-posters/desktop-B-brown.webp",
-      "bytes": 19852,
-      "sha256": "2153a78955895b3e29ed42324db98f44d6e259efbb3e627f1f1b22f80d5f5610"
+      "bytes": 21750,
+      "sha256": "879d6e6032a5dabfbce065e204fe2657b841552f701ea4da688b720d1f485ae9"
     },
     {
       "path": "assets/desk-posters/desktop-B-dark.webp",
-      "bytes": 20274,
-      "sha256": "bd7bc6b6824a1a09125a3ebbf1252c4c287aae8118381d71cc2512299ebdd0b3"
+      "bytes": 21910,
+      "sha256": "5ef29c953f010cd3ad015a5e0975d3036cb3bb426590d874d5e9df1643969aed"
     },
     {
       "path": "assets/desk-posters/desktop-B-metal.webp",
-      "bytes": 19746,
-      "sha256": "b0bc34a888cc46be7dde74509ea4da5740b035a16f3811f9934f663bb3d2ecf7"
+      "bytes": 21686,
+      "sha256": "cecb6429485b4b3c40eeef9a8ae799afc3afde91566e31979bde0d985aab7bb1"
     },
     {
       "path": "assets/desk-posters/desktop-B-none.webp",
-      "bytes": 19488,
-      "sha256": "17900d0b57bbd3d86c43e39e65eadfea35e971b0f38ddbfea0ed1e8d60ee65ee"
+      "bytes": 21432,
+      "sha256": "ad113b9e56206699fbc6743701bbd92b7c9ec778259e2db718dc63d71d8b6bfe"
     },
     {
       "path": "assets/desk-posters/desktop-C-brown.webp",
-      "bytes": 20262,
-      "sha256": "84cf5e9ebf3a0b85c6b64b1bb0558f6db9e4118f3cc4f2ad015d41d94770c7cc"
+      "bytes": 22082,
+      "sha256": "471188efa009d75d35f614383f2fabd692b1f4712faed7204ed9f536f45c4bc9"
     },
     {
       "path": "assets/desk-posters/desktop-C-dark.webp",
-      "bytes": 20456,
-      "sha256": "365756c8477893e54da3fa5b243856c192cf3b86951136ec0ef12dd1c833d252"
+      "bytes": 22204,
+      "sha256": "ebcee57e59740a63a0fb3aefdd8e52b10fbd89b19b116c28cbd915f0cd0e7879"
     },
     {
       "path": "assets/desk-posters/desktop-C-metal.webp",
-      "bytes": 20102,
-      "sha256": "7d1a8a8414a4445258ed1918b582a57aabaf2f7fb98b90dc3c1d9fd4e2a2e121"
+      "bytes": 21990,
+      "sha256": "f0333e8d70b4cc34548398c9aca25105f0f002952f76494428e3b999d43259c0"
     },
     {
       "path": "assets/desk-posters/desktop-C-none.webp",
-      "bytes": 19858,
-      "sha256": "e9aa06f751ca3bc6d37198ca11f1ae18dc15c2c46d6e535e55dff02e3c871c06"
+      "bytes": 21682,
+      "sha256": "e0f5787b28c0988e63013ee55eac1ff8fcb1465774ce31e5ebe72a45f58dbcba"
     },
     {
       "path": "assets/desk-posters/desktop-D-brown.webp",
-      "bytes": 20510,
-      "sha256": "4d9bd3117a3d92286264db49e6c08e216d0b43f36452921b0e5d8b5431bb0261"
+      "bytes": 22196,
+      "sha256": "044dc974c18493ef1209f29ba2711b4ff202429a46d395fdaaf5f75281d08938"
     },
     {
       "path": "assets/desk-posters/desktop-D-dark.webp",
-      "bytes": 20642,
-      "sha256": "1be9e7beac1c40e335db986be501285e531da1b4af53236047ee281482440c94"
+      "bytes": 22326,
+      "sha256": "371c36b7fb563567053e3503fc266f98f18fe1f8112d9bf6e854dc55fdff6a60"
     },
     {
       "path": "assets/desk-posters/desktop-D-metal.webp",
-      "bytes": 20146,
-      "sha256": "34b5378ca089ba008c1bc0efea6e1b000eea9ac42de166ac199712cd6da5f35d"
+      "bytes": 22058,
+      "sha256": "ace6f8fa90b754f97a5725285dc2a0436475e2f9471c5e1b280f5f82ed8f179b"
     },
     {
       "path": "assets/desk-posters/desktop-D-none.webp",
-      "bytes": 19894,
-      "sha256": "492406eb5b4c0bacd215a25396675c6ba63b89c8cffd58707c476ff7878e046a"
+      "bytes": 21790,
+      "sha256": "b49274b88ef137f72fd0e3fc4c69fb60ce00139d33808148d8d0b88b2ac6f0f3"
     },
     {
       "path": "assets/desk-posters/mobile-A-brown.webp",
-      "bytes": 10588,
-      "sha256": "de4bec521c5a4e788996a926025620e0436a169974c0114206295ac856b88d66"
+      "bytes": 11344,
+      "sha256": "967fa1000fc1a08db8f8ff3cc46b995b090888880cc9946c3b69c0117157a0df"
     },
     {
       "path": "assets/desk-posters/mobile-A-dark.webp",
-      "bytes": 10712,
-      "sha256": "1dfde3e898363c514484e81df06651f80793909dc05ce7a37a36d12fc516107e"
+      "bytes": 11420,
+      "sha256": "2d520aaf3d5e0bc43ca67436960689a5ec3fec0969ba625aa0225a06fc285145"
     },
     {
       "path": "assets/desk-posters/mobile-A-metal.webp",
-      "bytes": 10584,
-      "sha256": "b107e2e05b895c7cb65fcdfdca0e382e5f34da754e33e334b8dcfcb3166fdc9b"
+      "bytes": 11316,
+      "sha256": "40bc2134d713c2a3a138a0b59226c66382f0071dc84d89f0dca32153c04e0db5"
     },
     {
       "path": "assets/desk-posters/mobile-A-none.webp",
-      "bytes": 10430,
-      "sha256": "a0ffb8adfe4ea28e5dd12e40435903cb5c64026c44aba7539eef8bd718b0514b"
+      "bytes": 11186,
+      "sha256": "b3b42880bbf1bcf9f44691361c6e5b4f88ab48790f6b499ad4522670118a939e"
     },
     {
       "path": "assets/desk-posters/mobile-B-brown.webp",
-      "bytes": 10394,
-      "sha256": "819abd502ad9b5b42d3af4b8b4f4b91e88110f179f8f78020b3f72f40b7087b9"
+      "bytes": 11184,
+      "sha256": "3808e596ea9dbffc8450d90ebe130349a400416546cdd8d1daf96d28eec90437"
     },
     {
       "path": "assets/desk-posters/mobile-B-dark.webp",
-      "bytes": 10504,
-      "sha256": "a5b4e4b6333fd55897d4fc3c5b0ac694f127863b667cffbc61e6370de9cac00b"
+      "bytes": 11246,
+      "sha256": "144e5db9c278b53f49e289c6a6b76a0def2d72bc400b528ed2e61c58c541f64e"
     },
     {
       "path": "assets/desk-posters/mobile-B-metal.webp",
-      "bytes": 10366,
-      "sha256": "d12895ade2aaac1fbb954074a10a00e563df37d255b9500c0ce996db50908b2a"
+      "bytes": 11146,
+      "sha256": "a2b598a3958954204e0d77e928abc70df55f7da1d55196f87ab54a6b6735b406"
     },
     {
       "path": "assets/desk-posters/mobile-B-none.webp",
-      "bytes": 10192,
-      "sha256": "36da4237442aba9fc017be11d72731e7206f167ea82261d365b4c395ee3da03f"
+      "bytes": 11006,
+      "sha256": "7d46269b5839ade4b8156475e3ddf027070afdec1772912d6da9db2fb43bbab9"
     },
     {
       "path": "assets/desk-posters/mobile-C-brown.webp",
-      "bytes": 10548,
-      "sha256": "3e7ea2046ba9f0840d569d523232ffd3bc65f3d7f93b507f81f1961a5ebeb90c"
+      "bytes": 11318,
+      "sha256": "1d7b3197e2161c32c4971458f0b9949790f9c4ca7c26fd650eef83f9fe6d1971"
     },
     {
       "path": "assets/desk-posters/mobile-C-dark.webp",
-      "bytes": 10696,
-      "sha256": "ec93c988ac70f2ee71db5d142bbae1ece1fd84cc7d7a6758799a3974ed653f04"
+      "bytes": 11420,
+      "sha256": "2d11c3c43ff34b8fd20970f2686e9eb600bafee99a95d22d749a377a98003721"
     },
     {
       "path": "assets/desk-posters/mobile-C-metal.webp",
-      "bytes": 10596,
-      "sha256": "a157d80c31d77c0968a396b14a2a2619e72dc4fcc053859ed56fd74d8a7dd9d8"
+      "bytes": 11284,
+      "sha256": "c8810232710f1c839713cfaade4f71afa31a48cb812f11cd1022e7593634bfc6"
     },
     {
       "path": "assets/desk-posters/mobile-C-none.webp",
-      "bytes": 10382,
-      "sha256": "3c05d9b1c2e03099c0e20834cce0f9db0be5bfa05bbe32bba541050a18a92bd2"
+      "bytes": 11128,
+      "sha256": "084cd8487edca15464d8bfdd05ac4fe0652f3c8be72919efb66a1a7273e90caa"
     },
     {
       "path": "assets/desk-posters/mobile-D-brown.webp",
-      "bytes": 10686,
-      "sha256": "f4ab32c2fe7da5c4e6382e20b8990def17b98485dccf92a27c96096ff5a793d0"
+      "bytes": 11398,
+      "sha256": "f4e4598d2f5ff0769f2dac4705bc08e7888a263fa770b98c9f2f232522ef13ef"
     },
     {
       "path": "assets/desk-posters/mobile-D-dark.webp",
-      "bytes": 10742,
-      "sha256": "73be8d102f0b022d46b07bfb93ccdb8a3a5df819247e7300588ec8d39975d618"
+      "bytes": 11482,
+      "sha256": "a2ff5b4f8ffcde2de11123b8b1b4963a67a832c9c74105943e4653a13f387522"
     },
     {
       "path": "assets/desk-posters/mobile-D-metal.webp",
-      "bytes": 10614,
-      "sha256": "530f4be61291252bfce5bde952f98bd097c7bb7b4478a85a09326caab105565d"
+      "bytes": 11346,
+      "sha256": "33594d5c42a08cf676459a03c088213f7e1bd3f6781cb5ef7b10a929f5cd76c3"
     },
     {
       "path": "assets/desk-posters/mobile-D-none.webp",
-      "bytes": 10440,
-      "sha256": "9edec73f18b1ec4ff47b26e6da046bb7425f5e7371f26b48cab8d083dbbd183b"
+      "bytes": 11186,
+      "sha256": "8929110747b58c2c93fd107a3be1e90a1f17a3a752bd519c2d293171602ee420"
     },
     {
       "path": "assets/desk-posters/tablet-A-brown.webp",
-      "bytes": 13752,
-      "sha256": "e1dbd228320cb27bc9d671dac5763625d5405734b2191f79276c50d896d64429"
+      "bytes": 14832,
+      "sha256": "60d8bee4832f759b9ed66555115f4b70503e112a82bdff199d0f7aed04e8e0a6"
     },
     {
       "path": "assets/desk-posters/tablet-A-dark.webp",
-      "bytes": 13908,
-      "sha256": "1f8daccfefc5d5dd764d33a3bd4307f0f117a6b458ca0371797bbfe618ce966b"
+      "bytes": 14952,
+      "sha256": "b150197c4a3bce8087064cd6eea531ad694700571e6caf1daa9d998053480418"
     },
     {
       "path": "assets/desk-posters/tablet-A-metal.webp",
-      "bytes": 13644,
-      "sha256": "67d91d733e050afcfb4d17612d554e2833edad558f6046d3b9ab0e112dc90aa4"
+      "bytes": 14712,
+      "sha256": "13a15a98b8fb20cef4ba846d9028d678409b33061a633c19d41c5a962b541318"
     },
     {
       "path": "assets/desk-posters/tablet-A-none.webp",
-      "bytes": 13498,
-      "sha256": "7b5409d62bee882910ccdf0cec99953d3e1ba1ea4361cd4b8400b76290891bf5"
+      "bytes": 14560,
+      "sha256": "32fd29d1bc200ba33e7df9745db305e43f019bb76b435fc9f1bc1ecf165ed0ae"
     },
     {
       "path": "assets/desk-posters/tablet-B-brown.webp",
-      "bytes": 13636,
-      "sha256": "c00f90febe1f43f05a45afd679dea310acd39adb29361ab9ecee667d8cbca9d4"
+      "bytes": 14610,
+      "sha256": "0745f2852cff40231d29db7771e52d74647bd86416a409bb289f00e9fafe7811"
     },
     {
       "path": "assets/desk-posters/tablet-B-dark.webp",
-      "bytes": 14022,
-      "sha256": "532df51451169dd16564230318da455955d545d4b1d31ee809c8bc6f50b52bdc"
+      "bytes": 14708,
+      "sha256": "dcd258ecbbbb42d829849b85513c6d17552e2c44858de32e033cf6317e71769a"
     },
     {
       "path": "assets/desk-posters/tablet-B-metal.webp",
-      "bytes": 13542,
-      "sha256": "79cf5a377eb3012baa1c48b07e02bccdbb60ba59a9561dd435f51e68570fd308"
+      "bytes": 14510,
+      "sha256": "7085e8be6de71c4f3b3a16e5d52518222838c2663c26de51665a861d6dbbd9d4"
     },
     {
       "path": "assets/desk-posters/tablet-B-none.webp",
-      "bytes": 13336,
-      "sha256": "176e54f8710ab885faf9450bb4f6b7700fd77fae930077a085db640561bf20e1"
+      "bytes": 14342,
+      "sha256": "840342e1ca7fffc99ef5aee3ba514520497f2ca8172902ec118e7868ede83d9b"
     },
     {
       "path": "assets/desk-posters/tablet-C-brown.webp",
-      "bytes": 13760,
-      "sha256": "10e6ecd397735cedccbb53285481e6799ab87857e27e5769584b6247c296c031"
+      "bytes": 14758,
+      "sha256": "35e7b20cbf556509c6e6420646569feaa8874ac9d2baa6a8205ea5f3798a3402"
     },
     {
       "path": "assets/desk-posters/tablet-C-dark.webp",
-      "bytes": 13916,
-      "sha256": "dbd2ac0ff3bae6ee6d19c79b8f02e012b5b1cd54941934dc3f64e8a4dad03e3f"
+      "bytes": 14840,
+      "sha256": "5c858024663a616cf8fb9cb66c2f8200f8f26c50183a0ab774e141532f801fa4"
     },
     {
       "path": "assets/desk-posters/tablet-C-metal.webp",
-      "bytes": 13612,
-      "sha256": "ee0f680dee39440fb0fa125caf0940b4418fc761c96bab9fee0159a90b8ed499"
+      "bytes": 14658,
+      "sha256": "a4a64dd724bc680759b0101b87b01219b5e07718d305be3c3a4af9472c661fd8"
     },
     {
       "path": "assets/desk-posters/tablet-C-none.webp",
-      "bytes": 13526,
-      "sha256": "94a02c52ae67d76aaaeac4009b35aa84b897baf02ad4f2520b41f50a64e64d18"
+      "bytes": 14516,
+      "sha256": "b6ab16a3d8a7410875cb45859049066442d8d58773c769c000b81bec62b02875"
     },
     {
       "path": "assets/desk-posters/tablet-D-brown.webp",
-      "bytes": 13728,
-      "sha256": "b55e78f4723c166c7b7351885eaf3a0a13da984f871e5381a59e8b043564eea1"
+      "bytes": 14768,
+      "sha256": "d0bec5691ffd97e2569286b77727b567a1ea232e1c946060af31829941179fb8"
     },
     {
       "path": "assets/desk-posters/tablet-D-dark.webp",
-      "bytes": 13848,
-      "sha256": "8b40d8e50eb35e2d79ef099f6801273efe837efa06d1b09f677acc2d32bfa784"
+      "bytes": 14862,
+      "sha256": "8dd57dbe4173960d4593c268aa09771609a137925edd2b3e9c3c11dfbf0654b0"
     },
     {
       "path": "assets/desk-posters/tablet-D-metal.webp",
-      "bytes": 13590,
-      "sha256": "9c867436bb7bb1f5b6bccdf1d26087ec68e5062b5db70889e6e718146d0bddd2"
+      "bytes": 14618,
+      "sha256": "51f97680e127379d2e8c7617139a5351f7b5036a4fdc15f2c3f3881d2715c5a3"
     },
     {
       "path": "assets/desk-posters/tablet-D-none.webp",
-      "bytes": 13466,
-      "sha256": "e8e473d1c8799f27166441bbf0c90ba399bab9060e618dd4bfac49b11747d763"
+      "bytes": 14496,
+      "sha256": "7b4702ad548baf5b6457eee74d7dff02572449aea2fb8a59354aebe30469f03d"
     },
     {
       "path": "assets/desk-preview.svg",
@@ -873,963 +893,1113 @@
     },
     {
       "path": "en/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 45239,
-      "sha256": "19251ac18ebc975aaaedb4877f72f069847eefcce596589afaa6923fa017806f"
+      "bytes": 55505,
+      "sha256": "ac343eac23b878bffbc29afd9eb297508ad33a06b29bf5ac1d4cb97ec384a12c"
     },
     {
       "path": "en/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/__next._full.txt",
-      "bytes": 51125,
-      "sha256": "d26778b295def29538096b5def19fa31a00701d5b9676220a383377d5525fa4c"
+      "bytes": 62069,
+      "sha256": "8e45a3acff3dd15d8241e5da7f676c83886ded7b3dd6b0dc210fbaf16b8f6ee8"
     },
     {
       "path": "en/__next._tree.txt",
-      "bytes": 555,
-      "sha256": "a71d89b3ec866380edb58da72f554c6147bbe28f5492b3f617b6655be02a071c"
+      "bytes": 609,
+      "sha256": "e9fca60ecb61c4f156da8f9e349c13f138d311387e56ef01cb591d46659125c3"
     },
     {
       "path": "en/about/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 24560,
-      "sha256": "f343b1dbabd364afb84ea7a69ddaf1d9f618cb23792d9f2a3fe27e39b1914b57"
+      "bytes": 25515,
+      "sha256": "f9a1c671bd4a8d29f133cfcef29b05877e45d1b3edb75c59f1fc5212e67d32d8"
     },
     {
       "path": "en/about/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/about/__next._full.txt",
-      "bytes": 38699,
-      "sha256": "34578841611cf7f2c1352c142e8afaebcb852b3d98f9f255cb4ebd709c188a88"
+      "bytes": 40450,
+      "sha256": "de70017ee76fb37bef4cecd14b41b8ae5c266f90882e51c2291e8abd4c0f2452"
     },
     {
       "path": "en/about/__next._tree.txt",
-      "bytes": 560,
-      "sha256": "dc40013ea9d383b3cbcd6659f1a6ccf87e4e607e6b89205c343902bc5055a5bc"
+      "bytes": 614,
+      "sha256": "834bfce831f5856a2b4394119ec25f02e35a741ca28aa9acdcc6977fd550ca74"
     },
     {
       "path": "en/about/index.html",
-      "bytes": 64131,
-      "sha256": "0221e3203a55706fcf67d5869cf66b91e51166f31af35556f739c8029c27d3ce"
+      "bytes": 67323,
+      "sha256": "58927485224b1d42377a11f0b4e567c891cfa5cf144eb4240920510942685492"
     },
     {
       "path": "en/about/index.txt",
-      "bytes": 38699,
-      "sha256": "34578841611cf7f2c1352c142e8afaebcb852b3d98f9f255cb4ebd709c188a88"
+      "bytes": 40450,
+      "sha256": "de70017ee76fb37bef4cecd14b41b8ae5c266f90882e51c2291e8abd4c0f2452"
     },
     {
       "path": "en/contact/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 13716,
-      "sha256": "8de514104b389850309dde8b47c11963700a86cd3ecf4f25d381112bb1d50490"
+      "bytes": 14413,
+      "sha256": "a1d6d617830aaee051bc875db710181c687ba35778f1b31b501ad58c1ae68dd6"
     },
     {
       "path": "en/contact/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/contact/__next._full.txt",
-      "bytes": 19696,
-      "sha256": "2230c65fd8d0bf18b8e14a43001193d17b72d703e81d4417595f1ab013c0c8d3"
+      "bytes": 21108,
+      "sha256": "5d6ed6886993f65e2d53ab0d23e752992a5dac1829b742c988ebfb058acc694a"
     },
     {
       "path": "en/contact/__next._tree.txt",
-      "bytes": 562,
-      "sha256": "46eae74856967a70470a756dad72afc7567911d63344194996c6a283e5ff8549"
+      "bytes": 616,
+      "sha256": "abb0b299ec25bec83ea13ed20a381208eed60ade73603747449613a3c37e6cf0"
     },
     {
       "path": "en/contact/index.html",
-      "bytes": 29755,
-      "sha256": "043a030a678f402bce8ea048e4c3d44275fb369e81102206fd94a56f282ce4f9"
+      "bytes": 32211,
+      "sha256": "2a4b9ac20aad2c9848eb8187c29f75984358607566e785122719029746f1b8fa"
     },
     {
       "path": "en/contact/index.txt",
-      "bytes": 19696,
-      "sha256": "2230c65fd8d0bf18b8e14a43001193d17b72d703e81d4417595f1ab013c0c8d3"
+      "bytes": 21108,
+      "sha256": "5d6ed6886993f65e2d53ab0d23e752992a5dac1829b742c988ebfb058acc694a"
+    },
+    {
+      "path": "en/credits/__next.$d$locale.$oc$segments.__PAGE__.txt",
+      "bytes": 28872,
+      "sha256": "cf2593736fd2fee4f8bd6137101b6b93b082aeeb5ca1d9c5ada2e50499d21cbe"
+    },
+    {
+      "path": "en/credits/__next.$d$locale.txt",
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
+    },
+    {
+      "path": "en/credits/__next._full.txt",
+      "bytes": 44185,
+      "sha256": "09601d9c05833338c9d11630e4a47a97bd7e54126e2d90075f458aaff377df6d"
+    },
+    {
+      "path": "en/credits/__next._tree.txt",
+      "bytes": 616,
+      "sha256": "5e36608c5f5e4a3a66464dce806fbfa2fc0bb5474d98c9c2c7ea5ad150014675"
+    },
+    {
+      "path": "en/credits/index.html",
+      "bytes": 75787,
+      "sha256": "74c2b3e35d4694d91f928269e9b37c817a8588f95a2afb567b4bc16621419646"
+    },
+    {
+      "path": "en/credits/index.txt",
+      "bytes": 44185,
+      "sha256": "09601d9c05833338c9d11630e4a47a97bd7e54126e2d90075f458aaff377df6d"
     },
     {
       "path": "en/cv/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 36754,
-      "sha256": "d01952de30b6a9fbd450daf4cb2233e3a8f0a7bdbd90c71590074c7968e299bf"
+      "bytes": 37950,
+      "sha256": "48372a4d5058a1a5cac15cb1893301f706caaebc0075666a5c28f24999f5c7b0"
     },
     {
       "path": "en/cv/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/cv/__next._full.txt",
-      "bytes": 50877,
-      "sha256": "d0f8601b5c2e3edea62629a0ed833efe2826c5b9d7ca089ef84264d51d8dd908"
+      "bytes": 52920,
+      "sha256": "e709fd57a35c68e7e74ac738fba48a3755344c80981a37288f9e0ad38a0d26f0"
     },
     {
       "path": "en/cv/__next._tree.txt",
-      "bytes": 557,
-      "sha256": "37945720a99ecf415f453f5f5561aa542d564d987aedc1810af51699d39c8f58"
+      "bytes": 611,
+      "sha256": "9d8aa24f2bc314d736237f907f631a0d8dbc17d1515a7ca7259000ac5cbd2303"
     },
     {
       "path": "en/cv/index.html",
-      "bytes": 86028,
-      "sha256": "30852aac0650fadf212887ad74d5bb3cde746fbc761b7270dc51fdd63368eaf3"
+      "bytes": 89741,
+      "sha256": "f1d7536e1e2a6f4c1f62906f9cbbd6346fcbbdda93badf06b94acb89bd6c7015"
     },
     {
       "path": "en/cv/index.txt",
-      "bytes": 50877,
-      "sha256": "d0f8601b5c2e3edea62629a0ed833efe2826c5b9d7ca089ef84264d51d8dd908"
+      "bytes": 52920,
+      "sha256": "e709fd57a35c68e7e74ac738fba48a3755344c80981a37288f9e0ad38a0d26f0"
+    },
+    {
+      "path": "en/explore/__next.$d$locale.$oc$segments.__PAGE__.txt",
+      "bytes": 47166,
+      "sha256": "745d59f00f0f476d88eed5a2c66bcfc85cf91dee70a1d44a0cce2d3a8afc2451"
+    },
+    {
+      "path": "en/explore/__next.$d$locale.txt",
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
+    },
+    {
+      "path": "en/explore/__next._full.txt",
+      "bytes": 62091,
+      "sha256": "d95436f979b49b89a30dc3224f66e7818303ae7a13cf4fd4d635f0c293b4d37e"
+    },
+    {
+      "path": "en/explore/__next._tree.txt",
+      "bytes": 616,
+      "sha256": "7cc25241495e2a21fbd1fe61e0183aac5e97a5afc99ffebc31379809d39388e6"
+    },
+    {
+      "path": "en/explore/google-durham-visit/__next.$d$locale.$oc$segments.__PAGE__.txt",
+      "bytes": 8157,
+      "sha256": "85c9a5c709c328a0d0877cf9ded8e1fcbec51de2fa805e4ddb53d07dfec5696d"
+    },
+    {
+      "path": "en/explore/google-durham-visit/__next.$d$locale.txt",
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
+    },
+    {
+      "path": "en/explore/google-durham-visit/__next._full.txt",
+      "bytes": 23174,
+      "sha256": "0d25b06fb87c4aea9608da7475e6ae9fdcee977b684030f7d5908b0372e2805b"
+    },
+    {
+      "path": "en/explore/google-durham-visit/__next._tree.txt",
+      "bytes": 636,
+      "sha256": "444662750c0fb80494bddbe92c7a2aed8513915042a5f9de260e72f490450b3c"
+    },
+    {
+      "path": "en/explore/google-durham-visit/index.html",
+      "bytes": 36209,
+      "sha256": "6f02a732199e1733ee504fc59fae2bbff47cff07061432ef4c15d084258c4f6e"
+    },
+    {
+      "path": "en/explore/google-durham-visit/index.txt",
+      "bytes": 23174,
+      "sha256": "0d25b06fb87c4aea9608da7475e6ae9fdcee977b684030f7d5908b0372e2805b"
+    },
+    {
+      "path": "en/explore/index.html",
+      "bytes": 104289,
+      "sha256": "f5f0c2741fe6ee0a56332d7885e77aee3f813854180ac36d0044baf1f309678b"
+    },
+    {
+      "path": "en/explore/index.txt",
+      "bytes": 62091,
+      "sha256": "d95436f979b49b89a30dc3224f66e7818303ae7a13cf4fd4d635f0c293b4d37e"
+    },
+    {
+      "path": "en/explore/nesime-tatbul-text-to-sql-talk/__next.$d$locale.$oc$segments.__PAGE__.txt",
+      "bytes": 8879,
+      "sha256": "e7edd0d353379f16f96666350a73bd2f2ecd8d5859af0f6b7ecc4afe7e9180db"
+    },
+    {
+      "path": "en/explore/nesime-tatbul-text-to-sql-talk/__next.$d$locale.txt",
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
+    },
+    {
+      "path": "en/explore/nesime-tatbul-text-to-sql-talk/__next._full.txt",
+      "bytes": 23897,
+      "sha256": "ec96f2a39606231891f9609e0fb326015d215f649e59e7dfd0e8226c9dd00c13"
+    },
+    {
+      "path": "en/explore/nesime-tatbul-text-to-sql-talk/__next._tree.txt",
+      "bytes": 647,
+      "sha256": "2ddf8530f01d7eb0d3250ffab5d2f3a08b18e3ed642dc9a50187d827ca89b5a3"
+    },
+    {
+      "path": "en/explore/nesime-tatbul-text-to-sql-talk/index.html",
+      "bytes": 37643,
+      "sha256": "13aad7edef1945447385e5832c53695451510569e3a61839e498a2c09d676391"
+    },
+    {
+      "path": "en/explore/nesime-tatbul-text-to-sql-talk/index.txt",
+      "bytes": 23897,
+      "sha256": "ec96f2a39606231891f9609e0fb326015d215f649e59e7dfd0e8226c9dd00c13"
+    },
+    {
+      "path": "en/explore/starship-engineering-inspiration/__next.$d$locale.$oc$segments.__PAGE__.txt",
+      "bytes": 7267,
+      "sha256": "237d73b1d0bbe837f5c5ea9fba5e19e67a4bab7069844028c66a2696d4ebcaf1"
+    },
+    {
+      "path": "en/explore/starship-engineering-inspiration/__next.$d$locale.txt",
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
+    },
+    {
+      "path": "en/explore/starship-engineering-inspiration/__next._full.txt",
+      "bytes": 22327,
+      "sha256": "edd15d8cb8f3b92cf0ec473d4a91f9dfa2ef75a8b7fed92706d6387c8d1db5e1"
+    },
+    {
+      "path": "en/explore/starship-engineering-inspiration/__next._tree.txt",
+      "bytes": 649,
+      "sha256": "4f2cd791ec37bf2210a3327fe72006182cf041be8a0ad31b0952634f13152c6c"
+    },
+    {
+      "path": "en/explore/starship-engineering-inspiration/index.html",
+      "bytes": 34545,
+      "sha256": "de107044d16f4155f5981a605747caeedd21bad14026f6cbe1c1681324b7ed91"
+    },
+    {
+      "path": "en/explore/starship-engineering-inspiration/index.txt",
+      "bytes": 22327,
+      "sha256": "edd15d8cb8f3b92cf0ec473d4a91f9dfa2ef75a8b7fed92706d6387c8d1db5e1"
     },
     {
       "path": "en/index.html",
-      "bytes": 90355,
-      "sha256": "eaee22cb6bd083630cb220dd695189076ee59d799baa3de1dd746365d24ff105"
+      "bytes": 109622,
+      "sha256": "cae9f235e7fae76701a042b018cd38f055d621a9432c0f934c725096debc1c9c"
     },
     {
       "path": "en/index.txt",
-      "bytes": 51125,
-      "sha256": "d26778b295def29538096b5def19fa31a00701d5b9676220a383377d5525fa4c"
+      "bytes": 62069,
+      "sha256": "8e45a3acff3dd15d8241e5da7f676c83886ded7b3dd6b0dc210fbaf16b8f6ee8"
     },
     {
       "path": "en/learning/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 25573,
-      "sha256": "feaca566bc1ebe9f771d6e75ca83592c34fa25470ada3c0f1ca26b063a2cc368"
+      "bytes": 20730,
+      "sha256": "45a3785ff6a667bc577c256ca110c372f0f0c4a744c706b8037b7b45294d1caf"
     },
     {
       "path": "en/learning/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/__next._full.txt",
-      "bytes": 39722,
-      "sha256": "44529335b94cf29ef967d2306c7a5b333741b54c5b46bfc9eb11e9035aa71163"
+      "bytes": 35726,
+      "sha256": "d98132e39ab55fe4d5ca2b32f69ec7f79294d8b730e49a449b2f4252b7919093"
     },
     {
       "path": "en/learning/__next._tree.txt",
-      "bytes": 563,
-      "sha256": "31edab606ae26bd9d912267fa4e5e0cb2d622f2b5cc444bf93c1ec931a16b49d"
+      "bytes": 617,
+      "sha256": "ce27be699f43e8f2c409b9a83af8957e7ce831550a2663d124e702858cf80319"
     },
     {
       "path": "en/learning/duke-advanced-web-development/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6254,
-      "sha256": "8cd1b204e2a0f3801630956d3de956cf9c80f2fdb710dcfe0f55a43f9cd48c55"
+      "bytes": 6303,
+      "sha256": "75fc41c964e096035b17c333b125533c459aa3b5063a9edf66bdb16ac2b8341d"
     },
     {
       "path": "en/learning/duke-advanced-web-development/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/duke-advanced-web-development/__next._full.txt",
-      "bytes": 20461,
-      "sha256": "28bc7eead01a4d419bb04592936a1d0ace1f9cebf555141f10ad73b580fa1cd8"
+      "bytes": 21356,
+      "sha256": "c7c5dbbac95c8ccedc222eff6e15dc2da5dc83f991a7bf22f98843c7d38becb2"
     },
     {
       "path": "en/learning/duke-advanced-web-development/__next._tree.txt",
-      "bytes": 593,
-      "sha256": "3367c345fef1ec65041a65824022d8a18ac6727ce44d3d45443fbfb5e881bfe4"
+      "bytes": 647,
+      "sha256": "f4742c57b6af0e2b813dd3653e061feb9eaf92c11c0c7c8101bcc9915a2e79cf"
     },
     {
       "path": "en/learning/duke-advanced-web-development/index.html",
-      "bytes": 31228,
-      "sha256": "d5780c5418cafbdcc6eb27e6331e3da6487d10d8a5b99b7d1c0e5248f2b72b26"
+      "bytes": 32783,
+      "sha256": "eff4dbc87aaa07aaae319f903c7f28b2bf4a67e3e529e4e124a6941d7c5adf8d"
     },
     {
       "path": "en/learning/duke-advanced-web-development/index.txt",
-      "bytes": 20461,
-      "sha256": "28bc7eead01a4d419bb04592936a1d0ace1f9cebf555141f10ad73b580fa1cd8"
+      "bytes": 21356,
+      "sha256": "c7c5dbbac95c8ccedc222eff6e15dc2da5dc83f991a7bf22f98843c7d38becb2"
     },
     {
       "path": "en/learning/duke-ai-product-management/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6312,
-      "sha256": "d37db77c6a8be1a23a025ef521bd5ee2ee8e71332b456312d6accfe85d4309a7"
+      "bytes": 6361,
+      "sha256": "b3f1479f14814116f2d4c62da0030c67c13778c320d0fa5cdab77a0adc6f9b5a"
     },
     {
       "path": "en/learning/duke-ai-product-management/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/duke-ai-product-management/__next._full.txt",
-      "bytes": 20516,
-      "sha256": "4855a2b74bae3c634052cb1e452e7355d8c2e81843d10d5251bd5410416176bb"
+      "bytes": 21411,
+      "sha256": "26fb8a1847b539318df8f1d9c05b0edc7cd525d21dc21e113426c5edce1ed680"
     },
     {
       "path": "en/learning/duke-ai-product-management/__next._tree.txt",
-      "bytes": 590,
-      "sha256": "8ab54c042d290e46622fdab1775d123c88978ae1780724f504a53a96f626c613"
+      "bytes": 644,
+      "sha256": "efd1594cb7604ea9d2522540a5291bdd857e55ea37f09fd39ab0429f1a899a90"
     },
     {
       "path": "en/learning/duke-ai-product-management/index.html",
-      "bytes": 31341,
-      "sha256": "11d8290dcd34eaf2509193959340dda101e2adff94da9259259f44e7b68a683d"
+      "bytes": 32896,
+      "sha256": "c6d7f096759cb0be310f1dbeabee10f2b9099f5e90192415d2d73527290b10ff"
     },
     {
       "path": "en/learning/duke-ai-product-management/index.txt",
-      "bytes": 20516,
-      "sha256": "4855a2b74bae3c634052cb1e452e7355d8c2e81843d10d5251bd5410416176bb"
+      "bytes": 21411,
+      "sha256": "26fb8a1847b539318df8f1d9c05b0edc7cd525d21dc21e113426c5edce1ed680"
     },
     {
       "path": "en/learning/duke-ids-706/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6253,
-      "sha256": "3738153cb671c87584045ae9504ff4b0ee1607999f85026bdda95a1e604f437f"
+      "bytes": 6302,
+      "sha256": "9750082a0a01e6e33034f955bcdc4401c8f1e38d50cd7e4a4397a4e0ee69088a"
     },
     {
       "path": "en/learning/duke-ids-706/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/duke-ids-706/__next._full.txt",
-      "bytes": 20443,
-      "sha256": "b2ff29b93da4b0e9caf8d027209a1ac084dd9e4a546bb86ff296a7067d0a9dfa"
+      "bytes": 21338,
+      "sha256": "dd0506ec8fac1758fa055b088591270991fa396c025a7498759bb0aa322bb7b4"
     },
     {
       "path": "en/learning/duke-ids-706/__next._tree.txt",
-      "bytes": 576,
-      "sha256": "a3d929b6c02999566e0d355712ece70a1079b26939943c686cb8baa7381b792a"
+      "bytes": 630,
+      "sha256": "6c0d06f7075fe08cc3bb620c0a63c2f599e31a6e73f0ad005ae46ade88365d40"
     },
     {
       "path": "en/learning/duke-ids-706/index.html",
-      "bytes": 31209,
-      "sha256": "6c3e1781245e788346eb01e2fe0337fa8665bfb86784111643e1e7b1d7d19d82"
+      "bytes": 32764,
+      "sha256": "8673cc6ec51ba27730b0e3a08a993badd595175833932b198946c73d7728111d"
     },
     {
       "path": "en/learning/duke-ids-706/index.txt",
-      "bytes": 20443,
-      "sha256": "b2ff29b93da4b0e9caf8d027209a1ac084dd9e4a546bb86ff296a7067d0a9dfa"
+      "bytes": 21338,
+      "sha256": "dd0506ec8fac1758fa055b088591270991fa396c025a7498759bb0aa322bb7b4"
     },
     {
       "path": "en/learning/duke-systems-with-danyang-zhuo/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6651,
-      "sha256": "2747317e240dfdb63132833a841b05155bf30d6d45ae91dd4eabf5f84500f887"
+      "bytes": 6700,
+      "sha256": "b613ed88a23aaa6ecd555087f67aa3ade5c1589533e2642c92d88e1f82a42a90"
     },
     {
       "path": "en/learning/duke-systems-with-danyang-zhuo/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/duke-systems-with-danyang-zhuo/__next._full.txt",
-      "bytes": 20859,
-      "sha256": "1fa6907b9de3c915dc1952dc0ee323645ccd93a9b30c36dc738d07c035d537d4"
+      "bytes": 21754,
+      "sha256": "f1e404a75dd7908385459a68c10a660cd27663f49507655107a2ee7acd9bd3d8"
     },
     {
       "path": "en/learning/duke-systems-with-danyang-zhuo/__next._tree.txt",
-      "bytes": 594,
-      "sha256": "6d7ad6b65c3eeb72f018675dd71056677337b5849e9db3212fe24939c842a4a2"
+      "bytes": 648,
+      "sha256": "24b65aec2fdd5c3d8502e600d8613529d318f415b6ef8e92e3d1d73662de9430"
     },
     {
       "path": "en/learning/duke-systems-with-danyang-zhuo/index.html",
-      "bytes": 31974,
-      "sha256": "398c5c0805012a3530a4d022aaff5adf9bb811fd3604b4056be343b405353517"
+      "bytes": 33529,
+      "sha256": "539ac7ef89c31d366440e340e94e8bea21c83eb8b9e8af67f747677528350b1c"
     },
     {
       "path": "en/learning/duke-systems-with-danyang-zhuo/index.txt",
-      "bytes": 20859,
-      "sha256": "1fa6907b9de3c915dc1952dc0ee323645ccd93a9b30c36dc738d07c035d537d4"
+      "bytes": 21754,
+      "sha256": "f1e404a75dd7908385459a68c10a660cd27663f49507655107a2ee7acd9bd3d8"
     },
     {
       "path": "en/learning/google-durham-visit/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6044,
-      "sha256": "e7069aa0fec11561b2f4710ca0e81400c15780ae745c9f0d254e3e1889c7b1d9"
+      "bytes": 8427,
+      "sha256": "42643cde90e4711c92a32d1bca38e12888770e43b92f29768d623272cbeff9b9"
     },
     {
       "path": "en/learning/google-durham-visit/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/google-durham-visit/__next._full.txt",
-      "bytes": 20241,
-      "sha256": "08166ee9643a5dc47b572bc6c8df10c40f8286765c3f7b892bcdd6d28df45f12"
+      "bytes": 23436,
+      "sha256": "1addc71488699a3532eae92882810ad7672abb09f97d7a2aec96f3a946d91c85"
     },
     {
       "path": "en/learning/google-durham-visit/__next._tree.txt",
-      "bytes": 583,
-      "sha256": "013558f55242d15e16f03d4744edea2b78328ba0193d4856d89a0975909861ff"
+      "bytes": 637,
+      "sha256": "fd10d097faaba88634c0a4b86a9f512e42dc491e3c8e07088e76646f4d99a80a"
     },
     {
       "path": "en/learning/google-durham-visit/index.html",
-      "bytes": 30883,
-      "sha256": "2ab6f78380358c2ed0bee514784c9083a0f2059493b4019b405b552df4a06106"
+      "bytes": 36722,
+      "sha256": "266aa493c1ccd7c87aba558f59db282010803615cdb005fa34e4188a642017ac"
     },
     {
       "path": "en/learning/google-durham-visit/index.txt",
-      "bytes": 20241,
-      "sha256": "08166ee9643a5dc47b572bc6c8df10c40f8286765c3f7b892bcdd6d28df45f12"
+      "bytes": 23436,
+      "sha256": "1addc71488699a3532eae92882810ad7672abb09f97d7a2aec96f3a946d91c85"
     },
     {
       "path": "en/learning/index.html",
-      "bytes": 61553,
-      "sha256": "df443284c1ae88ccde0329d1644838b04bd0a4844bce1161885830ceb1a36947"
+      "bytes": 55379,
+      "sha256": "72d134be32686a4f36cc58a6d81ab22b165dc5d6ae20655bab2edd98cce7c932"
     },
     {
       "path": "en/learning/index.txt",
-      "bytes": 39722,
-      "sha256": "44529335b94cf29ef967d2306c7a5b333741b54c5b46bfc9eb11e9035aa71163"
+      "bytes": 35726,
+      "sha256": "d98132e39ab55fe4d5ca2b32f69ec7f79294d8b730e49a449b2f4252b7919093"
     },
     {
       "path": "en/learning/nesime-tatbul-text-to-sql-talk/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5841,
-      "sha256": "feffac50b8309505dac387c2d37dd7c777e44b39dc053ce65bb7932507f97480"
+      "bytes": 9150,
+      "sha256": "85d15811b130d3e86b32f2c805539c3d6febb04af5dd18698e21b2cabe0d6740"
     },
     {
       "path": "en/learning/nesime-tatbul-text-to-sql-talk/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/nesime-tatbul-text-to-sql-talk/__next._full.txt",
-      "bytes": 20049,
-      "sha256": "69d25c45abdf340ae4c803cab7678a1a76d51ba4ed75e4519d89e320e144f241"
+      "bytes": 24170,
+      "sha256": "910b489b104af46a6317a6e35c3a46cbb2e98d45c68844e7aa64122609982970"
     },
     {
       "path": "en/learning/nesime-tatbul-text-to-sql-talk/__next._tree.txt",
-      "bytes": 594,
-      "sha256": "41131ed685bde3d2a9481d7c9547f6f250e8dc080be899d9acdb00da1795d838"
+      "bytes": 648,
+      "sha256": "c184223fb48bad1dcda11becc7ccaef895a0575933de7396bceb4c576307cf68"
     },
     {
       "path": "en/learning/nesime-tatbul-text-to-sql-talk/index.html",
-      "bytes": 30455,
-      "sha256": "e2434cc87cc9372da9b801b205cd601e1c08e2dde0f62a253c8afb74e39401c2"
+      "bytes": 38178,
+      "sha256": "b1cf18a7a169b6f4c8fe88d9b1e13d38960e0a13d294d75af42a6bfb5f6cc4d9"
     },
     {
       "path": "en/learning/nesime-tatbul-text-to-sql-talk/index.txt",
-      "bytes": 20049,
-      "sha256": "69d25c45abdf340ae4c803cab7678a1a76d51ba4ed75e4519d89e320e144f241"
+      "bytes": 24170,
+      "sha256": "910b489b104af46a6317a6e35c3a46cbb2e98d45c68844e7aa64122609982970"
     },
     {
       "path": "en/learning/starship-engineering-inspiration/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5420,
-      "sha256": "28cee96c7e207cd3b7371684dc917ddc0e57ec162e5404605be0a6e60321bbea"
+      "bytes": 7540,
+      "sha256": "88eb746a613410f5a4f84d9831e435e83394ad7782b9c8cac3ab6fb093b14e6c"
     },
     {
       "path": "en/learning/starship-engineering-inspiration/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/starship-engineering-inspiration/__next._full.txt",
-      "bytes": 19630,
-      "sha256": "4605b5c3584acb8d20923cb88d99817ba0f467aafdc7c5b04d31290d57bc3924"
+      "bytes": 22602,
+      "sha256": "bd00e6456847905d4d1bbfbfdad6eed3ec8321cfb87b4e4d418bd4ccfbcbe5fd"
     },
     {
       "path": "en/learning/starship-engineering-inspiration/__next._tree.txt",
-      "bytes": 596,
-      "sha256": "74cd89af97b22c9c34ee01f24b5fe83b263a4f77d42ee11c2be9d5c69f0c9657"
+      "bytes": 650,
+      "sha256": "80d5daf09c91a66c6a5bb74a182ea1460d82e5a28bf721dc0709fc7dca65c431"
     },
     {
       "path": "en/learning/starship-engineering-inspiration/index.html",
-      "bytes": 29690,
-      "sha256": "c4df8ea5d36e4691eea85ada8151eeb80036f1f55edf5755aab681a1fe48c72e"
+      "bytes": 35084,
+      "sha256": "07547efd3ce291df64179414a727cc73769d73a908390a158c28a1470029f9d9"
     },
     {
       "path": "en/learning/starship-engineering-inspiration/index.txt",
-      "bytes": 19630,
-      "sha256": "4605b5c3584acb8d20923cb88d99817ba0f467aafdc7c5b04d31290d57bc3924"
+      "bytes": 22602,
+      "sha256": "bd00e6456847905d4d1bbfbfdad6eed3ec8321cfb87b4e4d418bd4ccfbcbe5fd"
     },
     {
       "path": "en/learning/utah-cs-2420/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5947,
-      "sha256": "2e0f1cb8ad436377d544234c9a2d6081f8345c15e4b44af2383ea8d3540e9255"
+      "bytes": 5996,
+      "sha256": "43c6c243559c2aa1a8f61df5abc4a142780584ebf57e00643292cd3da7d5fdba"
     },
     {
       "path": "en/learning/utah-cs-2420/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/utah-cs-2420/__next._full.txt",
-      "bytes": 20137,
-      "sha256": "4b0d4a3b460280804408ac7dd2833a4caafaf8666ca06df9fe654344b92f0164"
+      "bytes": 21032,
+      "sha256": "c51e02924f9b86cdb295de249e321ae2c485a00653059e8748925efef4c7242f"
     },
     {
       "path": "en/learning/utah-cs-2420/__next._tree.txt",
-      "bytes": 576,
-      "sha256": "183e8e34c360a792d7557922ea823a23bc57c2e4db6a850769fbee4a38df8b4f"
+      "bytes": 630,
+      "sha256": "1ddea27cdec82e183b5823e8df4facab72aaf3c5b0b26dfb70b0cec1cc517760"
     },
     {
       "path": "en/learning/utah-cs-2420/index.html",
-      "bytes": 30628,
-      "sha256": "a9e4e6a4c1d54f9bee35612ead7922eeb5ffbda38ad8da98dc6cefa6348288a6"
+      "bytes": 32183,
+      "sha256": "8246e671337e1b8845cdb5f21ac74d55ef37f43626052c9eb3c690ec610e5517"
     },
     {
       "path": "en/learning/utah-cs-2420/index.txt",
-      "bytes": 20137,
-      "sha256": "4b0d4a3b460280804408ac7dd2833a4caafaf8666ca06df9fe654344b92f0164"
+      "bytes": 21032,
+      "sha256": "c51e02924f9b86cdb295de249e321ae2c485a00653059e8748925efef4c7242f"
     },
     {
       "path": "en/learning/utah-cs-3540/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6474,
-      "sha256": "18c6323c0031c539fa5af8ece569efcf03d701fbde88ce59978c796202d96e76"
+      "bytes": 6523,
+      "sha256": "39b06e95a9df97258538995addfa98e7fd5ddf1405d5fd46f0fa2b9a851d0c23"
     },
     {
       "path": "en/learning/utah-cs-3540/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/utah-cs-3540/__next._full.txt",
-      "bytes": 20664,
-      "sha256": "9f7b88a6e773b641dc3773d1c13aa396415eebcdf8bfb4a4b863e90cda67754c"
+      "bytes": 21559,
+      "sha256": "641140a77a3b85b2969a42d6271e5519d05c387cb53944ad1a6832e3923b5993"
     },
     {
       "path": "en/learning/utah-cs-3540/__next._tree.txt",
-      "bytes": 576,
-      "sha256": "24a451d8d47cfcf8a4a2e2e0fad7380387d9aa51a5e67d65aef07de640b64040"
+      "bytes": 630,
+      "sha256": "3ffbfc2c2ead719fea5e9b1389f497296063b1afd9e30757d345656bc673ba72"
     },
     {
       "path": "en/learning/utah-cs-3540/index.html",
-      "bytes": 31627,
-      "sha256": "bd2bb879f3b06a5152fb01fc80bb7dd1b7ac3593901537ddd1c518a1d806ab49"
+      "bytes": 33182,
+      "sha256": "465d0a1355611413f14b67c7346aaa41c3262641ee9690c980e1360396c84d2f"
     },
     {
       "path": "en/learning/utah-cs-3540/index.txt",
-      "bytes": 20664,
-      "sha256": "9f7b88a6e773b641dc3773d1c13aa396415eebcdf8bfb4a4b863e90cda67754c"
+      "bytes": 21559,
+      "sha256": "641140a77a3b85b2969a42d6271e5519d05c387cb53944ad1a6832e3923b5993"
     },
     {
       "path": "en/learning/utah-cs-4400/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5449,
-      "sha256": "a195ac91e5a812e584a4715f6e18948e6076f255450e6d6bfa4b8a3329203ca0"
+      "bytes": 5498,
+      "sha256": "19453098df988052b240bc94e32d535dec6a7bc5ad71633bc046ad56b053bab3"
     },
     {
       "path": "en/learning/utah-cs-4400/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/utah-cs-4400/__next._full.txt",
-      "bytes": 19639,
-      "sha256": "ff09b4111f9a7ba11fb06c0e5b71e7c225422fd526f8c6404a915df06d58596c"
+      "bytes": 20534,
+      "sha256": "11c31a0d1d594b1d65f9e30c28992ef943aab00a34275a24393f27790456270a"
     },
     {
       "path": "en/learning/utah-cs-4400/__next._tree.txt",
-      "bytes": 576,
-      "sha256": "3305321540583a73cd08d26387ff94a6a4923ac059d553f4e64a11f0eb14ba15"
+      "bytes": 630,
+      "sha256": "dc5287028a145605b263642ced735e0e72203e09d21e4274c89408ce1a862f08"
     },
     {
       "path": "en/learning/utah-cs-4400/index.html",
-      "bytes": 29675,
-      "sha256": "654c7c533708bc9e71e182f89f6966d64c9e8becbde8cac02caf083e205bcecd"
+      "bytes": 31230,
+      "sha256": "d984800a45bafd8a077f596b3b9b5d0eaeebae07947c8edf8f5ba63493b70864"
     },
     {
       "path": "en/learning/utah-cs-4400/index.txt",
-      "bytes": 19639,
-      "sha256": "ff09b4111f9a7ba11fb06c0e5b71e7c225422fd526f8c6404a915df06d58596c"
+      "bytes": 20534,
+      "sha256": "11c31a0d1d594b1d65f9e30c28992ef943aab00a34275a24393f27790456270a"
     },
     {
       "path": "en/learning/utah-cs-5530/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5468,
-      "sha256": "7196ac4a7e5bbfdaab3b5f782ffeef0363078b6f0c403160b58110f61de0071b"
+      "bytes": 5517,
+      "sha256": "4f6f7f64f1dc4a31560e61170fd1488c1ba1fe8f8dfe1b2e9f51299383751723"
     },
     {
       "path": "en/learning/utah-cs-5530/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/utah-cs-5530/__next._full.txt",
-      "bytes": 19658,
-      "sha256": "80349f8f2be8af9a514ed1cbf75da4f1316967862611bb2e42e4b24ed59b1894"
+      "bytes": 20553,
+      "sha256": "aba5e99ea79480328bb57988240146bd728b88d922924babfdb784a5f445c36a"
     },
     {
       "path": "en/learning/utah-cs-5530/__next._tree.txt",
-      "bytes": 576,
-      "sha256": "6cf1a40e3d09a78c389f049da624ba0010baf85fb720d96da825fd5c2d211bab"
+      "bytes": 630,
+      "sha256": "6f68948894323b7b89b343c09215f8d2b04702bd51139de8a5d6f581292b9f51"
     },
     {
       "path": "en/learning/utah-cs-5530/index.html",
-      "bytes": 29713,
-      "sha256": "8267b9ba3036b484292e2b30fb97ca9a329697fc7d54858c75c74610884c9bee"
+      "bytes": 31268,
+      "sha256": "121a68e267776162abe8cd3450ea3c000b7c13bca825a1575a1e1d74b9787242"
     },
     {
       "path": "en/learning/utah-cs-5530/index.txt",
-      "bytes": 19658,
-      "sha256": "80349f8f2be8af9a514ed1cbf75da4f1316967862611bb2e42e4b24ed59b1894"
+      "bytes": 20553,
+      "sha256": "aba5e99ea79480328bb57988240146bd728b88d922924babfdb784a5f445c36a"
     },
     {
       "path": "en/learning/utah-writing-critical-thinking/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6047,
-      "sha256": "1cb4f7244b31698732b87fe33a0654207ae1824d57dd640730859847a6674f4b"
+      "bytes": 6096,
+      "sha256": "493bc2889082d4f82487d115b0c8a3864180d2db7a1915c13135176174300332"
     },
     {
       "path": "en/learning/utah-writing-critical-thinking/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/learning/utah-writing-critical-thinking/__next._full.txt",
-      "bytes": 20255,
-      "sha256": "e4272af038c64535f14327b033856e256b8e474aef424097c21697c9dbca7c98"
+      "bytes": 21150,
+      "sha256": "cd389be70b16588d9b994fb344a80d844566f71271c760d86cb9047a166d9c99"
     },
     {
       "path": "en/learning/utah-writing-critical-thinking/__next._tree.txt",
-      "bytes": 594,
-      "sha256": "dfe95300c4a93b08c36017ad044bf05c257ed867337028cbd0a930481659312c"
+      "bytes": 648,
+      "sha256": "bac4d74eb8ce954df35b2830f5c3724bba695a67f97be55c2b2f1ba1cc643c3b"
     },
     {
       "path": "en/learning/utah-writing-critical-thinking/index.html",
-      "bytes": 30811,
-      "sha256": "00608b9cedcf218c442ead7ec4699f0a1b8a581bf4cf1d808917df895dd7d9a4"
+      "bytes": 32366,
+      "sha256": "a9afb4586829391dfa2aacac71108e97a637786211e8d6ff6a7a8d91c7e24202"
     },
     {
       "path": "en/learning/utah-writing-critical-thinking/index.txt",
-      "bytes": 20255,
-      "sha256": "e4272af038c64535f14327b033856e256b8e474aef424097c21697c9dbca7c98"
+      "bytes": 21150,
+      "sha256": "cd389be70b16588d9b994fb344a80d844566f71271c760d86cb9047a166d9c99"
     },
     {
       "path": "en/life/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 24465,
-      "sha256": "5468af62673adc7b479f3faa834f0302224d07aceaac7f9b1d6ee5c1524fa155"
+      "bytes": 33571,
+      "sha256": "859cb87f85a8e12ce1a01cba9fa937a9fb10118f6ce0adb619c80af42a521163"
     },
     {
       "path": "en/life/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/life/__next._full.txt",
-      "bytes": 30472,
-      "sha256": "845d51ed5437f223763163081859c038af57f6b5ddb1adf424667831b70bd88d"
+      "bytes": 40199,
+      "sha256": "c03a8d072d289f12efe00860cee689539edeb14415ef16e4d8e79c9325efce9c"
     },
     {
       "path": "en/life/__next._tree.txt",
-      "bytes": 559,
-      "sha256": "e6b9708bc08573b469443f301d231b945abb9f8a70ff66fdb2d6c4f62be82ab1"
+      "bytes": 613,
+      "sha256": "41a31b9fafe3758eba8f70dc3313d84b7329c42f4c31198b24995e664bdec0b9"
     },
     {
       "path": "en/life/index.html",
-      "bytes": 53121,
-      "sha256": "aeb28f7284c40e7e48ccf486c14685ac4a4ff842460c9062fc1ef32365d5016d"
+      "bytes": 70534,
+      "sha256": "5456bc90c62d87d37528284186674beb4b7ce3dcd506337dfae988d4fef3ffdb"
     },
     {
       "path": "en/life/index.txt",
-      "bytes": 30472,
-      "sha256": "845d51ed5437f223763163081859c038af57f6b5ddb1adf424667831b70bd88d"
+      "bytes": 40199,
+      "sha256": "c03a8d072d289f12efe00860cee689539edeb14415ef16e4d8e79c9325efce9c"
     },
     {
       "path": "en/publications/iteration-without-elaboration/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6414,
-      "sha256": "0a79a5b77880bf8bcb69c741d625c0bda1c510ec5b2c42583e3d19cd1a2e0c5e"
+      "bytes": 6468,
+      "sha256": "5d74a9e9d362d5f563a9e2961a867a4a4565cc1665e5c4399f88ab0c7886887f"
     },
     {
       "path": "en/publications/iteration-without-elaboration/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/publications/iteration-without-elaboration/__next._full.txt",
-      "bytes": 20625,
-      "sha256": "4f2851398c1743337288f75095dbcda1017fe9b52498f013bf81e825587c8022"
+      "bytes": 21525,
+      "sha256": "dd8537069c75e0f47d42d1dd0f64d1608f3aad2169f8a243f9db1c52f81040dd"
     },
     {
       "path": "en/publications/iteration-without-elaboration/__next._tree.txt",
-      "bytes": 597,
-      "sha256": "abe449f7facab8f7455ead001faef5425fcf4eb40c0782eff6c2f07595d91b87"
+      "bytes": 651,
+      "sha256": "abc29b07bc7c129ba7b748b83c3c02d59fc71b904d059c0baf81173f5842cca8"
     },
     {
       "path": "en/publications/iteration-without-elaboration/index.html",
-      "bytes": 31505,
-      "sha256": "f2b45f45389493cb8cf9d95300466809c448eac07e924ddf1668f700e614ce58"
+      "bytes": 33065,
+      "sha256": "2a12d02e2b7675d91a3006686a57c48bcc386ffb957562f3fe45a798b5a0cf16"
     },
     {
       "path": "en/publications/iteration-without-elaboration/index.txt",
-      "bytes": 20625,
-      "sha256": "4f2851398c1743337288f75095dbcda1017fe9b52498f013bf81e825587c8022"
+      "bytes": 21525,
+      "sha256": "dd8537069c75e0f47d42d1dd0f64d1608f3aad2169f8a243f9db1c52f81040dd"
     },
     {
       "path": "en/publications/prompt-engineering-charts/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6451,
-      "sha256": "7bfa9a3bc56a937283deccc0e7b4062faba969f7fbeacf79c93ae64479eab707"
+      "bytes": 6505,
+      "sha256": "5c43caa152e6eb9c6d56718126be1a1452fde21d38b6f3ffa836c6fb1433e931"
     },
     {
       "path": "en/publications/prompt-engineering-charts/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/publications/prompt-engineering-charts/__next._full.txt",
-      "bytes": 20658,
-      "sha256": "e77a3cb1f301ed1325adbfd29abd515abc138a1f5aa2db0517634aae1ca399f5"
+      "bytes": 21558,
+      "sha256": "3be655819ef92d0f34867a7a3572d01dc2a195b4fc8a5c9e6bdacb6373458357"
     },
     {
       "path": "en/publications/prompt-engineering-charts/__next._tree.txt",
-      "bytes": 593,
-      "sha256": "cb1a7d2a5443392b2ba7e8a89da1ccbbc73e90b8b412e1e658b5f2e44d5ac051"
+      "bytes": 647,
+      "sha256": "28dec840b375b510829ede75f547047e53c982f9066208bfd366ffc4cd0a63e4"
     },
     {
       "path": "en/publications/prompt-engineering-charts/index.html",
-      "bytes": 31563,
-      "sha256": "dab1a338c2858b5990e2d638d4155a3f3233cb0f7786327e34d173278a04baca"
+      "bytes": 33123,
+      "sha256": "c6a2949e6d5d8f26c764ec05ce71c4a114942d4a6a74508f6417bf3a6790e4d1"
     },
     {
       "path": "en/publications/prompt-engineering-charts/index.txt",
-      "bytes": 20658,
-      "sha256": "e77a3cb1f301ed1325adbfd29abd515abc138a1f5aa2db0517634aae1ca399f5"
+      "bytes": 21558,
+      "sha256": "3be655819ef92d0f34867a7a3572d01dc2a195b4fc8a5c9e6bdacb6373458357"
     },
     {
       "path": "en/publications/reliable-auditable-ehr/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5840,
-      "sha256": "0c1e84af9612188d08178559c9b7f017377200e2d8a47b149ec2eb9ddb2d68c0"
+      "bytes": 5894,
+      "sha256": "f26e820c403369e44332e91a21e34ffe99b84fe23f76ddf17022344942d86cf7"
     },
     {
       "path": "en/publications/reliable-auditable-ehr/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/publications/reliable-auditable-ehr/__next._full.txt",
-      "bytes": 20044,
-      "sha256": "81eebdd578ddaf708381b67cb04a472b113f4e20967f7ea2d2b6e54e77f7561c"
+      "bytes": 20944,
+      "sha256": "a6e0986712f7a38cb37e4a968fda9f8dcf12ad066632e52af88f84985f42e4ad"
     },
     {
       "path": "en/publications/reliable-auditable-ehr/__next._tree.txt",
-      "bytes": 590,
-      "sha256": "e6c06aace4f60a25dfca420a9c682fea6e64b4eb0cc58a634447f26ec9d59f30"
+      "bytes": 644,
+      "sha256": "ab66f371cbf56ceb0892ad63df5ae777162d6e4d8224366e6dd3be8441dfe2da"
     },
     {
       "path": "en/publications/reliable-auditable-ehr/index.html",
-      "bytes": 30434,
-      "sha256": "b63d75f408393be490c2fda45056a62d3dc8554855aafb99d78db069dd53dfd0"
+      "bytes": 31994,
+      "sha256": "aff0fa732c36352c5ad6dab14dca3c83bd792699b06ae20c6da27887456b86d9"
     },
     {
       "path": "en/publications/reliable-auditable-ehr/index.txt",
-      "bytes": 20044,
-      "sha256": "81eebdd578ddaf708381b67cb04a472b113f4e20967f7ea2d2b6e54e77f7561c"
+      "bytes": 20944,
+      "sha256": "a6e0986712f7a38cb37e4a968fda9f8dcf12ad066632e52af88f84985f42e4ad"
     },
     {
       "path": "en/reflections/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6575,
-      "sha256": "ea9f2086c6f86fe316829c924ac43e01dd4d6598073485b7db3c2f8a3de66c57"
+      "bytes": 6630,
+      "sha256": "1647782a7be35bf0de5eb17830e614cd5b80c652ebfb8b38c38f86d14eaaafce"
     },
     {
       "path": "en/reflections/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/reflections/__next._full.txt",
-      "bytes": 20756,
-      "sha256": "0a017d4be1373470a5928ae1e2401891d111e725bc2962578f1f9e9f902c9831"
+      "bytes": 21657,
+      "sha256": "146ba4545997d9ac3f7d39219b66a818d41959d8477c1b44d097902dc35e4a60"
     },
     {
       "path": "en/reflections/__next._tree.txt",
-      "bytes": 566,
-      "sha256": "c5361a1aec6bc4e5d6c6e0cf36c4a3057959bcee02207e51f674a740d194048e"
+      "bytes": 620,
+      "sha256": "50f9c35b42b69a9bf4ca37c3007330e8e86628df7fce4195a9cd51f30159a8f4"
     },
     {
       "path": "en/reflections/how-i-think-about-society/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5242,
-      "sha256": "be8f7ccb2ad9a6c0d66903f53bcc3a32c55b81abd01b48b31baac1f4aa82bda6"
+      "bytes": 5297,
+      "sha256": "d88324ddf866a01d504021674ca6ff058b4655a3235e88aa374590a1bc4d563c"
     },
     {
       "path": "en/reflections/how-i-think-about-society/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/reflections/how-i-think-about-society/__next._full.txt",
-      "bytes": 19448,
-      "sha256": "95bd7cb2a0a020f62104d46868e15d38d0c480348d33257291ee56cd26165bc4"
+      "bytes": 20349,
+      "sha256": "c478f64fecf31634338182d8897502c038dcf46837256986059b9a060c1e4531"
     },
     {
       "path": "en/reflections/how-i-think-about-society/__next._tree.txt",
-      "bytes": 592,
-      "sha256": "7ab5b14f9f79a442c68946a07f369f3d91a1ab00a8af32c41e307d8e2b0103d2"
+      "bytes": 646,
+      "sha256": "96ea54a409630a3d0ba0df099ada6c3fac817d89691e47bdb4945399e35fee21"
     },
     {
       "path": "en/reflections/how-i-think-about-society/index.html",
-      "bytes": 29393,
-      "sha256": "ce7fceb7b6f89e7db610addd31c5fb3769509b03e8679c34143578c07b27da2d"
+      "bytes": 30954,
+      "sha256": "ea2bc5e7ac0ba05a69e429bdc99dae744ca65335406ea24ccfab16bbbc4207f4"
     },
     {
       "path": "en/reflections/how-i-think-about-society/index.txt",
-      "bytes": 19448,
-      "sha256": "95bd7cb2a0a020f62104d46868e15d38d0c480348d33257291ee56cd26165bc4"
+      "bytes": 20349,
+      "sha256": "c478f64fecf31634338182d8897502c038dcf46837256986059b9a060c1e4531"
     },
     {
       "path": "en/reflections/human-value-in-an-automated-world/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5276,
-      "sha256": "ac35b7fe5e816b59c4e61359c9b9f689c80f83ebbfd404ce5ea8080852ddd037"
+      "bytes": 5331,
+      "sha256": "9a5ccafb0f95045c3ed4fa461d51b7c79eaf1b48b97608b89f177cfc2d0157e9"
     },
     {
       "path": "en/reflections/human-value-in-an-automated-world/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/reflections/human-value-in-an-automated-world/__next._full.txt",
-      "bytes": 19490,
-      "sha256": "be708d0684df8fcf7ee8761f6841a91cbb5f0a05608d598ff3ab9026d1c17262"
+      "bytes": 20391,
+      "sha256": "2aaaa54a90d595c26fd74066384ace58c948723510820f1ca9424fbf36677d50"
     },
     {
       "path": "en/reflections/human-value-in-an-automated-world/__next._tree.txt",
-      "bytes": 600,
-      "sha256": "39a1533e0dc7809683748b9b720fca1560c889c6e2355de8f90fcc7d3b118203"
+      "bytes": 654,
+      "sha256": "b51d20796b7d9710ce694c7ec6db2ed97abf0da59ba0dc6ead66c2eafe7a62a8"
     },
     {
       "path": "en/reflections/human-value-in-an-automated-world/index.html",
-      "bytes": 29469,
-      "sha256": "5678ac3069c1a812292076209056af673104e34f90539235e9ee63eccdc3ae88"
+      "bytes": 31030,
+      "sha256": "f96e38b815c88ec2827473e588238a2f688d70523df637c47552d55c49cede82"
     },
     {
       "path": "en/reflections/human-value-in-an-automated-world/index.txt",
-      "bytes": 19490,
-      "sha256": "be708d0684df8fcf7ee8761f6841a91cbb5f0a05608d598ff3ab9026d1c17262"
+      "bytes": 20391,
+      "sha256": "2aaaa54a90d595c26fd74066384ace58c948723510820f1ca9424fbf36677d50"
     },
     {
       "path": "en/reflections/index.html",
-      "bytes": 31525,
-      "sha256": "d736b496910e16faba326769253a6adff3778b37dfc6e4ebd24a71ba439b2b52"
+      "bytes": 33043,
+      "sha256": "d7aef5ed8bb91dbd4a8822413135c01a62943cad1c3c44714457e48e1860e30f"
     },
     {
       "path": "en/reflections/index.txt",
-      "bytes": 20756,
-      "sha256": "0a017d4be1373470a5928ae1e2401891d111e725bc2962578f1f9e9f902c9831"
+      "bytes": 21657,
+      "sha256": "146ba4545997d9ac3f7d39219b66a818d41959d8477c1b44d097902dc35e4a60"
     },
     {
       "path": "en/reflections/the-kind-of-business-i-want-to-build/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5487,
-      "sha256": "049bc4451195c4a1d3a31493ff92990a7a218b35834f0c7675301e1227365a3a"
+      "bytes": 5548,
+      "sha256": "ca924d6657ef6a4d4179f3dcb1b2bafc77b5409057e6b73b32658d3fe2a8a384"
     },
     {
       "path": "en/reflections/the-kind-of-business-i-want-to-build/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/reflections/the-kind-of-business-i-want-to-build/__next._full.txt",
-      "bytes": 19704,
-      "sha256": "85cb188f6820e546ec1b723d0f0c41f32ecc2dc63e110b45bedc591f5e202cf2"
+      "bytes": 20611,
+      "sha256": "2cfbb45ebc2463367ca96e7dbdab622544596621708bbe1564de470a415b1415"
     },
     {
       "path": "en/reflections/the-kind-of-business-i-want-to-build/__next._tree.txt",
-      "bytes": 603,
-      "sha256": "3731aaecee7cb9bac19f624abaa9873736179f0f074e0b4104505e9db7cfc306"
+      "bytes": 657,
+      "sha256": "9126eff7b8e2a9d7ff34baf2a30fb013370758de7268b982835f3d8c007c8c24"
     },
     {
       "path": "en/reflections/the-kind-of-business-i-want-to-build/index.html",
-      "bytes": 29878,
-      "sha256": "0a927767cb66268d49efee42c12d5139077c5096face7ae8110108eac31cd1df"
+      "bytes": 31451,
+      "sha256": "2448fc479a63ad2ca006236b25fbf3074f066281c313165d590edd7787dcc928"
     },
     {
       "path": "en/reflections/the-kind-of-business-i-want-to-build/index.txt",
-      "bytes": 19704,
-      "sha256": "85cb188f6820e546ec1b723d0f0c41f32ecc2dc63e110b45bedc591f5e202cf2"
+      "bytes": 20611,
+      "sha256": "2cfbb45ebc2463367ca96e7dbdab622544596621708bbe1564de470a415b1415"
     },
     {
       "path": "en/reflections/universities-in-the-age-of-ai/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5484,
-      "sha256": "769a8343d0e1696826a4ae7379e339347b2eba8f221d4331ce2334a646ba105c"
+      "bytes": 5539,
+      "sha256": "2cc1ab56a803285b16ba1c7e16bf1ccc506f992e9c658206a3d62f0c1d6d386d"
     },
     {
       "path": "en/reflections/universities-in-the-age-of-ai/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/reflections/universities-in-the-age-of-ai/__next._full.txt",
-      "bytes": 19694,
-      "sha256": "d64b9615bef97b4cf258ce66b98c423446e8ffdf2437db36515d921051636691"
+      "bytes": 20595,
+      "sha256": "b2094f69db821db5cb6b16e723cee4f3a62ceded88fb3edc037ca799c782d2ac"
     },
     {
       "path": "en/reflections/universities-in-the-age-of-ai/__next._tree.txt",
-      "bytes": 596,
-      "sha256": "2981e31035454b9c5ac242a1e5c7bc7c4ad261dcd9faea67ab10918dede71a29"
+      "bytes": 650,
+      "sha256": "0b858e0ae36c7751e6a134cd09fbb091fd0aff4a3b0207a5106290cf85deebd4"
     },
     {
       "path": "en/reflections/universities-in-the-age-of-ai/index.html",
-      "bytes": 29881,
-      "sha256": "4e925ccfe776a101e8fb258d26da7b98133e401751291d19f8b937557b007571"
+      "bytes": 31442,
+      "sha256": "db4a5f7a76627d8f0552dcbb2c0e8e96cebb21f53a86dbebf730602baa0399e6"
     },
     {
       "path": "en/reflections/universities-in-the-age-of-ai/index.txt",
-      "bytes": 19694,
-      "sha256": "d64b9615bef97b4cf258ce66b98c423446e8ffdf2437db36515d921051636691"
+      "bytes": 20595,
+      "sha256": "b2094f69db821db5cb6b16e723cee4f3a62ceded88fb3edc037ca799c782d2ac"
     },
     {
       "path": "en/research/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 10875,
-      "sha256": "2dba2b0201e789d0138531659db48da491c5832006c5d5ce7775f9293f4c0db3"
+      "bytes": 11071,
+      "sha256": "adb758ae808ebd91d8f720e2eff0575248a4c5c0626b621f1f5876791480afdd"
     },
     {
       "path": "en/research/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/research/__next._full.txt",
-      "bytes": 25006,
-      "sha256": "a03eac2ddc6d1df9475e1b35b627ecda278c0f9636be93be5bb30066b1ff95a7"
+      "bytes": 26047,
+      "sha256": "44db9237f034ff3ce7c0c9b33ff9b343e0d0735755b2b3ac3dd6d76a37fb6b11"
     },
     {
       "path": "en/research/__next._tree.txt",
-      "bytes": 563,
-      "sha256": "5eb70affffa82de1d3f8d1e04e60dfd414451acc930d93c0c737ee103716c8d8"
+      "bytes": 617,
+      "sha256": "e937ede7fd9ad4d9db10e475636b9c96a05fed4f681bcc5f2f7d5601ab18c6de"
     },
     {
       "path": "en/research/index.html",
-      "bytes": 38802,
-      "sha256": "cc535b5826467e8a5d5f21c592126320e009dda0ba497d39df4441b4fdb0c546"
+      "bytes": 40634,
+      "sha256": "126c547c65e02403c56804449a683397058ddca4ea30675df9b965008b134274"
     },
     {
       "path": "en/research/index.txt",
-      "bytes": 25006,
-      "sha256": "a03eac2ddc6d1df9475e1b35b627ecda278c0f9636be93be5bb30066b1ff95a7"
+      "bytes": 26047,
+      "sha256": "44db9237f034ff3ce7c0c9b33ff9b343e0d0735755b2b3ac3dd6d76a37fb6b11"
     },
     {
       "path": "en/work/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 15704,
-      "sha256": "92fbcb833ae67cfdc2d0be63c83e220d20e436435f3e74e2534493a83ca01ac4"
+      "bytes": 15770,
+      "sha256": "41af2dfa12a8465b55cb17d0cdf1094ab530935ccba1785df22794f2bd12c536"
     },
     {
       "path": "en/work/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/work/__next._full.txt",
-      "bytes": 29849,
-      "sha256": "1361c431485ba5c3e64bf1847c8022db982035f216fbb007ea0402c544bb3481"
+      "bytes": 30762,
+      "sha256": "f6f4f6c47ff7d9d0706deb717d8201d38dae89787fd7c438dafeb46d083e172d"
     },
     {
       "path": "en/work/__next._tree.txt",
-      "bytes": 559,
-      "sha256": "4935a27af79e526752fa605fc23bb84e630c061ffb2e511ddf64f8bfdf59b106"
+      "bytes": 613,
+      "sha256": "5f17d34d7a9a39598dfc62a0f3dd51a69bc61dda930286a4cd632ced80a98797"
     },
     {
       "path": "en/work/index.html",
-      "bytes": 45596,
-      "sha256": "0c3e68fa010252ab514f9d867810ae4081e08b0e5e7bc32089f5b8119a82c5ca"
+      "bytes": 47173,
+      "sha256": "2260c3337ef97800856d4e4370cb5ccbe6dbd2437236e9159639b389c95938e2"
     },
     {
       "path": "en/work/index.txt",
-      "bytes": 29849,
-      "sha256": "1361c431485ba5c3e64bf1847c8022db982035f216fbb007ea0402c544bb3481"
+      "bytes": 30762,
+      "sha256": "f6f4f6c47ff7d9d0706deb717d8201d38dae89787fd7c438dafeb46d083e172d"
     },
     {
       "path": "en/work/polyglotdra-secbench/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6469,
-      "sha256": "c9c81f6004cbd7a9599935c6abfba9d69db72576c1a366a61170f2bd9b7304c9"
+      "bytes": 6524,
+      "sha256": "d132bde72a494d655d5d3fb08792553ad1e9efea2e05a5446cd952c329e946a4"
     },
     {
       "path": "en/work/polyglotdra-secbench/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/work/polyglotdra-secbench/__next._full.txt",
-      "bytes": 20663,
-      "sha256": "15e200ca1632e071d061290f8b9696f64a54550083bcb438ed07d99f2802cc8e"
+      "bytes": 21564,
+      "sha256": "ff639d1a521c388e42d9ad5c73211636ce60979ac0f583213a3d9829b9fb372e"
     },
     {
       "path": "en/work/polyglotdra-secbench/__next._tree.txt",
-      "bytes": 580,
-      "sha256": "4ec38999928cba5e2d176362fa0dec42642d24e21fa3ef933e1791feee9209fc"
+      "bytes": 634,
+      "sha256": "d8fe0aec6bcd1aa5354d6b03a2d4714a6e6e10bff9bd4e9a5337246ae2b29948"
     },
     {
       "path": "en/work/polyglotdra-secbench/index.html",
-      "bytes": 31447,
-      "sha256": "18be69d41cf143c00ab0146dca4d3bcd26f922128ae54490c9790238f62531fc"
+      "bytes": 33008,
+      "sha256": "eb8c5ca3d5bda0c4d7dccf259fa1cb19e4efef1b17b3fe61cf6cd9214eb8fe57"
     },
     {
       "path": "en/work/polyglotdra-secbench/index.txt",
-      "bytes": 20663,
-      "sha256": "15e200ca1632e071d061290f8b9696f64a54550083bcb438ed07d99f2802cc8e"
+      "bytes": 21564,
+      "sha256": "ff639d1a521c388e42d9ad5c73211636ce60979ac0f583213a3d9829b9fb372e"
     },
     {
       "path": "en/work/queuehub/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6114,
-      "sha256": "e23bc46a4cae5ab03cc77135a432721577ed9eead23092a5328b8fc4cd5a0fa2"
+      "bytes": 6169,
+      "sha256": "74aa011e3166028b59c7db2e056a009181f22e0fa7df88efd07c75ea3e9b9dc8"
     },
     {
       "path": "en/work/queuehub/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/work/queuehub/__next._full.txt",
-      "bytes": 20296,
-      "sha256": "ccacedb9c32ba568064f0ce0766d8daa033a8fd27093eadfe8acf563275822ae"
+      "bytes": 21197,
+      "sha256": "1f5ccb309684cd837d0d6714ffbf5052404057defa4b06d3522e5f6d1b22af95"
     },
     {
       "path": "en/work/queuehub/__next._tree.txt",
-      "bytes": 568,
-      "sha256": "4b957c2384becfb24945511629b7c00a0e39fa49d5fe8c02f8b05cc821e59b1a"
+      "bytes": 622,
+      "sha256": "0bedc1a3489dc9cb951b362bc36c058d44dc4e195fdf70c548d5f60744750c38"
     },
     {
       "path": "en/work/queuehub/index.html",
-      "bytes": 30704,
-      "sha256": "9d318929a5db606be0032b29832b3d5a7492c6c973389736db944bf452975a83"
+      "bytes": 32265,
+      "sha256": "92813aa3e5c0eea459e019038276c639dc3c0265c5b4d58b256c8dc2e7397ace"
     },
     {
       "path": "en/work/queuehub/index.txt",
-      "bytes": 20296,
-      "sha256": "ccacedb9c32ba568064f0ce0766d8daa033a8fd27093eadfe8acf563275822ae"
+      "bytes": 21197,
+      "sha256": "1f5ccb309684cd837d0d6714ffbf5052404057defa4b06d3522e5f6d1b22af95"
     },
     {
       "path": "en/work/safestart/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6183,
-      "sha256": "bb2b04705de08814475bfa30d01fa5d8a6349c1b8384413c95143c3bcc224037"
+      "bytes": 6238,
+      "sha256": "9cadc45e90df53fb84138dd6e8da4dadd233698aa4d645ab4e30cabd90c47ad8"
     },
     {
       "path": "en/work/safestart/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/work/safestart/__next._full.txt",
-      "bytes": 20366,
-      "sha256": "03f64297b04bce3eb0b0a90eed91b03c0c6b596ac4af78e985a9c21b19054d58"
+      "bytes": 21267,
+      "sha256": "f7bf29fbbc8cd41b91238b99a5df702bc1629f45f9cc33ad19c60bdd86c78905"
     },
     {
       "path": "en/work/safestart/__next._tree.txt",
-      "bytes": 569,
-      "sha256": "2a714a32254b26ed378442e190464c20bc1be0b0c890bcc25d58c6d34f2ad11d"
+      "bytes": 623,
+      "sha256": "7c36541bc15537fcb28b8cd685b7e2857bf3171e54e10526d730dc9ab49eed83"
     },
     {
       "path": "en/work/safestart/index.html",
-      "bytes": 30870,
-      "sha256": "d475ee98fccdd8294d6110e19230e9a6c5616f54bde5ce9557bf84b261d13de7"
+      "bytes": 32431,
+      "sha256": "6f4184286e0bd49ebe3e50a1ba47fe4b5113fb52f10ae6741248977c74d6f752"
     },
     {
       "path": "en/work/safestart/index.txt",
-      "bytes": 20366,
-      "sha256": "03f64297b04bce3eb0b0a90eed91b03c0c6b596ac4af78e985a9c21b19054d58"
+      "bytes": 21267,
+      "sha256": "f7bf29fbbc8cd41b91238b99a5df702bc1629f45f9cc33ad19c60bdd86c78905"
     },
     {
       "path": "en/work/uparknow/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 8093,
-      "sha256": "c1f1d0303e8c8ad1001ec8779e689d0991df38929693b0b9b18bfd6dd7f0aea1"
+      "bytes": 8148,
+      "sha256": "3ea16b2073383f5165d32f2f6030d97267a1e20cc5d70f1891655126d5c951f0"
     },
     {
       "path": "en/work/uparknow/__next.$d$locale.txt",
-      "bytes": 14024,
-      "sha256": "1167cc914f8f7ab8ba6abd075099ae71dc4f5c691f8cd8a01515f38c3d2e94e7"
+      "bytes": 14871,
+      "sha256": "ef7670e9b94141ae7e09d2c425ea22e32a329b3f6fe5a24f868db69d788eb4f2"
     },
     {
       "path": "en/work/uparknow/__next._full.txt",
-      "bytes": 22255,
-      "sha256": "13334bd69431964d81625134fd043f5d86790e6212f9c559252117157cd5f4bb"
+      "bytes": 23156,
+      "sha256": "81d84a8caf27886be8dff1f3ee32bdd717626e878983f0f9889cde7970e49b20"
     },
     {
       "path": "en/work/uparknow/__next._tree.txt",
-      "bytes": 568,
-      "sha256": "c7430ae60c7ffb9c7c7b3855d259dfbdcd6136ca837548ab50bcf365fc773245"
+      "bytes": 622,
+      "sha256": "2d55c06e583dfff26fc5aabf7e7a7dda391451c7586537b5f8020325017241d0"
     },
     {
       "path": "en/work/uparknow/index.html",
-      "bytes": 34387,
-      "sha256": "3158375e31af5f25b8b5bd23881d75f76322bd578e426c097871fe7adab80f26"
+      "bytes": 35948,
+      "sha256": "f3c21e19be6ef43d08002ba444512e968e68b0297b2ce07ebea7c8afe8ba5409"
     },
     {
       "path": "en/work/uparknow/index.txt",
-      "bytes": 22255,
-      "sha256": "13334bd69431964d81625134fd043f5d86790e6212f9c559252117157cd5f4bb"
+      "bytes": 23156,
+      "sha256": "81d84a8caf27886be8dff1f3ee32bdd717626e878983f0f9889cde7970e49b20"
     },
     {
       "path": "generated/documents/haiwei-yu-academic-cv-en.pdf",
@@ -1952,21 +2122,6 @@
       "sha256": "9550958ec98155e9d65eb996c54957a74004f40ff2f7e1c4dacbf3cce7958864"
     },
     {
-      "path": "generated/life/final-2026-10/photos/photo-hot-springs-1600.webp",
-      "bytes": 160498,
-      "sha256": "6fcbdd77a9dd697e3e97c02cf379327f5e1a225056685fb74cf662c76d7b333b"
-    },
-    {
-      "path": "generated/life/final-2026-10/photos/photo-hot-springs-480.webp",
-      "bytes": 22582,
-      "sha256": "07ccf6eacc0393aab597d79775501f70963861bfaae8527d057ec4280cc09e27"
-    },
-    {
-      "path": "generated/life/final-2026-10/photos/photo-hot-springs-960.webp",
-      "bytes": 75052,
-      "sha256": "d0de9ac038e9638c08b62888631e46a215aacb5fae3e982f44df3a32877b37bd"
-    },
-    {
       "path": "generated/life/final-2026-10/photos/photo-mountain-view-1600.webp",
       "bytes": 87896,
       "sha256": "e342cba6344b66b6bc3c681cbd2fca5a7cf7ec57211f32fbf379a2e660b5a820"
@@ -2012,44 +2167,344 @@
       "sha256": "535d3656d7d54098a6a5418e55092876f3ef3646ca182b13cde855d96038b45a"
     },
     {
-      "path": "generated/life/game-art/ballads-of-hongye-neutral.svg",
-      "bytes": 538,
-      "sha256": "597bcef1f69d0154a7e83705fe36c6d80048de282f678ce08af63124a9391031"
+      "path": "generated/media/brands/google-wordmark-150.webp",
+      "bytes": 4064,
+      "sha256": "0ce68f7c5cd025e974cb9caff3c40234220d6c8bfd24329d61b1774480e20081"
     },
     {
-      "path": "generated/life/game-art/frostpunk-neutral.svg",
-      "bytes": 484,
-      "sha256": "7942b46d8211b228d38524e87ce6eea3f5ec46da4d1e0a2aff2fdd6ce382e3fc"
+      "path": "generated/media/brands/intel-wordmark-480.webp",
+      "bytes": 8018,
+      "sha256": "18f2cb664edfbec55f5d0f8561a7fc0e811907f5967ab3cc8723a8f6148d69d9"
     },
     {
-      "path": "generated/life/game-art/infection-free-zone-neutral.svg",
-      "bytes": 574,
-      "sha256": "30950f6b0a608f688b0b1a12909be8aa9eaa7624fba87b05130301bd83939c48"
+      "path": "generated/media/encounters/nesime-tatbul-event-portrait-196.webp",
+      "bytes": 5134,
+      "sha256": "3245451647fe65b34f985b93c54fd1142431127d5dc13916b8d3ba92853c4ab4"
     },
     {
-      "path": "generated/life/game-art/sky-children-of-the-light-neutral.svg",
-      "bytes": 463,
-      "sha256": "c12c4ac2d1744767950b1a045b44f14738c66b11940837b2586bb17c0a26112e"
+      "path": "generated/media/encounters/nesime-tatbul-event-portrait-391.webp",
+      "bytes": 14462,
+      "sha256": "ed36536faf7cd94b77f32b59c8f9168155ee72eb98f01d1bb04a8b6de38fdb65"
     },
     {
-      "path": "generated/life/game-art/stardew-valley-neutral.svg",
-      "bytes": 450,
-      "sha256": "8d84e2ab1244a88468e7fc8f0997736dfe516bd68944de8078cc519a8b793cc0"
+      "path": "generated/media/encounters/starship-sn15-flight-1600.webp",
+      "bytes": 32072,
+      "sha256": "222d62cf8be760bebad868f91e2f4dc2c0339ea4fb75e31c3a12cd1d0990b1f3"
     },
     {
-      "path": "generated/life/game-art/this-war-of-mine-neutral.svg",
-      "bytes": 583,
-      "sha256": "a96d7f708e8b595fe68055d14872f9dc242705bdbe6efe282a7bfca2d404fc7d"
+      "path": "generated/media/encounters/starship-sn15-flight-480.webp",
+      "bytes": 4954,
+      "sha256": "c19ae7388ce2c1de7993e007959312c3a9f15b9df8e02dd6559aa6201f6bdee9"
+    },
+    {
+      "path": "generated/media/encounters/starship-sn15-flight-960.webp",
+      "bytes": 13282,
+      "sha256": "606ce3f1ff725be477b28c26f63ae8dd6951758dd2cf36f4f584c7060505d782"
+    },
+    {
+      "path": "generated/media/games/frostpunk-generator-city-1600.webp",
+      "bytes": 237594,
+      "sha256": "43d30b5e35348288f31da2bef5ff65ea0ba2fd37bfc23809be54cb445bb616e3"
+    },
+    {
+      "path": "generated/media/games/frostpunk-generator-city-480.webp",
+      "bytes": 29972,
+      "sha256": "5277718a9c14970b5a100c7f9424b6944c643adb03ac0415b7a6a7b5ab17db67"
+    },
+    {
+      "path": "generated/media/games/frostpunk-generator-city-960.webp",
+      "bytes": 100942,
+      "sha256": "125cf176c9bbe3909a16515037ceb5a92e83e6350ff79d0ed178e8fae27c345e"
+    },
+    {
+      "path": "generated/media/games/hongye-lantern-town-1600.webp",
+      "bytes": 195018,
+      "sha256": "749b41e1a35bac142fc1f51601a426405948ba265be171f9a821065de69e0f94"
+    },
+    {
+      "path": "generated/media/games/hongye-lantern-town-480.webp",
+      "bytes": 25506,
+      "sha256": "7095ae3eb6bd6c9531c6069ef42fe9e9677cc4fe5c11f84f2a0869b38cb13796"
+    },
+    {
+      "path": "generated/media/games/hongye-lantern-town-960.webp",
+      "bytes": 83912,
+      "sha256": "2152df8980af5e188c3ec9977d2d5710ed6c11558baa287bbedb7303c3d42074"
+    },
+    {
+      "path": "generated/media/games/infection-free-zone-defence-480.webp",
+      "bytes": 26122,
+      "sha256": "3db875d402fd1e0bec8422afb1d52425ca56d389a0efe48965131f98312e0497"
+    },
+    {
+      "path": "generated/media/games/infection-free-zone-defence-960.webp",
+      "bytes": 93516,
+      "sha256": "4ef21bcf475aac81f22ca67b5d0dd97c13f73fd72f3d8a0703db6f0dbe1a9122"
+    },
+    {
+      "path": "generated/media/games/sky-prairie-flight-1280.webp",
+      "bytes": 57404,
+      "sha256": "16740e4a708848b371a1ae2b415250a99a1cecf08f9d2c233942720ccee28fbe"
+    },
+    {
+      "path": "generated/media/games/sky-prairie-flight-480.webp",
+      "bytes": 14920,
+      "sha256": "b909923c4c4d61d7d9a4742e9f45d6878208d10f87d25d5cd815a48ef6f074e4"
+    },
+    {
+      "path": "generated/media/games/sky-prairie-flight-960.webp",
+      "bytes": 38366,
+      "sha256": "0737c42ff2b1eb7dad207bfe7083aa03fa805925d8c74c050d369d755534518b"
+    },
+    {
+      "path": "generated/media/games/stardew-farm-day-1920.webp",
+      "bytes": 76322,
+      "sha256": "e89091f57b709d07beaeb70594a1e8076c92134d4087eb0c1eed3756fdce4f21"
+    },
+    {
+      "path": "generated/media/games/stardew-farm-day-480.webp",
+      "bytes": 51824,
+      "sha256": "411d68485a8538a8349a24658903f371bf53d5c459fa51d022bb222fffab19bc"
+    },
+    {
+      "path": "generated/media/games/stardew-farm-day-960.webp",
+      "bytes": 68216,
+      "sha256": "26779f33544a1a703d51e56aba5d82b807d4682c27d9916bbc816f7aee6078bf"
+    },
+    {
+      "path": "generated/media/games/this-war-of-mine-shelter-1600.webp",
+      "bytes": 202418,
+      "sha256": "7cd98d49be8d68f60003c177f5bfa5fe9bc3d3629727581a4d4a6fd94d37e0cd"
+    },
+    {
+      "path": "generated/media/games/this-war-of-mine-shelter-480.webp",
+      "bytes": 26448,
+      "sha256": "ddb88877f6e1edf98cc4a2f8a065d9a04567ac71becb0681f604ea4183fb60db"
+    },
+    {
+      "path": "generated/media/games/this-war-of-mine-shelter-960.webp",
+      "bytes": 86792,
+      "sha256": "f554645a0575b861d1a5649bc3f942a51e5f641fb517c13322ec7a3839aeddbf"
+    },
+    {
+      "path": "generated/travel/australia-1200.webp",
+      "bytes": 149546,
+      "sha256": "3a0b9c061b5a52f2263c1748389303f2e27ce7f9af272059bf7a1d794f858e04"
+    },
+    {
+      "path": "generated/travel/australia-1800.webp",
+      "bytes": 315446,
+      "sha256": "637d1bb6a70cae3ac8906c1483cb6bff0e6b25b95f1a73bd5c1dc61e14ce250e"
+    },
+    {
+      "path": "generated/travel/australia-640.webp",
+      "bytes": 43004,
+      "sha256": "a2058e7523699ca2e05877a218151237ded0c3cd670c1b11ebfdc822bfbaa126"
+    },
+    {
+      "path": "generated/travel/china-1200.webp",
+      "bytes": 248374,
+      "sha256": "5be8b1673cc0bb194e2ce91578ed7d922339b02c49cd55d38a40a608dff6725b"
+    },
+    {
+      "path": "generated/travel/china-1536.webp",
+      "bytes": 300262,
+      "sha256": "21560cc42aab3b4194b132b979eb7fd665e2b51bb6f2e5cebe90c366c4ef34ba"
+    },
+    {
+      "path": "generated/travel/china-640.webp",
+      "bytes": 67930,
+      "sha256": "732d74185ed5e7d88e44acd223fdf2c288d169eafb9ca734638af27b9e6f1956"
+    },
+    {
+      "path": "generated/travel/hong-kong-1200.webp",
+      "bytes": 193524,
+      "sha256": "fcc97d2252e9855bdb10f171c3950907578fefae139351258a7e85085c0ca358"
+    },
+    {
+      "path": "generated/travel/hong-kong-1800.webp",
+      "bytes": 341548,
+      "sha256": "8f03cb31c1bb751f9e4a87d471a7a7e809555be5abd34fc19f17a17042b2f55b"
+    },
+    {
+      "path": "generated/travel/hong-kong-640.webp",
+      "bytes": 56780,
+      "sha256": "53433e1a27cf4c2ae5c978302ac7b32ef3193bba4553ef2431516319545c002f"
+    },
+    {
+      "path": "generated/travel/iceland-1200.webp",
+      "bytes": 77120,
+      "sha256": "240c6bf5275ca6911319f083104ac3d40437ba8f4a1ac0757bda7e50054dfbd6"
+    },
+    {
+      "path": "generated/travel/iceland-1800.webp",
+      "bytes": 153118,
+      "sha256": "485255a1edd8fcf6a851d6604669bb339e34e79c3d5049a424dfc65b52378b4b"
+    },
+    {
+      "path": "generated/travel/iceland-640.webp",
+      "bytes": 25148,
+      "sha256": "44ee32ee1d5b9e539359cbcd4d8f3c9d72a28984e14d15b9753201e3d58ea4b9"
+    },
+    {
+      "path": "generated/travel/indonesia-1200.webp",
+      "bytes": 312462,
+      "sha256": "d83b836e746d65e72549df41e232e5385ae2916ddb818e7d814c8c53bb3a4ed7"
+    },
+    {
+      "path": "generated/travel/indonesia-1800.webp",
+      "bytes": 360558,
+      "sha256": "c51099d6f6aa80c0855af73abec292f7953a4d731edb54e6b3096245dcea7ca8"
+    },
+    {
+      "path": "generated/travel/indonesia-640.webp",
+      "bytes": 85036,
+      "sha256": "fc98fa2bf2ab4f4bbcb2da86bd9127c6190222097353fc6b10ac5c39f8925edc"
+    },
+    {
+      "path": "generated/travel/japan-1200.webp",
+      "bytes": 31134,
+      "sha256": "182558d57524f8d5eeb9c5c5d7e291036bac1cc9b16724cf80077bb01c7c4b06"
+    },
+    {
+      "path": "generated/travel/japan-1800.webp",
+      "bytes": 60938,
+      "sha256": "9de42f976ad5d4776ad39e1c1b1021809ded11d7ade07e54b626bb7cb6c90ea2"
+    },
+    {
+      "path": "generated/travel/japan-640.webp",
+      "bytes": 11896,
+      "sha256": "6eff441354c18389d5db21b701771b55a6d2f86633362994ec06be4faff82536"
+    },
+    {
+      "path": "generated/travel/malaysia-1200.webp",
+      "bytes": 113590,
+      "sha256": "374e71b2f7f390b0b8bed64378ddf79af5c21cf3e1ff70b48d0046295a76d894"
+    },
+    {
+      "path": "generated/travel/malaysia-1280.webp",
+      "bytes": 134962,
+      "sha256": "b9b269025942669fc889c5058f74d5d8fc3b3f781b23b0ab1f2b61d6d9c41b66"
+    },
+    {
+      "path": "generated/travel/malaysia-640.webp",
+      "bytes": 34874,
+      "sha256": "716b6fc7edbd635a2dce1fa5fce83e966c379ddfb8d0461f270cf964281dff2e"
+    },
+    {
+      "path": "generated/travel/maldives-1200.webp",
+      "bytes": 146330,
+      "sha256": "6d38404e75b44ce33f73b1b57219ad0f385010b6126717f2430db9be29ec4535"
+    },
+    {
+      "path": "generated/travel/maldives-1800.webp",
+      "bytes": 335072,
+      "sha256": "c5b0bf271540b2d6cf4fa8f6229fb9f1ad217ea0f24aacb53dc86a76ab4f8418"
+    },
+    {
+      "path": "generated/travel/maldives-640.webp",
+      "bytes": 41504,
+      "sha256": "c3d6c177c2fff026a0dfb29eeff77789a1f1e4e22e2198d222a7a5f88205aa59"
+    },
+    {
+      "path": "generated/travel/netherlands-1200.webp",
+      "bytes": 103954,
+      "sha256": "9228c69f7e81949ec54d55d035b15b92d53dff56f4a1d952ae49ea0863bd79ba"
+    },
+    {
+      "path": "generated/travel/netherlands-1800.webp",
+      "bytes": 222182,
+      "sha256": "b0216aea57542d7d0e38af9ff3231f887454194205ffbc20c2d508e963d32d23"
+    },
+    {
+      "path": "generated/travel/netherlands-640.webp",
+      "bytes": 29806,
+      "sha256": "348af2e5211b05b1c8d1a4c516b4a737e5fc00f29250613bee8e15596bbc91f6"
+    },
+    {
+      "path": "generated/travel/new-zealand-1200.webp",
+      "bytes": 185556,
+      "sha256": "a7cfe73fed6768d583d6159c67cda7c319977286695bd55a77ad678177c923a2"
+    },
+    {
+      "path": "generated/travel/new-zealand-1800.webp",
+      "bytes": 320464,
+      "sha256": "a2a77ce7ff5f626a6f324f2d440095d5b5a3588c69606b12b623c4006e868120"
+    },
+    {
+      "path": "generated/travel/new-zealand-640.webp",
+      "bytes": 56028,
+      "sha256": "5179a65692ae2aed497fafccc739c5b75aadb53a92e1d422b0c2881a0444ca55"
+    },
+    {
+      "path": "generated/travel/switzerland-1200.webp",
+      "bytes": 148214,
+      "sha256": "a2081e1016545938733887978edc44c3ba08a1cff6838dea326b344c0965d273"
+    },
+    {
+      "path": "generated/travel/switzerland-1800.webp",
+      "bytes": 307928,
+      "sha256": "aaaa4173ae0d14bc61935c9de1c642145fadb11a56faea67921dcbbab2ecbad7"
+    },
+    {
+      "path": "generated/travel/switzerland-640.webp",
+      "bytes": 48528,
+      "sha256": "65fbb8faff0b9c4689c343fadcd32456b9e045dc6c7b00ab64b3540a5c2fccc6"
+    },
+    {
+      "path": "generated/travel/thailand-1200.webp",
+      "bytes": 54896,
+      "sha256": "6a1a58e1a785bfb431b9865dce31d590c89e8de0d2b8a0a24ea849e3087abbea"
+    },
+    {
+      "path": "generated/travel/thailand-1800.webp",
+      "bytes": 121204,
+      "sha256": "82b3ffc84ee111031d8cbbbe9f1eb06fc34cc1c8733990e69b6081941b9b4653"
+    },
+    {
+      "path": "generated/travel/thailand-640.webp",
+      "bytes": 17472,
+      "sha256": "7eb1723cda4a7d1c961f74f4da77bf583434517c84f49f38bb79eccad2d9deaa"
+    },
+    {
+      "path": "generated/travel/united-states-1200.webp",
+      "bytes": 142774,
+      "sha256": "b5b28fb0af86834e928202c3a5f30c79101fb0959a4c44a983170904626ba3d1"
+    },
+    {
+      "path": "generated/travel/united-states-1800.webp",
+      "bytes": 289194,
+      "sha256": "a6665f842ea8d394d8518031418c3110913dde7b4e983f8f951f0ddd5c8ef9a1"
+    },
+    {
+      "path": "generated/travel/united-states-640.webp",
+      "bytes": 47320,
+      "sha256": "590e09116d0c2dab471119ae2ea922cf582ddb6688dac24fccd56c432013978e"
+    },
+    {
+      "path": "generated/travel/vietnam-1200.webp",
+      "bytes": 72442,
+      "sha256": "e243a7b0b6f9dddb69203cdd2aa62b6ed664af9c773aa2592a136bb23e815f5b"
+    },
+    {
+      "path": "generated/travel/vietnam-2048.webp",
+      "bytes": 191916,
+      "sha256": "88d1174ce6ef371768942e49dca46149ab2124efd5a006e77b0fbbfd07f71ad3"
+    },
+    {
+      "path": "generated/travel/vietnam-640.webp",
+      "bytes": 23464,
+      "sha256": "0b6f5e34e181598c4a4074d951c7d195861130adac1dd1ed871d4f4acdb14130"
     },
     {
       "path": "index.html",
-      "bytes": 89979,
-      "sha256": "ae275ab2766cec3c346672159c24032ba2677a365445a2c254aa471a4f2adfb4"
+      "bytes": 108964,
+      "sha256": "f858d1467f5f3e183ed89a1b8818d2662e634a151d5539f24972d4ced45252e1"
     },
     {
       "path": "index.txt",
-      "bytes": 51126,
-      "sha256": "f103625ccae3b373da1bb16eb4b5183c8217af53ead1704687a9a4bfe58f0a4b"
+      "bytes": 61965,
+      "sha256": "f0eaa8c1e9e677f0cffb74e60a945a3579a74f3ac2c54334df5f0d18264ebfb7"
     },
     {
       "path": "robots.txt",
@@ -2064,967 +2519,1117 @@
     {
       "path": "version.json",
       "bytes": 138,
-      "sha256": "55a80ea760396b71e71b2d6e6ae669d45558ec2cd4ee656cee53b6c537066160"
+      "sha256": "7f13a05675f4207dbde8237f766d4591e1bd39eca467765191123fda774735b7"
     },
     {
       "path": "zh/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 44367,
-      "sha256": "30891d559f761deeac5fe1e504c4a96bbb5b454c194494f83eacbe31be18d0ee"
+      "bytes": 54448,
+      "sha256": "b6e4708908cf1b3f1a21e5f592e70edaed806b465dabb2671bb701fadd7456da"
     },
     {
       "path": "zh/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/__next._full.txt",
-      "bytes": 50257,
-      "sha256": "14f390777997dddd0628d51bd089ced5dc7d9ce2983f3579b6da9a4902eb1833"
+      "bytes": 61005,
+      "sha256": "b936d2fb78bac7aff365ef488aaa4a6733fd2b22c459a299fd8024eb9023d3b2"
     },
     {
       "path": "zh/__next._tree.txt",
-      "bytes": 555,
-      "sha256": "0ec29c302c72e3056e22a7d9cfaea4266289bbb319b6f6bab43293320708da9c"
+      "bytes": 609,
+      "sha256": "33da32350b95d0461ece423226506d158e7580f3ed0c58adea733d6f16efe5d2"
     },
     {
       "path": "zh/about/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 24236,
-      "sha256": "bb0783ecd09309a9c31d24a757786244405d3a07a988b8cb63d6db6a4b4d84dc"
+      "bytes": 25182,
+      "sha256": "0f9f11158573549a6531b86424746baf05cc4b67c4fd3ce9f75a90cd2e230fcf"
     },
     {
       "path": "zh/about/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/about/__next._full.txt",
-      "bytes": 38106,
-      "sha256": "ffac0da5c8f6c5c41e3b33795a5a049fac9c88c3cf76862ca91a9c41992a634e"
+      "bytes": 39869,
+      "sha256": "aa56e2fd8be5ee4018b6f06ba6d4c43b04b083ffafcbb6e3126c70bb91d11ec7"
     },
     {
       "path": "zh/about/__next._tree.txt",
-      "bytes": 560,
-      "sha256": "e8778acc090f1f6b6de56162b1ced78a77f5c997b8f57c46df445a2a644c0ab6"
+      "bytes": 614,
+      "sha256": "e4b563ae7b9c62bfbb1b63675817e7fe50548a017835f6543374fe369d61ee1d"
     },
     {
       "path": "zh/about/index.html",
-      "bytes": 63111,
-      "sha256": "726893cbf26c323463fec57e6504d9ed033a1c820f36eaf7a3fe8bf24a297074"
+      "bytes": 66281,
+      "sha256": "33a6b340071445c78d83148ee2aeee9ee240bf479d725fdd12ee65d9f6f36042"
     },
     {
       "path": "zh/about/index.txt",
-      "bytes": 38106,
-      "sha256": "ffac0da5c8f6c5c41e3b33795a5a049fac9c88c3cf76862ca91a9c41992a634e"
+      "bytes": 39869,
+      "sha256": "aa56e2fd8be5ee4018b6f06ba6d4c43b04b083ffafcbb6e3126c70bb91d11ec7"
     },
     {
       "path": "zh/contact/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 13494,
-      "sha256": "553955e412d3dfacb049be96304420c0e354195322a31416d7277eabac4b79fa"
+      "bytes": 14178,
+      "sha256": "0ef455467f8ff9ee596c7e59aca99e08845737f304475c54bd07ea4fc4d17928"
     },
     {
       "path": "zh/contact/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/contact/__next._full.txt",
-      "bytes": 19488,
-      "sha256": "4a1c434502df8a327dbdaa268a5be437a9b645f152989cb3b0b896f802d7cc23"
+      "bytes": 20866,
+      "sha256": "49edc8360f85c2485f7e7b3182439c4c7a38e2fdfcbd31d42723be5cf6e385db"
     },
     {
       "path": "zh/contact/__next._tree.txt",
-      "bytes": 562,
-      "sha256": "2ea4dfd89f68003c43802b72e24cedb017f814e05199924a4745199f037e968a"
+      "bytes": 616,
+      "sha256": "1c860bad0677c4c785ab4bf93f549e3147fdcece0f8b0867360e4d98c8f0e8ae"
     },
     {
       "path": "zh/contact/index.html",
-      "bytes": 29499,
-      "sha256": "58e714a18ecc5fd751fd740912670cbd6e20113c76c3e7f52b9a3c32b2f1a4bb"
+      "bytes": 31883,
+      "sha256": "bfd48f2293a355dce5b66a2efa02275160a27421fc6fe72c01758985b184e706"
     },
     {
       "path": "zh/contact/index.txt",
-      "bytes": 19488,
-      "sha256": "4a1c434502df8a327dbdaa268a5be437a9b645f152989cb3b0b896f802d7cc23"
+      "bytes": 20866,
+      "sha256": "49edc8360f85c2485f7e7b3182439c4c7a38e2fdfcbd31d42723be5cf6e385db"
+    },
+    {
+      "path": "zh/credits/__next.$d$locale.$oc$segments.__PAGE__.txt",
+      "bytes": 28572,
+      "sha256": "2346126ec6f4eb40af0faf6cda635a74dd941a91ba6dbb8ff8aec66ac244b471"
+    },
+    {
+      "path": "zh/credits/__next.$d$locale.txt",
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
+    },
+    {
+      "path": "zh/credits/__next._full.txt",
+      "bytes": 43677,
+      "sha256": "0817c8c15e2e52f4df8700bfd2b1879b87e8315e4b38dbae21aeb681cd8d42cb"
+    },
+    {
+      "path": "zh/credits/__next._tree.txt",
+      "bytes": 616,
+      "sha256": "06e78c28130ba5857582c3e4d9851b95257c23e814abbbf402b2040d4e09815a"
+    },
+    {
+      "path": "zh/credits/index.html",
+      "bytes": 74702,
+      "sha256": "43a280ff8b4a34e72371422a9e9336c6bfb261ca412de958ef6fed7cd78e487e"
+    },
+    {
+      "path": "zh/credits/index.txt",
+      "bytes": 43677,
+      "sha256": "0817c8c15e2e52f4df8700bfd2b1879b87e8315e4b38dbae21aeb681cd8d42cb"
     },
     {
       "path": "zh/cv/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 36078,
-      "sha256": "4d198bff110f5297ef9132e36ba4d778429da380312bbc290d6528fba45889b2"
+      "bytes": 37265,
+      "sha256": "981a898da0508b5ad92ba79272c4ef3035b6de3ebc894e38cbe46007ef653cbc"
     },
     {
       "path": "zh/cv/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/cv/__next._full.txt",
-      "bytes": 50042,
-      "sha256": "43421162a91452bd42bc3249fda9edf0be5b78583c16353e09fdbbf93ce89641"
+      "bytes": 52067,
+      "sha256": "7e8d4612bf8cc99ffb524761578c12454a2215d9321d0327b310a74279f3a217"
     },
     {
       "path": "zh/cv/__next._tree.txt",
-      "bytes": 557,
-      "sha256": "6f55fd4d800e28a588cb9096ab63e129875893d3bdd374c40b27c0efc0ac61cd"
+      "bytes": 611,
+      "sha256": "4e0a8a83330f4a20373df1872925c6f124ea798a9f4d3a9e32734021885c57f6"
     },
     {
       "path": "zh/cv/index.html",
-      "bytes": 84472,
-      "sha256": "2e76da9c1ba8a6bd5a8c6b71855e3e8cc415bcba3660ae404a48ad406d691e83"
+      "bytes": 88124,
+      "sha256": "04d596b1ef1c2ccce9080332cf609829a98bd1a5ec18781158233edbc89dcbbf"
     },
     {
       "path": "zh/cv/index.txt",
-      "bytes": 50042,
-      "sha256": "43421162a91452bd42bc3249fda9edf0be5b78583c16353e09fdbbf93ce89641"
+      "bytes": 52067,
+      "sha256": "7e8d4612bf8cc99ffb524761578c12454a2215d9321d0327b310a74279f3a217"
+    },
+    {
+      "path": "zh/explore/__next.$d$locale.$oc$segments.__PAGE__.txt",
+      "bytes": 46980,
+      "sha256": "adf883623f534f589b0202747798158975f43bc16d97e9a079f9c208c6ee0fd4"
+    },
+    {
+      "path": "zh/explore/__next.$d$locale.txt",
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
+    },
+    {
+      "path": "zh/explore/__next._full.txt",
+      "bytes": 61687,
+      "sha256": "3dd20603b4bdca9869c46a219402eebd0b83bd6fe1ff025dc425a3a53d81ceff"
+    },
+    {
+      "path": "zh/explore/__next._tree.txt",
+      "bytes": 616,
+      "sha256": "f57b93704da11f265b3c6206c8ffa25e12543258405db74fa4716ca3ea27fde3"
+    },
+    {
+      "path": "zh/explore/google-durham-visit/__next.$d$locale.$oc$segments.__PAGE__.txt",
+      "bytes": 8071,
+      "sha256": "1ecbc2810f04a75711efa1c46b91ee550ad9ef8f9f4486fe02858f8a3ef03c71"
+    },
+    {
+      "path": "zh/explore/google-durham-visit/__next.$d$locale.txt",
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
+    },
+    {
+      "path": "zh/explore/google-durham-visit/__next._full.txt",
+      "bytes": 22900,
+      "sha256": "a26b69bfc41283773dc9a3141f4032ae6f620559361bac799492d33a847c17a4"
+    },
+    {
+      "path": "zh/explore/google-durham-visit/__next._tree.txt",
+      "bytes": 636,
+      "sha256": "37936bf35f5b1bd299c2a57a011efee189117e528a54a60bb69774f2195b9925"
+    },
+    {
+      "path": "zh/explore/google-durham-visit/index.html",
+      "bytes": 35774,
+      "sha256": "96a0b4ea5d364e75cbb9ff1ea8334c5655af70ccf4b71a44c9c057f8dac0291e"
+    },
+    {
+      "path": "zh/explore/google-durham-visit/index.txt",
+      "bytes": 22900,
+      "sha256": "a26b69bfc41283773dc9a3141f4032ae6f620559361bac799492d33a847c17a4"
+    },
+    {
+      "path": "zh/explore/index.html",
+      "bytes": 102819,
+      "sha256": "1bf076cc0db4802b02e2bbe9528cb940780c8990e428c5335b36779d55de8d89"
+    },
+    {
+      "path": "zh/explore/index.txt",
+      "bytes": 61687,
+      "sha256": "3dd20603b4bdca9869c46a219402eebd0b83bd6fe1ff025dc425a3a53d81ceff"
+    },
+    {
+      "path": "zh/explore/nesime-tatbul-text-to-sql-talk/__next.$d$locale.$oc$segments.__PAGE__.txt",
+      "bytes": 8726,
+      "sha256": "4a80a4f5b9d73cc137ded2679989ee048250bf9eaff5552372913f69a18cdf4b"
+    },
+    {
+      "path": "zh/explore/nesime-tatbul-text-to-sql-talk/__next.$d$locale.txt",
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
+    },
+    {
+      "path": "zh/explore/nesime-tatbul-text-to-sql-talk/__next._full.txt",
+      "bytes": 23526,
+      "sha256": "526388a712f2b68cabf59973062fcc17291d0512afab7a9833923d5e6fbdf308"
+    },
+    {
+      "path": "zh/explore/nesime-tatbul-text-to-sql-talk/__next._tree.txt",
+      "bytes": 647,
+      "sha256": "a841ca2dd2a19f7539841a8649651c5f55f88b72b89384d8fa506baf2cf1f796"
+    },
+    {
+      "path": "zh/explore/nesime-tatbul-text-to-sql-talk/index.html",
+      "bytes": 37016,
+      "sha256": "6b52fa01dfa8b5835c041770b164ce13792834dca39332f62f05bf876ca39f0a"
+    },
+    {
+      "path": "zh/explore/nesime-tatbul-text-to-sql-talk/index.txt",
+      "bytes": 23526,
+      "sha256": "526388a712f2b68cabf59973062fcc17291d0512afab7a9833923d5e6fbdf308"
+    },
+    {
+      "path": "zh/explore/starship-engineering-inspiration/__next.$d$locale.$oc$segments.__PAGE__.txt",
+      "bytes": 7178,
+      "sha256": "b44d54d97d344d49906309b85ab5a1c7933c786dcb3c8337b93fd45098caf16a"
+    },
+    {
+      "path": "zh/explore/starship-engineering-inspiration/__next.$d$locale.txt",
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
+    },
+    {
+      "path": "zh/explore/starship-engineering-inspiration/__next._full.txt",
+      "bytes": 22020,
+      "sha256": "064575c2edd66844166b172268b59188594b0361e48e4c35c355e359d6728f7e"
+    },
+    {
+      "path": "zh/explore/starship-engineering-inspiration/__next._tree.txt",
+      "bytes": 649,
+      "sha256": "3c031f1e975c16f4857a9c59d6d24f9dbd283ff6475e4f30972a00fa39e33bb6"
+    },
+    {
+      "path": "zh/explore/starship-engineering-inspiration/index.html",
+      "bytes": 34046,
+      "sha256": "82f4b4066c63c2d2ce033c939bc959f4cb44007f6ba9622de010b234d5988285"
+    },
+    {
+      "path": "zh/explore/starship-engineering-inspiration/index.txt",
+      "bytes": 22020,
+      "sha256": "064575c2edd66844166b172268b59188594b0361e48e4c35c355e359d6728f7e"
     },
     {
       "path": "zh/index.html",
-      "bytes": 88716,
-      "sha256": "f726a8458c376b2258f35324793ef3da5abd3c94ee03297d8c3c8b6bd22403cf"
+      "bytes": 107507,
+      "sha256": "36b99523dd299a43588702f6b35fcd49845d44166bb2abf223d9c3c478d96a87"
     },
     {
       "path": "zh/index.txt",
-      "bytes": 50257,
-      "sha256": "14f390777997dddd0628d51bd089ced5dc7d9ce2983f3579b6da9a4902eb1833"
+      "bytes": 61005,
+      "sha256": "b936d2fb78bac7aff365ef488aaa4a6733fd2b22c459a299fd8024eb9023d3b2"
     },
     {
       "path": "zh/learning/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 25964,
-      "sha256": "b3e8be7992b8dab026fc905e30f1ec8c12fa2809557a22acc85cf4ddb00906b2"
+      "bytes": 19999,
+      "sha256": "fa806e9da10c5257aa2ba790ad0c58ccb71505c24becb79d300123c5915d6f5d"
     },
     {
       "path": "zh/learning/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/__next._full.txt",
-      "bytes": 39914,
-      "sha256": "f03c628043f8dae62dfcff82c2c7485e5853eebf70c54d399667f386f8d42e01"
+      "bytes": 34777,
+      "sha256": "a22cd49e0465595cee95dc853d6ddcfb24a0638b315b0dc9a8b11c4d1dfe9b08"
     },
     {
       "path": "zh/learning/__next._tree.txt",
-      "bytes": 563,
-      "sha256": "37dc79a2e86fe8634b38b396aa8d9a88629c2f8db74827711b0c8198ff84eb54"
+      "bytes": 617,
+      "sha256": "23fa08ff576933892094e90831c997c4f5cfeba2240a6e8d81c8848bfea13c41"
     },
     {
       "path": "zh/learning/duke-advanced-web-development/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6349,
-      "sha256": "d8572f893691cfab9fc835dde62bf95327b04be418da6c2f4264079b73550499"
+      "bytes": 6214,
+      "sha256": "f2c86f1a13bfa455552085a62f4a5d5c7dce177413dfb8d32478432b4cc18aac"
     },
     {
       "path": "zh/learning/duke-advanced-web-development/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/duke-advanced-web-development/__next._full.txt",
-      "bytes": 20357,
-      "sha256": "00413a59ea2d69890e3e20b324b541ee6af8167ff16056f004217f53759462a2"
+      "bytes": 21049,
+      "sha256": "0d9691b76f8898f7a201aca68f5c4842debbfccedf51b418023360f620e9734d"
     },
     {
       "path": "zh/learning/duke-advanced-web-development/__next._tree.txt",
-      "bytes": 593,
-      "sha256": "50cf9b6818e81ddda4d5d229d26f08e8fa1b64d1417c7c6b8fe00dce8270a84b"
+      "bytes": 647,
+      "sha256": "7b6dd84ee5aed0489b76c14808c66f968f6a234397efc4e3e7f4af9bf2d14f22"
     },
     {
       "path": "zh/learning/duke-advanced-web-development/index.html",
-      "bytes": 31160,
-      "sha256": "c25c344fdf58beb92f8ebae827bd4b7c56d2c5c522f8813088c603a0daf9efe8"
+      "bytes": 32320,
+      "sha256": "f4c8783bdd51e0d4940d755ec734941eb7ca190764d5a1c6371ffaaeabe13ab7"
     },
     {
       "path": "zh/learning/duke-advanced-web-development/index.txt",
-      "bytes": 20357,
-      "sha256": "00413a59ea2d69890e3e20b324b541ee6af8167ff16056f004217f53759462a2"
+      "bytes": 21049,
+      "sha256": "0d9691b76f8898f7a201aca68f5c4842debbfccedf51b418023360f620e9734d"
     },
     {
       "path": "zh/learning/duke-ai-product-management/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6350,
-      "sha256": "874d5ff29078d1a2334804ee0000d894e5e6eb475ddbbfe231113179e7532df7"
+      "bytes": 6257,
+      "sha256": "0cfb5e751e8d07b71a5af72dd036a12f3918f4f91bbae11b3b33ad7e25aab1bb"
     },
     {
       "path": "zh/learning/duke-ai-product-management/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/duke-ai-product-management/__next._full.txt",
-      "bytes": 20355,
-      "sha256": "cf550503c085ac385db114611106d740d6f2497ebec0707f3bf7fa67ef0edcc8"
+      "bytes": 21089,
+      "sha256": "22b37187bb9ed9eeb35be210079bd0d5ffaf1425cc3c34f5d334637172ca4e37"
     },
     {
       "path": "zh/learning/duke-ai-product-management/__next._tree.txt",
-      "bytes": 590,
-      "sha256": "4a4ff01dfaa76c6b22604e540629294a5866b8eb1b7a5366d6706612a39ce879"
+      "bytes": 644,
+      "sha256": "d4044c2b808d7723685b4e81d98e56337c7836ad51ef975dea42d9c37924ebd2"
     },
     {
       "path": "zh/learning/duke-ai-product-management/index.html",
-      "bytes": 31159,
-      "sha256": "ccb92ec8dd429bf9e24ab36f82d0eb8b3594a46f05d15ab882cef3ae351e4dcd"
+      "bytes": 32403,
+      "sha256": "cf8a76f45d5f584f3848724eb435459d0ecc55acfd45cbfc2f3782da33666081"
     },
     {
       "path": "zh/learning/duke-ai-product-management/index.txt",
-      "bytes": 20355,
-      "sha256": "cf550503c085ac385db114611106d740d6f2497ebec0707f3bf7fa67ef0edcc8"
+      "bytes": 21089,
+      "sha256": "22b37187bb9ed9eeb35be210079bd0d5ffaf1425cc3c34f5d334637172ca4e37"
     },
     {
       "path": "zh/learning/duke-ids-706/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6361,
-      "sha256": "9963b6bbd44b17eb239d6e705cd5c0ff73bd0a7453ffde7454e2b3f52b1269ef"
+      "bytes": 6266,
+      "sha256": "9531b214ac563150f5c15a96ec3791b16e4a829eab51c38f69a792fda5d8a5d0"
     },
     {
       "path": "zh/learning/duke-ids-706/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/duke-ids-706/__next._full.txt",
-      "bytes": 20352,
-      "sha256": "2b3a357fc6f03ae5cd58bc520838f5621a0f7d0f3ab0d995d5aca9b00d6cdb7c"
+      "bytes": 21084,
+      "sha256": "f09bf4220d58fc9a56fa4731c1f1334600df6cf8ab11d389a74c6273e9459936"
     },
     {
       "path": "zh/learning/duke-ids-706/__next._tree.txt",
-      "bytes": 576,
-      "sha256": "74a5c865d0a7832b936b3354928d7f02442b04881018fc8dbbdcee433e76c5b7"
+      "bytes": 630,
+      "sha256": "9f8b2efa4fb7a5fe5d45e0fcf3a4bb2fb7d8c85aa8db207d4e31eaf56320fa3b"
     },
     {
       "path": "zh/learning/duke-ids-706/index.html",
-      "bytes": 31167,
-      "sha256": "9cba8f2dd9c054128b6d5d5dc1e6e394ef736cd0ff50242a117fe76a01430a48"
+      "bytes": 32407,
+      "sha256": "f1fc3a465853119e90129907392da8b7f65503bda72f0d4b78a6b007d814cacd"
     },
     {
       "path": "zh/learning/duke-ids-706/index.txt",
-      "bytes": 20352,
-      "sha256": "2b3a357fc6f03ae5cd58bc520838f5621a0f7d0f3ab0d995d5aca9b00d6cdb7c"
+      "bytes": 21084,
+      "sha256": "f09bf4220d58fc9a56fa4731c1f1334600df6cf8ab11d389a74c6273e9459936"
     },
     {
       "path": "zh/learning/duke-systems-with-danyang-zhuo/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6680,
-      "sha256": "9758898cd81db06a4f383fa368fe043b92c6cf650684a2aa52706925eedbccc3"
+      "bytes": 6547,
+      "sha256": "5026d0ee468ba1f978ab7283fe5f4fe1975b34bebe04b37f5bc8f1c7bc958171"
     },
     {
       "path": "zh/learning/duke-systems-with-danyang-zhuo/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/duke-systems-with-danyang-zhuo/__next._full.txt",
-      "bytes": 20689,
-      "sha256": "4e7ed2d99400ef43b820946f7a8df1bbac9ccab82b95e1b348e2fa96e9480215"
+      "bytes": 21383,
+      "sha256": "e9c73846701c2e0ef54a044bb8e91dd63d847572cee457c0b177024311686975"
     },
     {
       "path": "zh/learning/duke-systems-with-danyang-zhuo/__next._tree.txt",
-      "bytes": 594,
-      "sha256": "0cb5ccd17c3a7ce82b63fce8a18e29dad63ba1fe04c4f19b39a18197a460c7a1"
+      "bytes": 648,
+      "sha256": "780ae116689c766a7ae58b8d35b8d775578db3038f48832be93533b411e7268f"
     },
     {
       "path": "zh/learning/duke-systems-with-danyang-zhuo/index.html",
-      "bytes": 31774,
-      "sha256": "7ed6563a6a99552fdf94bfeb332fe993d56af918ac5e1b22a8d1f967b5976d45"
+      "bytes": 32938,
+      "sha256": "fb96abe090c98b16af8b9d211e7a4c3a135c49e22a0351eda1aea6c4eddbc75c"
     },
     {
       "path": "zh/learning/duke-systems-with-danyang-zhuo/index.txt",
-      "bytes": 20689,
-      "sha256": "4e7ed2d99400ef43b820946f7a8df1bbac9ccab82b95e1b348e2fa96e9480215"
+      "bytes": 21383,
+      "sha256": "e9c73846701c2e0ef54a044bb8e91dd63d847572cee457c0b177024311686975"
     },
     {
       "path": "zh/learning/google-durham-visit/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6102,
-      "sha256": "64ccba995fcc1f31aa1e07f769fea4a437d15b508a89a15a2d2673c47dccc35e"
+      "bytes": 8310,
+      "sha256": "18d2388452deebdd35489c83777a35a400946a70cc1e06dedf8e8368759da5bc"
     },
     {
       "path": "zh/learning/google-durham-visit/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/google-durham-visit/__next._full.txt",
-      "bytes": 20100,
-      "sha256": "df6be615467588b48be7e13a570b32879134a39652deb694bd3ca19fd71461aa"
+      "bytes": 23131,
+      "sha256": "773904f6da593f23845ab620a94ca686761bd4de36e617272add3c423ba3ee23"
     },
     {
       "path": "zh/learning/google-durham-visit/__next._tree.txt",
-      "bytes": 583,
-      "sha256": "b3a7fa38b1538140b8b28ab038b575e418b25fc12c76615288941ee2fbd53ab7"
+      "bytes": 637,
+      "sha256": "9a3dd700e3d1fa521b5d988aeaa79fecb51978de92761e4a54c4ddd750ea931f"
     },
     {
       "path": "zh/learning/google-durham-visit/index.html",
-      "bytes": 30741,
-      "sha256": "787aa621ad49220313987b54e15c04f02cc0c8f2525763918926c7755c4a9b54"
+      "bytes": 36216,
+      "sha256": "69d180d79339425d4c8db9a3e4902309b20b3828ff4d6d8d244ae1984fead9f7"
     },
     {
       "path": "zh/learning/google-durham-visit/index.txt",
-      "bytes": 20100,
-      "sha256": "df6be615467588b48be7e13a570b32879134a39652deb694bd3ca19fd71461aa"
+      "bytes": 23131,
+      "sha256": "773904f6da593f23845ab620a94ca686761bd4de36e617272add3c423ba3ee23"
     },
     {
       "path": "zh/learning/index.html",
-      "bytes": 62315,
-      "sha256": "a9736847f9832bc81bdd02555f9070d4a791d11ec08429de2fdf748498dcff40"
+      "bytes": 54015,
+      "sha256": "a9e63a7caefe72294025e55cfbe47d9feb3246a663105d6109c4b1e027fdb466"
     },
     {
       "path": "zh/learning/index.txt",
-      "bytes": 39914,
-      "sha256": "f03c628043f8dae62dfcff82c2c7485e5853eebf70c54d399667f386f8d42e01"
+      "bytes": 34777,
+      "sha256": "a22cd49e0465595cee95dc853d6ddcfb24a0638b315b0dc9a8b11c4d1dfe9b08"
     },
     {
       "path": "zh/learning/nesime-tatbul-text-to-sql-talk/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5930,
-      "sha256": "fce46e912079fb61c4dd12dd781ce5fbd345f14bd353f9d868f7d8e723ede684"
+      "bytes": 8966,
+      "sha256": "e4b27d6f018faa8510962f2a196ff62f7d57f5dac1b57bcdd07a7b5b89d1f020"
     },
     {
       "path": "zh/learning/nesime-tatbul-text-to-sql-talk/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/nesime-tatbul-text-to-sql-talk/__next._full.txt",
-      "bytes": 19939,
-      "sha256": "f6d61e4837b7c0f23c6ef3141aadd42c40bbb93224c086f4971a4c93d53eb456"
+      "bytes": 23768,
+      "sha256": "516f4aca6849a74ea8d74d7c0c4e3bd767fdeb5c2b58408fed44e279ebac0cf4"
     },
     {
       "path": "zh/learning/nesime-tatbul-text-to-sql-talk/__next._tree.txt",
-      "bytes": 594,
-      "sha256": "a5a2a8975a32af533c1de605f13107d7f81687fb91805a186878c60e030b8a74"
+      "bytes": 648,
+      "sha256": "cbbf0cf0ca41f8284a9737f5904804287806cc6db5d8b8a6bab46861d48194d0"
     },
     {
       "path": "zh/learning/nesime-tatbul-text-to-sql-talk/index.html",
-      "bytes": 30380,
-      "sha256": "1ebed8e78229cf987487b6609a59d8ab1cf3f228c9506dcb7729b79c7a30a160"
+      "bytes": 37480,
+      "sha256": "6cb1ebdc65fe1b00b3cfc826bf8afc0998ba499c589600c72cb34a577acfabc0"
     },
     {
       "path": "zh/learning/nesime-tatbul-text-to-sql-talk/index.txt",
-      "bytes": 19939,
-      "sha256": "f6d61e4837b7c0f23c6ef3141aadd42c40bbb93224c086f4971a4c93d53eb456"
+      "bytes": 23768,
+      "sha256": "516f4aca6849a74ea8d74d7c0c4e3bd767fdeb5c2b58408fed44e279ebac0cf4"
     },
     {
       "path": "zh/learning/starship-engineering-inspiration/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5452,
-      "sha256": "65871a527b176667e32981ac76536f0e2cf4b71cc809ea893261b9d23ff88862"
+      "bytes": 7420,
+      "sha256": "205fbd0f7167fadc656a836ede2afe86fe827239d7851823a0db0f0f776945cb"
     },
     {
       "path": "zh/learning/starship-engineering-inspiration/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/starship-engineering-inspiration/__next._full.txt",
-      "bytes": 19463,
-      "sha256": "3cb41e76121456d7da1cf4f30e4961185ac3e39f3a9d56171e273704f137d5f8"
+      "bytes": 22264,
+      "sha256": "c46d0ec126cae1c0211b7e4531f280993f137e9cca2d9a57541d12f83f29869a"
     },
     {
       "path": "zh/learning/starship-engineering-inspiration/__next._tree.txt",
-      "bytes": 596,
-      "sha256": "4598a1eba8644df35ccc56f37e3650537991eddc9c0bd6b72b76b5a0aadac128"
+      "bytes": 650,
+      "sha256": "d2551d94e266911b452d09b818428c567988d27423a9dd989db760e738e09de5"
     },
     {
       "path": "zh/learning/starship-engineering-inspiration/index.html",
-      "bytes": 29453,
-      "sha256": "4ef8d1a14f6d1deed4d8c4b5bbefbfcca6ef04de1a5092a311fd38c1064bf964"
+      "bytes": 34514,
+      "sha256": "950eff2be9008c1504302b5bb759296157dbddcf805da1e161f2d44311c93185"
     },
     {
       "path": "zh/learning/starship-engineering-inspiration/index.txt",
-      "bytes": 19463,
-      "sha256": "3cb41e76121456d7da1cf4f30e4961185ac3e39f3a9d56171e273704f137d5f8"
+      "bytes": 22264,
+      "sha256": "c46d0ec126cae1c0211b7e4531f280993f137e9cca2d9a57541d12f83f29869a"
     },
     {
       "path": "zh/learning/utah-cs-2420/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6053,
-      "sha256": "6875aeb1fb9d1df787014ca89e762ab52f632d9ada134c11a84c1dc9d11c3b5a"
+      "bytes": 5897,
+      "sha256": "30bca685a439a48d4b0c53d991a1f922d840cb9c6067e0fa2bad8b96de435cce"
     },
     {
       "path": "zh/learning/utah-cs-2420/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/utah-cs-2420/__next._full.txt",
-      "bytes": 20044,
-      "sha256": "ee1bac6b681d23c42f142ae2082154ebabd187262812f8a0e94f1eee406772df"
+      "bytes": 20715,
+      "sha256": "f99d593b5355b3b9033c35a9425674d54479296b28317983622a065332c99da6"
     },
     {
       "path": "zh/learning/utah-cs-2420/__next._tree.txt",
-      "bytes": 576,
-      "sha256": "7d870e641b3ea58985f268934516aa6d1d4371c2d2f074969bcc7eb24de21578"
+      "bytes": 630,
+      "sha256": "3d07dc5392001816b4f4b4b3a85601d9a4de8cb527197dff582b5d9a853a2deb"
     },
     {
       "path": "zh/learning/utah-cs-2420/index.html",
-      "bytes": 30587,
-      "sha256": "50f38a0286d230b91eb5dcc1e7857951b12ad7e84bcd11a3bc17fc3e59bbee04"
+      "bytes": 31705,
+      "sha256": "bfa85137070864bb0cbf04d699bc14b746ccf32528205037243acbcfe794b1f5"
     },
     {
       "path": "zh/learning/utah-cs-2420/index.txt",
-      "bytes": 20044,
-      "sha256": "ee1bac6b681d23c42f142ae2082154ebabd187262812f8a0e94f1eee406772df"
+      "bytes": 20715,
+      "sha256": "f99d593b5355b3b9033c35a9425674d54479296b28317983622a065332c99da6"
     },
     {
       "path": "zh/learning/utah-cs-3540/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6528,
-      "sha256": "d4942a81f93251daad6ab5705e7b4d0026e122ddd0a42615653d0fa517b1b4a8"
+      "bytes": 6421,
+      "sha256": "2e5b7364cf7a566f3657d30baf1a8b1b69b1d6303501f8193e8dc6c2b3162b0c"
     },
     {
       "path": "zh/learning/utah-cs-3540/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/utah-cs-3540/__next._full.txt",
-      "bytes": 20519,
-      "sha256": "4af76315bbe1092e4ecd81c40024a017353592a983b05c82a85afffa9d594c23"
+      "bytes": 21239,
+      "sha256": "31591b1e5017d0ea22e9d3a98d7b5fefaf5ec62f620f6a9c61441da7a18ac02b"
     },
     {
       "path": "zh/learning/utah-cs-3540/__next._tree.txt",
-      "bytes": 576,
-      "sha256": "8a29e7c17ebe4b97a3d7d6fad8a4f4152d004f5bd97bc2789351872331008a40"
+      "bytes": 630,
+      "sha256": "0df0adef05372c5bc8970b9980f0df1212a595a21df5f7f46bdc41764ae09592"
     },
     {
       "path": "zh/learning/utah-cs-3540/index.html",
-      "bytes": 31482,
-      "sha256": "e7d41f109079684117f9fd502c7ffc90b5b1f34ac03487a859b1ca7c84c6e2da"
+      "bytes": 32698,
+      "sha256": "d6f5eef6898b41fb23a93d3160bbcae6469f4a561670343436e2aa39f14273eb"
     },
     {
       "path": "zh/learning/utah-cs-3540/index.txt",
-      "bytes": 20519,
-      "sha256": "4af76315bbe1092e4ecd81c40024a017353592a983b05c82a85afffa9d594c23"
+      "bytes": 21239,
+      "sha256": "31591b1e5017d0ea22e9d3a98d7b5fefaf5ec62f620f6a9c61441da7a18ac02b"
     },
     {
       "path": "zh/learning/utah-cs-4400/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5549,
-      "sha256": "e27e0e6efc2f572700e6b35e889cb42577468269944e5ae3c5f57a61e4983081"
+      "bytes": 5477,
+      "sha256": "2788a439d2250170b9f26ee1c8f2a5499fb610f901111cdf1141ec94bacad817"
     },
     {
       "path": "zh/learning/utah-cs-4400/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/utah-cs-4400/__next._full.txt",
-      "bytes": 19540,
-      "sha256": "3724687ba415b8b10f35591fc5c8201e60518afae3cefb2194b0b211fff34ca8"
+      "bytes": 20295,
+      "sha256": "11a9b0904250cd7a45a09a66039118b595e82459489a56bbf55575e0f671af57"
     },
     {
       "path": "zh/learning/utah-cs-4400/__next._tree.txt",
-      "bytes": 576,
-      "sha256": "1f50db14444bf9483993530923d04177556b2841fe8dba4a9faee0908621ce17"
+      "bytes": 630,
+      "sha256": "c6bd7e63b4ea095fc2edb67336359aacd509ec63798599b6e992f321d592f46c"
     },
     {
       "path": "zh/learning/utah-cs-4400/index.html",
-      "bytes": 29622,
-      "sha256": "be41846acc5ddcd2ad635d30b33c46104b46e84fbeedb8f5086267ea8cd6f06c"
+      "bytes": 30908,
+      "sha256": "1ebf39461164717367e90a22ac311c65a673318809eb377db95a488bd7f413da"
     },
     {
       "path": "zh/learning/utah-cs-4400/index.txt",
-      "bytes": 19540,
-      "sha256": "3724687ba415b8b10f35591fc5c8201e60518afae3cefb2194b0b211fff34ca8"
+      "bytes": 20295,
+      "sha256": "11a9b0904250cd7a45a09a66039118b595e82459489a56bbf55575e0f671af57"
     },
     {
       "path": "zh/learning/utah-cs-5530/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5579,
-      "sha256": "c6d9b7625dcd029823b9acc65143a8cf305e3aa8b567d6d4b0f591abd21b56e4"
+      "bytes": 5507,
+      "sha256": "4bb33957b3c4cf7456054be96dcbcffaf85616b5af825a3d69e230f99f26804b"
     },
     {
       "path": "zh/learning/utah-cs-5530/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/utah-cs-5530/__next._full.txt",
-      "bytes": 19570,
-      "sha256": "dbdaed186218e8d309b1d3eaff8e2b3844e71819bda489058f017f49bf146cca"
+      "bytes": 20325,
+      "sha256": "82fbd3bd6387fa537b82e89c2ea58da4710e71c2625cad74607a9875063ed8fe"
     },
     {
       "path": "zh/learning/utah-cs-5530/__next._tree.txt",
-      "bytes": 576,
-      "sha256": "73a20f43600d9a6e07d211bf92c9de25e8d2df6aff8aa2a7800030efb9c5bd97"
+      "bytes": 630,
+      "sha256": "87d7e0c677a37f8fc291ca705c73d24694fa9bd0da2cec474c2a9f8bc0b3a641"
     },
     {
       "path": "zh/learning/utah-cs-5530/index.html",
-      "bytes": 29682,
-      "sha256": "cfd53df86763c656a4e86ad546adca87346b9bf0d47db7067759aecdf4d2fa95"
+      "bytes": 30968,
+      "sha256": "9c68f97fb3a4433c1a9324ef38d3e5735a7a40e37531849f71720042a0a39fa4"
     },
     {
       "path": "zh/learning/utah-cs-5530/index.txt",
-      "bytes": 19570,
-      "sha256": "dbdaed186218e8d309b1d3eaff8e2b3844e71819bda489058f017f49bf146cca"
+      "bytes": 20325,
+      "sha256": "82fbd3bd6387fa537b82e89c2ea58da4710e71c2625cad74607a9875063ed8fe"
     },
     {
       "path": "zh/learning/utah-writing-critical-thinking/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6098,
-      "sha256": "7c638cad227b344c8ac7666c35bf0cd8f5d16d8af9e47e006b8fab56c376f08c"
+      "bytes": 6013,
+      "sha256": "9ae7ae6226060fb70a0d8f0521f56aa178989a884600fbb18ec41fc34dc2d030"
     },
     {
       "path": "zh/learning/utah-writing-critical-thinking/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/learning/utah-writing-critical-thinking/__next._full.txt",
-      "bytes": 20107,
-      "sha256": "47740e0ba34c7363f3fa6782d872983c893405b37f0b78ea35cc16be35229e9c"
+      "bytes": 20849,
+      "sha256": "b8c46d4b7124fe86e953d8e3bd509d06bbce5a0db2b9b3842fb7813f9dccdf97"
     },
     {
       "path": "zh/learning/utah-writing-critical-thinking/__next._tree.txt",
-      "bytes": 594,
-      "sha256": "31235827c4ba004dd1ad24ec8785c5e8b819abe61efe8dbdd1d3cbc0278f25b0"
+      "bytes": 648,
+      "sha256": "c5a268d9bfdf95502b1f70ffa975f8474228de24fe8ec4aea7a93d7911da15d1"
     },
     {
       "path": "zh/learning/utah-writing-critical-thinking/index.html",
-      "bytes": 30660,
-      "sha256": "29553dfbbc4035a1f92fca4771faca6941ba533420f0ee113203b054597724b2"
+      "bytes": 31920,
+      "sha256": "3ca11a90f306ceaf158c791f386cf6d7fc2d51afd82f5aef991d63f9e43435f4"
     },
     {
       "path": "zh/learning/utah-writing-critical-thinking/index.txt",
-      "bytes": 20107,
-      "sha256": "47740e0ba34c7363f3fa6782d872983c893405b37f0b78ea35cc16be35229e9c"
+      "bytes": 20849,
+      "sha256": "b8c46d4b7124fe86e953d8e3bd509d06bbce5a0db2b9b3842fb7813f9dccdf97"
     },
     {
       "path": "zh/life/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 23776,
-      "sha256": "c1c6b8264a85c713d54f8319e49ab008289996ee194ba64955142044d34726f2"
+      "bytes": 33078,
+      "sha256": "a355141eb166618d86a91ac1ace1ba467aab877059f11ac3c469d6e733f48c94"
     },
     {
       "path": "zh/life/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/life/__next._full.txt",
-      "bytes": 29719,
-      "sha256": "383a4760c7db2952b7acd38bd6fee7d50cef37298edde9d74bec473bc0499ec1"
+      "bytes": 39699,
+      "sha256": "a1841046e38fba20b42c62bc3d10cd8c81237db99de61730ff622e15241eec94"
     },
     {
       "path": "zh/life/__next._tree.txt",
-      "bytes": 559,
-      "sha256": "e228b7741f2ff1b3c7c51ee6a620201125b10b80d3a718201d23b944ffb8529d"
+      "bytes": 613,
+      "sha256": "eb418bba058ac1c42dd9a4f1fec457a70cb833befcb8af1e3e027e11bd483d8f"
     },
     {
       "path": "zh/life/index.html",
-      "bytes": 51664,
-      "sha256": "7e363333cc8cad74c8247966dad389accb1b7e74a241c7335341830ca48bfbca"
+      "bytes": 69459,
+      "sha256": "f787fc1b283b4c4d30e40886b8d8c42064d7ae65739358dedf736b0b7b99a0ee"
     },
     {
       "path": "zh/life/index.txt",
-      "bytes": 29719,
-      "sha256": "383a4760c7db2952b7acd38bd6fee7d50cef37298edde9d74bec473bc0499ec1"
+      "bytes": 39699,
+      "sha256": "a1841046e38fba20b42c62bc3d10cd8c81237db99de61730ff622e15241eec94"
     },
     {
       "path": "zh/publications/iteration-without-elaboration/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6240,
-      "sha256": "41cafb31428e47ff371d7ea810bd1867653882a7247b5b245c73fae10301dc7d"
+      "bytes": 6294,
+      "sha256": "f54ebaa59086c4fc11f1c6c542501307fd4db434473ed51094e91234c4389897"
     },
     {
       "path": "zh/publications/iteration-without-elaboration/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/publications/iteration-without-elaboration/__next._full.txt",
-      "bytes": 20252,
-      "sha256": "c905ad21274fa39c8b6257c3d67ce5305a3cf8ef8796a2f470ac1cc8f0b7d0a8"
+      "bytes": 21133,
+      "sha256": "b3a46fb6aacd1da146c42ddad376c9f93b44e9c80b5040a9bd3dba1c20ab8afb"
     },
     {
       "path": "zh/publications/iteration-without-elaboration/__next._tree.txt",
-      "bytes": 597,
-      "sha256": "fb7405b55d1be1b0570a6bad5e5d0430926502ffe197fcd3e5ee227bef4a28d5"
+      "bytes": 651,
+      "sha256": "ac80d1ba46c06d34a95ecb437eaec1d2a62efcaff2bc44303b3572c13bfe393d"
     },
     {
       "path": "zh/publications/iteration-without-elaboration/index.html",
-      "bytes": 30931,
-      "sha256": "28ccd60536eabd5830e6be3060090aaafe79802f9426ccc46eedcec23e5c3ba1"
+      "bytes": 32442,
+      "sha256": "375f99cdb822ffc94632edba49c941a117d9420e3859a6d96e2dc81c01ee90e3"
     },
     {
       "path": "zh/publications/iteration-without-elaboration/index.txt",
-      "bytes": 20252,
-      "sha256": "c905ad21274fa39c8b6257c3d67ce5305a3cf8ef8796a2f470ac1cc8f0b7d0a8"
+      "bytes": 21133,
+      "sha256": "b3a46fb6aacd1da146c42ddad376c9f93b44e9c80b5040a9bd3dba1c20ab8afb"
     },
     {
       "path": "zh/publications/prompt-engineering-charts/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6300,
-      "sha256": "5e497fe8bb6267aabf230c89ef30cebe207591563ec4f35c293ffb4548bc2f6b"
+      "bytes": 6354,
+      "sha256": "0a1e08ec9309ac72539d945704ae5adaea9e425d21c5c1c62eee43ae3a7fd43a"
     },
     {
       "path": "zh/publications/prompt-engineering-charts/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/publications/prompt-engineering-charts/__next._full.txt",
-      "bytes": 20308,
-      "sha256": "1313f7d2e50d257efd7398961eb9a7cef7e10bea697bdd5134119a2b3487f91b"
+      "bytes": 21189,
+      "sha256": "2e554ba0b77dcc3cb1d29a997c7cac39b0c4a70e9d32a1c4a770e35d29e8a423"
     },
     {
       "path": "zh/publications/prompt-engineering-charts/__next._tree.txt",
-      "bytes": 593,
-      "sha256": "58439c0d494fefecdd06eae83d853c588ea93cc0de11daaa009af67da618d8a9"
+      "bytes": 647,
+      "sha256": "a8c2b8e941fa958db705016ea89e6932d896e1b9ea982a702f6d9ca3c7fe2de5"
     },
     {
       "path": "zh/publications/prompt-engineering-charts/index.html",
-      "bytes": 31035,
-      "sha256": "db254d75b55c451b1e45b01a6c00f99a4b26c4ac4751d472e5f1bf6b7d674a69"
+      "bytes": 32546,
+      "sha256": "a54471486449c10667173e108dd9f800fde2b250c1d3595add5d42bd8d8adf36"
     },
     {
       "path": "zh/publications/prompt-engineering-charts/index.txt",
-      "bytes": 20308,
-      "sha256": "1313f7d2e50d257efd7398961eb9a7cef7e10bea697bdd5134119a2b3487f91b"
+      "bytes": 21189,
+      "sha256": "2e554ba0b77dcc3cb1d29a997c7cac39b0c4a70e9d32a1c4a770e35d29e8a423"
     },
     {
       "path": "zh/publications/reliable-auditable-ehr/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5536,
-      "sha256": "45a06e92ed85af7b38f6549667f3a99dbc57aba20336166a48cfc43f9aceca74"
+      "bytes": 5590,
+      "sha256": "4c77f638fcbb37d53f72a1d322703d0903f4052953afa2058df40d1dc48dd887"
     },
     {
       "path": "zh/publications/reliable-auditable-ehr/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/publications/reliable-auditable-ehr/__next._full.txt",
-      "bytes": 19541,
-      "sha256": "01e4dec2ae7c3eb48d0122e1b5658f5d6bd5125aa03b42ca3907e1a2989fa5b9"
+      "bytes": 20422,
+      "sha256": "63fe1b0fad678cb6888c075330b38ccf2f77d291784b0be0cae9c375e7b07e7b"
     },
     {
       "path": "zh/publications/reliable-auditable-ehr/__next._tree.txt",
-      "bytes": 590,
-      "sha256": "10859b10b39f99a6830af1bae273cfb2608f0bcdd50167a13c5f4b4f498d7207"
+      "bytes": 644,
+      "sha256": "33328de7e478e17df24a89c3ee38227af333c7b27bf04f6f0fbb00428c42984b"
     },
     {
       "path": "zh/publications/reliable-auditable-ehr/index.html",
-      "bytes": 29600,
-      "sha256": "2068196798f199791635f8c98bfa3aec3e283ff1a035ad9291ac25f07e02ce6b"
+      "bytes": 31111,
+      "sha256": "ad12d91076b9fa348c76f9483fcb02b744be3cb3a6610199c764102320320cea"
     },
     {
       "path": "zh/publications/reliable-auditable-ehr/index.txt",
-      "bytes": 19541,
-      "sha256": "01e4dec2ae7c3eb48d0122e1b5658f5d6bd5125aa03b42ca3907e1a2989fa5b9"
+      "bytes": 20422,
+      "sha256": "63fe1b0fad678cb6888c075330b38ccf2f77d291784b0be0cae9c375e7b07e7b"
     },
     {
       "path": "zh/reflections/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6515,
-      "sha256": "9d6d594eb2a94f78e99cf349137ee51794dfba02cc4db96f9ed0f135c439b645"
+      "bytes": 6570,
+      "sha256": "417312fc04762986b1d786f232dc57bf36939b295e4dbbb41f3f98c855d257ee"
     },
     {
       "path": "zh/reflections/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/reflections/__next._full.txt",
-      "bytes": 20497,
-      "sha256": "7cabccd21add240535c564b0940de0e17ee884b68c7e4f0f496a867c1eceeb8a"
+      "bytes": 21379,
+      "sha256": "d48af9c12a05b90ca4949639ccfb07588c330e05d7b1d3d5fdc9ec9dedd908de"
     },
     {
       "path": "zh/reflections/__next._tree.txt",
-      "bytes": 566,
-      "sha256": "0a1b525338184d495a03eb0cffdd5e40a24715e2950c2c1a187e8c730a5e7e81"
+      "bytes": 620,
+      "sha256": "a659163d9a0711bc8fb8e5a6bd60d5864756dab7fe863c175c1e37291370abb7"
     },
     {
       "path": "zh/reflections/how-i-think-about-society/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5164,
-      "sha256": "c1074ca6a884d8ec35abad5522df4f6dd91a1582d45871c1640485c8c08dbed5"
+      "bytes": 5219,
+      "sha256": "a09274dc4395dde90ac3d27faaa65c6fdde1444fe50aa74c61cd7a07f28143ba"
     },
     {
       "path": "zh/reflections/how-i-think-about-society/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/reflections/how-i-think-about-society/__next._full.txt",
-      "bytes": 19171,
-      "sha256": "4fdeb46754a216d99ca35cb4e958f7e217cd6f2090327c6da89902a95165722c"
+      "bytes": 20053,
+      "sha256": "98b6092324e784c950d81cec1c881a0247985bfeb1aebb83a71c6b62d3fd5837"
     },
     {
       "path": "zh/reflections/how-i-think-about-society/__next._tree.txt",
-      "bytes": 592,
-      "sha256": "7b9ca02b448b4b02bad099d82d17014c87fe025e4811b160b9f4f2ca98c00ed7"
+      "bytes": 646,
+      "sha256": "26e154bf2b4694ebfe88d1463609e2676046aaa507e4b28b9a0fee32e64b6e06"
     },
     {
       "path": "zh/reflections/how-i-think-about-society/index.html",
-      "bytes": 29006,
-      "sha256": "557fb1d7d78fa29930850cccc0af4e39af89c748f91bc8f443aaefdc3e74bfa1"
+      "bytes": 30518,
+      "sha256": "d0f076349f5c50a843584576d44d23ad6f1ae908d7ab030a298abdf4a69d5c9c"
     },
     {
       "path": "zh/reflections/how-i-think-about-society/index.txt",
-      "bytes": 19171,
-      "sha256": "4fdeb46754a216d99ca35cb4e958f7e217cd6f2090327c6da89902a95165722c"
+      "bytes": 20053,
+      "sha256": "98b6092324e784c950d81cec1c881a0247985bfeb1aebb83a71c6b62d3fd5837"
     },
     {
       "path": "zh/reflections/human-value-in-an-automated-world/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5162,
-      "sha256": "4b1f294a8b05526d0e1fb019a44a53ee91256ed91abbc0e9d3c6282e664a4534"
+      "bytes": 5217,
+      "sha256": "ea65af526074a05c6fdea06020c59fa1ad19ac2755f537aa2d2825e6b790f071"
     },
     {
       "path": "zh/reflections/human-value-in-an-automated-world/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/reflections/human-value-in-an-automated-world/__next._full.txt",
-      "bytes": 19177,
-      "sha256": "94252bcec1294efe6267ef3b521c55a91c451c696ed72f55fb552f9a67dce3d3"
+      "bytes": 20059,
+      "sha256": "01f0bcb7c12f79a15ef4d823f0676759c8cd740a871811e0997701f29368c2a2"
     },
     {
       "path": "zh/reflections/human-value-in-an-automated-world/__next._tree.txt",
-      "bytes": 600,
-      "sha256": "71ca31063846b002a418fc25c279ee41a91e01bb071db92aa27c1f8566e2a9bf"
+      "bytes": 654,
+      "sha256": "77aab6ab057e8661641f72baeb73b88fdbcd21d6e1ef11cabdbe8be8a4a0c3af"
     },
     {
       "path": "zh/reflections/human-value-in-an-automated-world/index.html",
-      "bytes": 29010,
-      "sha256": "eaea181a704fb1ee3a085e4eb20755c8342e8d56e5e440155c913eb4dd012aa9"
+      "bytes": 30522,
+      "sha256": "dcfd65a8e3a9271cfed65708b93a0603767685857850e53647b50d97556c2966"
     },
     {
       "path": "zh/reflections/human-value-in-an-automated-world/index.txt",
-      "bytes": 19177,
-      "sha256": "94252bcec1294efe6267ef3b521c55a91c451c696ed72f55fb552f9a67dce3d3"
+      "bytes": 20059,
+      "sha256": "01f0bcb7c12f79a15ef4d823f0676759c8cd740a871811e0997701f29368c2a2"
     },
     {
       "path": "zh/reflections/index.html",
-      "bytes": 31131,
-      "sha256": "ddd890c953866690d09552efd0472d91e1172c676e9810f4583dccbbe54f3518"
+      "bytes": 32686,
+      "sha256": "cf8d8ac1e959905a08fe3276cbe8e6293b608ae6cb0091dc585ae564e65ecc85"
     },
     {
       "path": "zh/reflections/index.txt",
-      "bytes": 20497,
-      "sha256": "7cabccd21add240535c564b0940de0e17ee884b68c7e4f0f496a867c1eceeb8a"
+      "bytes": 21379,
+      "sha256": "d48af9c12a05b90ca4949639ccfb07588c330e05d7b1d3d5fdc9ec9dedd908de"
     },
     {
       "path": "zh/reflections/the-kind-of-business-i-want-to-build/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5342,
-      "sha256": "192085793c8bbe5e2e431647cf71c325a0a79edefb039e98274698659e4ae221"
+      "bytes": 5403,
+      "sha256": "14bdfd6abc53e78caabc5911d3806bc47e3df70d8293972eceaa2ea7f8d66dfe"
     },
     {
       "path": "zh/reflections/the-kind-of-business-i-want-to-build/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/reflections/the-kind-of-business-i-want-to-build/__next._full.txt",
-      "bytes": 19360,
-      "sha256": "d697dc77252b6ab78155e72579fedd4bd630ff3f0b81db956ddf1208df1ddb51"
+      "bytes": 20248,
+      "sha256": "7271fc650ffe5f3eb8f9e5395ab818cc936e8c3089d8960a4abe850b209d6c2f"
     },
     {
       "path": "zh/reflections/the-kind-of-business-i-want-to-build/__next._tree.txt",
-      "bytes": 603,
-      "sha256": "9158893d423544b7c5b8f267c505db2574532c6c5d5b77e36440550cb21aae04"
+      "bytes": 657,
+      "sha256": "d8fad29fabdcbde0208e429ca2dbda87faaa96367a7f66913ac033cdd36480ae"
     },
     {
       "path": "zh/reflections/the-kind-of-business-i-want-to-build/index.html",
-      "bytes": 29357,
-      "sha256": "be8f4d341fea39f60de36ca7ceef311eff4941964e4fa1b51402d492f3ee45fc"
+      "bytes": 30881,
+      "sha256": "7b0df2e3d4dd38163993b814f6d425021c550f1257d484589a60ba12f64e3e9b"
     },
     {
       "path": "zh/reflections/the-kind-of-business-i-want-to-build/index.txt",
-      "bytes": 19360,
-      "sha256": "d697dc77252b6ab78155e72579fedd4bd630ff3f0b81db956ddf1208df1ddb51"
+      "bytes": 20248,
+      "sha256": "7271fc650ffe5f3eb8f9e5395ab818cc936e8c3089d8960a4abe850b209d6c2f"
     },
     {
       "path": "zh/reflections/universities-in-the-age-of-ai/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5373,
-      "sha256": "4a4d0afe6a7867862a932b0617491462e3213d831ba1020bb759670f9b992f99"
+      "bytes": 5428,
+      "sha256": "c0d84a73af3bdc68679e80bff67dcfbb4a1a436013a5c3cbc78cc9a0cfd6079a"
     },
     {
       "path": "zh/reflections/universities-in-the-age-of-ai/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/reflections/universities-in-the-age-of-ai/__next._full.txt",
-      "bytes": 19384,
-      "sha256": "0d86a262f590d0cbfec1a166a5feddb32d91f5a19ee65fea36e46ad33d665fe7"
+      "bytes": 20266,
+      "sha256": "dd1af18d8e07b137fefe3e022cd5de5d4b4b5ad81fb93eae2e57e9563f1ca647"
     },
     {
       "path": "zh/reflections/universities-in-the-age-of-ai/__next._tree.txt",
-      "bytes": 596,
-      "sha256": "919ba9f17815e7bbacce2d7ed1d0547b12cf45f9082912958b5a1747630bc32c"
+      "bytes": 650,
+      "sha256": "38bbaaa509928446e0260f92b16b995fb32323651cec61a49f9fbef4c75f04b6"
     },
     {
       "path": "zh/reflections/universities-in-the-age-of-ai/index.html",
-      "bytes": 29428,
-      "sha256": "d57f6656ff6ae3481f0b6093be06baa69e491adf3932d7d24f8aad02c4872968"
+      "bytes": 30940,
+      "sha256": "d01c119632b84e9610e6b999f42523c037c84aaa12c3496c51987711477e6fa7"
     },
     {
       "path": "zh/reflections/universities-in-the-age-of-ai/index.txt",
-      "bytes": 19384,
-      "sha256": "0d86a262f590d0cbfec1a166a5feddb32d91f5a19ee65fea36e46ad33d665fe7"
+      "bytes": 20266,
+      "sha256": "dd1af18d8e07b137fefe3e022cd5de5d4b4b5ad81fb93eae2e57e9563f1ca647"
     },
     {
       "path": "zh/research/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 10547,
-      "sha256": "9d5ef8425e319470caff2ad1e43399d5a1e34da3795a01228c876412d012ae02"
+      "bytes": 10743,
+      "sha256": "b68414b6655323f6d83acdbd9c77c98c3a6e92bb96e9a5d91f0345ca0911fbb9"
     },
     {
       "path": "zh/research/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/research/__next._full.txt",
-      "bytes": 24489,
-      "sha256": "81699254eb44168e03917e079bcb930aace705f0e3799e3839339fe13cbbec9c"
+      "bytes": 25511,
+      "sha256": "36b3fae6a052eb8a66dc92657d8b907c281d4da1487b8b939bceb747880abed5"
     },
     {
       "path": "zh/research/__next._tree.txt",
-      "bytes": 563,
-      "sha256": "ec271259b135c754b49c582e89b0b8fe2302ee1ec5f4fa5efc3318811ee2e7e4"
+      "bytes": 617,
+      "sha256": "949572af4847c385848f0d054efc0bfd6512a1864abc26998f16bede78630276"
     },
     {
       "path": "zh/research/index.html",
-      "bytes": 38075,
-      "sha256": "482dc05437ca73f1b9a7cfc46cec453f63a443bcd59be4b11f5e0d1d45989f74"
+      "bytes": 39858,
+      "sha256": "876ca3ee41d168a6354893b3bb01da4991070ab17f8244cc7e9311acd77c3335"
     },
     {
       "path": "zh/research/index.txt",
-      "bytes": 24489,
-      "sha256": "81699254eb44168e03917e079bcb930aace705f0e3799e3839339fe13cbbec9c"
+      "bytes": 25511,
+      "sha256": "36b3fae6a052eb8a66dc92657d8b907c281d4da1487b8b939bceb747880abed5"
     },
     {
       "path": "zh/work/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 15118,
-      "sha256": "b242d3e7f2b42c5c4dbb7b5882aa1af1331c9b24f38327a68cd300b08c82602d"
+      "bytes": 15187,
+      "sha256": "8c4ce30fc8c897f29f3b34f3bd5c09805e8bd358653cabd2db086e39dfd6684d"
     },
     {
       "path": "zh/work/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/work/__next._full.txt",
-      "bytes": 29047,
-      "sha256": "1c956a15a5f34a8c0943450c902e93475b1c3a7e02cdce719449cc560cec18cf"
+      "bytes": 29941,
+      "sha256": "4a27771f1ecf8114bd8ccabb59a766e9360c273b655eb1ef8f414e466f3ce845"
     },
     {
       "path": "zh/work/__next._tree.txt",
-      "bytes": 559,
-      "sha256": "bb07ad1a4af2dc6c8a29fc9d01ae1b2a6d980a67ff1d7ceb8345442765bf7294"
+      "bytes": 613,
+      "sha256": "db1d2b80da9ae7c89c3d1cc6ad6fbe83f5b6db768ae73c7ca21c1acc24163c27"
     },
     {
       "path": "zh/work/index.html",
-      "bytes": 44559,
-      "sha256": "e1bb341d90fabec54183d081adb002cac22bf3c9bca873cb681e8541533bdcbf"
+      "bytes": 46087,
+      "sha256": "b2fc3fad20a0d5ce1661ed1652805eda11e782bea620233cd70caeb91e904fa3"
     },
     {
       "path": "zh/work/index.txt",
-      "bytes": 29047,
-      "sha256": "1c956a15a5f34a8c0943450c902e93475b1c3a7e02cdce719449cc560cec18cf"
+      "bytes": 29941,
+      "sha256": "4a27771f1ecf8114bd8ccabb59a766e9360c273b655eb1ef8f414e466f3ce845"
     },
     {
       "path": "zh/work/polyglotdra-secbench/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6417,
-      "sha256": "a4d4d402a6a95e31fe84245964d6c111699961f09e885eb9c8565642630c86b9"
+      "bytes": 6472,
+      "sha256": "eff82368fca3f28584ae086a9f8e0374ff89ab7f06f5c0e8ed9e762eb897cac4"
     },
     {
       "path": "zh/work/polyglotdra-secbench/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/work/polyglotdra-secbench/__next._full.txt",
-      "bytes": 20412,
-      "sha256": "b51123626852e918daa9c240ed687032437f66a4961d6368e633256feb070721"
+      "bytes": 21294,
+      "sha256": "175ff33739c722c0c9f62fc14309a08338f30a7237d16e4d9938f5f707ce270b"
     },
     {
       "path": "zh/work/polyglotdra-secbench/__next._tree.txt",
-      "bytes": 580,
-      "sha256": "4acb2f352893e736b89490f2a4cb6de13656535c703fc78c97674fe5fa2a6ad7"
+      "bytes": 634,
+      "sha256": "fe3ebf48a169ac6d50c659184a73187a8c99c5a0888738d5e1b826d3887fc407"
     },
     {
       "path": "zh/work/polyglotdra-secbench/index.html",
-      "bytes": 31109,
-      "sha256": "0134cdce2c73521e58db4e2c41bc2f2d8897fb602ae19ff6065692f63b9acdd9"
+      "bytes": 32664,
+      "sha256": "e7dc325a7a37cae4965e1e0a0b6340a3a90a86ec72de58182b0be01676a86cfd"
     },
     {
       "path": "zh/work/polyglotdra-secbench/index.txt",
-      "bytes": 20412,
-      "sha256": "b51123626852e918daa9c240ed687032437f66a4961d6368e633256feb070721"
+      "bytes": 21294,
+      "sha256": "175ff33739c722c0c9f62fc14309a08338f30a7237d16e4d9938f5f707ce270b"
     },
     {
       "path": "zh/work/queuehub/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 5992,
-      "sha256": "e7eb69d8e69b39b52b72cfaca861aaeb346d0a25715921df30721ba8c4fc4f15"
+      "bytes": 6047,
+      "sha256": "fda11b41ca7370ed96d171a25760f8c9df7eff5485dd7a3bc9eba5b862148c62"
     },
     {
       "path": "zh/work/queuehub/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/work/queuehub/__next._full.txt",
-      "bytes": 19975,
-      "sha256": "3274889f66326094ecc8107fbcbd28b7f0c1d7a8b4e5e846ec6131d9ab1bbf99"
+      "bytes": 20857,
+      "sha256": "887dd46508ad9f2438b13b734a3ba47ad91afc921c6d2f52a6af9594da26e3ef"
     },
     {
       "path": "zh/work/queuehub/__next._tree.txt",
-      "bytes": 568,
-      "sha256": "3930bffa6cc22f34be0b9fec314820d2d2b1c47c4a0105495c1fc52857b4ce92"
+      "bytes": 622,
+      "sha256": "14a324f3e39d74048fb22091122e7779a620d251ae7ba063c686273ffbb97dc3"
     },
     {
       "path": "zh/work/queuehub/index.html",
-      "bytes": 30226,
-      "sha256": "fd58cdffe97f54e11ba8885382b03bfbd8e0f72fa47601883e0cd8f40b990d27"
+      "bytes": 31738,
+      "sha256": "2732fbe87831a58f0f9a0045760353dc88784a3e9f75e754a7a07b5a8ce17b14"
     },
     {
       "path": "zh/work/queuehub/index.txt",
-      "bytes": 19975,
-      "sha256": "3274889f66326094ecc8107fbcbd28b7f0c1d7a8b4e5e846ec6131d9ab1bbf99"
+      "bytes": 20857,
+      "sha256": "887dd46508ad9f2438b13b734a3ba47ad91afc921c6d2f52a6af9594da26e3ef"
     },
     {
       "path": "zh/work/safestart/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 6061,
-      "sha256": "4f157345284b1ecea73f1b20cb5be8569b29c2a73a070f60f18df819b753ee30"
+      "bytes": 6116,
+      "sha256": "7670435752214583186847fbf85c79e3a19cd0fe4f656767529d3aca7c7435ef"
     },
     {
       "path": "zh/work/safestart/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/work/safestart/__next._full.txt",
-      "bytes": 20045,
-      "sha256": "adccf3588e5e2d45e64d1df1a2a1278e37f2af6cc81d1139eda7fd69ee64e86d"
+      "bytes": 20927,
+      "sha256": "d4940200a3beaf00a03f42a5f73e23193882db3a9d534cda067ba6733818cd0b"
     },
     {
       "path": "zh/work/safestart/__next._tree.txt",
-      "bytes": 569,
-      "sha256": "3faebde42b429cc56795251b60104c80f8afc911c6dec4067f87ab24ff9196c0"
+      "bytes": 623,
+      "sha256": "2e128151922cb7cb144ea6278caec6bf2871f7b28f8f5a3b0951e9a987b93c9f"
     },
     {
       "path": "zh/work/safestart/index.html",
-      "bytes": 30401,
-      "sha256": "580fc97d8c3756400af0c7247a1a1a13c7d456f905b8a087ef1ba0db9c8d7e65"
+      "bytes": 31913,
+      "sha256": "610d407ba6a071423873e98770a779c3f834d9bcac06890d6c94ee02234e96fb"
     },
     {
       "path": "zh/work/safestart/index.txt",
-      "bytes": 20045,
-      "sha256": "adccf3588e5e2d45e64d1df1a2a1278e37f2af6cc81d1139eda7fd69ee64e86d"
+      "bytes": 20927,
+      "sha256": "d4940200a3beaf00a03f42a5f73e23193882db3a9d534cda067ba6733818cd0b"
     },
     {
       "path": "zh/work/uparknow/__next.$d$locale.$oc$segments.__PAGE__.txt",
-      "bytes": 7775,
-      "sha256": "4c2e4c3534b8884642216fe1d94139b2348365218bcddc192d7d0590804b7cc7"
+      "bytes": 7830,
+      "sha256": "45cd91d87291ff8b57f06e090fe5ab8a9e27403b12f9c70e5dc0cfe40cab5756"
     },
     {
       "path": "zh/work/uparknow/__next.$d$locale.txt",
-      "bytes": 13825,
-      "sha256": "3779256d58b1149dbab84e871fe3699a44c224d67d23e06265583b6e8b645e0d"
+      "bytes": 14653,
+      "sha256": "a7453dd1be85d18f9dea7d285a5b16d8a7525ca86d48a3d78cbf20d86555a45f"
     },
     {
       "path": "zh/work/uparknow/__next._full.txt",
-      "bytes": 21758,
-      "sha256": "18ee5c39370d37fef269a4aa5f166771f4200bb9ca644c4989a5e96d2abaa0e9"
+      "bytes": 22640,
+      "sha256": "2932e412451c8526036840a3057b354584049e21471d89203c7ee2c1fe10c1a0"
     },
     {
       "path": "zh/work/uparknow/__next._tree.txt",
-      "bytes": 568,
-      "sha256": "61c66698a0a10b8592a6c72d416a922bd98c8f71ff54cc8ea5d6928cc4af7b7b"
+      "bytes": 622,
+      "sha256": "e5bbbacf269485749b5e09d37900326764c671d9bd7303b12f09bb7244ae6797"
     },
     {
       "path": "zh/work/uparknow/index.html",
-      "bytes": 33557,
-      "sha256": "70692cc412d68f6024a9342815efcfcdc28dd54aa1635145668a54b918dd7e65"
+      "bytes": 35069,
+      "sha256": "ba8f02717672b33741d006fcbcec119541b22eeaa8fb24ffcc187b736d7af9c5"
     },
     {
       "path": "zh/work/uparknow/index.txt",
-      "bytes": 21758,
-      "sha256": "18ee5c39370d37fef269a4aa5f166771f4200bb9ca644c4989a5e96d2abaa0e9"
+      "bytes": 22640,
+      "sha256": "2932e412451c8526036840a3057b354584049e21471d89203c7ee2c1fe10c1a0"
     }
   ]
 }
