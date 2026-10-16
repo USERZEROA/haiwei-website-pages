@@ -1,7 +1,7 @@
-:HL["/_next/static/css/b9ca6b5c3e0f9977.css","style"]
+:HL["/_next/static/css/9818e4f2366bffb8.css","style"]
 :HL["/_next/static/css/d56bcaea1b90c71a.css","style"]
 :HL["/assets/favicon-desk-v3.svg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"segments","t":"oc","k":"work/uparknow","s":[]},"h":65600,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["_not-found","_global-error","robots.txt","sitemap.xml","version.json"]},"h":196656,"c":"$Q2"}]]
-0:{"b":"mIPEaHy9WcrONkSu3_-CP","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"w6whr7MCacrJbsYi3RRpZ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
