@@ -1,9 +1,9 @@
 :HL["/_next/static/css/135f072f71bbc9fb.css","style"]
-:HL["/_next/static/css/df4fde671135f24c.css","style"]
+:HL["/_next/static/css/6572dcd284c5e6c3.css","style"]
 :HL["/_next/static/css/4235888360b03b60.css","style"]
 :HL["/_next/static/css/2381d7d503765b4f.css","style"]
 :HL["/assets/favicon-desk-v3.svg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"segments","t":"oc","k":"credits","s":[]},"h":65600,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["_not-found","_global-error","robots.txt","sitemap.xml","version.json"]},"h":196656,"c":"$Q2"}]]
-0:{"b":"sFB1lJSOAJsphz0QK4Mh_","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"U1M86X2-snYY3kHr1JG1Q","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
