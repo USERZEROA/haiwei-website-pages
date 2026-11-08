@@ -1,0 +1,32 @@
+3:"$Sreact.fragment"
+4:I[7121,[],""]
+5:I[4581,[],""]
+a:"static/chunks/500-fc3b64d9ff4a32a7.js"
+b:"static/chunks/782-2bd14054636e79d5.js"
+c:"static/chunks/725-9cdbc7223829d3ad.js"
+d:"static/chunks/140-83a4e13ab5c47350.js"
+e:"static/chunks/app/%5Blocale%5D/%5B%5B...segments%5D%5D/page-ccd4f5a1b547db4e.js"
+f:I[8500,["500","$a","782","$b","725","$c","140","$d","202","$e"],""]
+10:I[484,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[484,[],"$14"]
+16:"MetadataBoundary"
+17:I[484,[],"$16"]
+:HL["/_next/static/css/4235888360b03b60.css","style"]
+:HL["/_next/static/css/2381d7d503765b4f.css","style"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","article",null,{"className":"page-shell narrow reflections_detail__VxmNM","children":[["$","$Lf",null,{"className":"back-link","href":"/zh/reflections/","children":["← ","返回个人思考"]}],["$","div",null,{"className":"card-meta","children":[["$","span",null,{"children":["整理于"," ",["$","time",null,{"dateTime":"2026-11-08","children":"2026年11月8日"}]]}],null]}],["$","h1",null,{"children":["$","span",null,{"lang":"zh-CN","children":"Triangle AI Hackathon 之后，我想做什么"}]}],["$","p",null,{"className":"reflections_purpose__O7VH5","children":"个人观点与开放问题，并非科研论文。"}],null,["$","div",null,{"className":"reflections_body___cdH8","lang":"zh-CN","children":[["$","p","0",{"children":"在 Triangle AI Hackathon 2026，我见到了很出色的投资人，也接触到许多非凡的创意。给我的一个鲜明感受是，投资人更容易被真正有可能改变世界的想法打动。这让我更关注：一个产品是否回应真实需求，能否改变人的生活或工作，而不只是展示 AI 能做什么。"}],["$","p","1",{"children":"这次经历也强化了我目前的判断：AI 已经打破了过去许多软件实现上的壁垒。当开发一个应用变得更容易，仅靠实现本身就越来越难形成持久的差异。对于我想做的事业，我越来越相信，把 AI 与硬件结合，是更值得投入、也更有机会站稳的方向。"}],["$","p","2",{"children":"视觉模型与方法连接到实际设备后，可以做出单纯应用之外的不一样的产品：感知环境、响应变化，并帮助人采取行动。真正的难点是让这些能力在真实场景中有用、可靠。我想继续探索的，是把智能带入物理世界，解决一个真正重要的问题，让产品的价值建立在实际改变之上。"}]]}],false]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4235888360b03b60.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2381d7d503765b4f.css","precedence":"next"}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$8"}}]]
+2:[["children",{"s":{"n":"segments","t":"oc","k":"reflections/building-beyond-software-in-the-age-of-ai","s":[]},"h":65600,"d":{"r":["$","$3","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"zh","s":["_not-found","_global-error","robots.txt","sitemap.xml","version.json"]},"h":196656,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Triangle AI Hackathon 之后，我想做什么 · 于海威"}],["$","meta","1",{"name":"description","content":"于海威的个人网站：应用 AI 项目、科研经历、教育背景与联系方式。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://haiweiyu.com/zh/reflections/building-beyond-software-in-the-age-of-ai/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://haiweiyu.com/en/reflections/building-beyond-software-in-the-age-of-ai/"}],["$","link","5",{"rel":"alternate","hrefLang":"zh-CN","href":"https://haiweiyu.com/zh/reflections/building-beyond-software-in-the-age-of-ai/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://haiweiyu.com/en/reflections/building-beyond-software-in-the-age-of-ai/"}],["$","meta","7",{"property":"og:title","content":"Triangle AI Hackathon 之后，我想做什么 · 于海威"}],["$","meta","8",{"property":"og:description","content":"于海威的个人网站：应用 AI 项目、科研经历、教育背景与联系方式。"}],["$","meta","9",{"property":"og:url","content":"https://haiweiyu.com/zh/reflections/building-beyond-software-in-the-age-of-ai/"}],["$","meta","10",{"property":"og:locale","content":"zh_CN"}],["$","meta","11",{"property":"og:image","content":"https://haiweiyu.com/assets/og.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"于海威"}],["$","meta","15",{"property":"og:locale:alternate","content":"en_US"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Triangle AI Hackathon 之后，我想做什么 · 于海威"}],["$","meta","19",{"name":"twitter:description","content":"于海威的个人网站：应用 AI 项目、科研经历、教育背景与联系方式。"}],["$","meta","20",{"name":"twitter:image","content":"https://haiweiyu.com/assets/og.png"}]]}]}],null]}],null]}],"p":"$@18","v":null,"s":"$8"}},"a":"$@19","u":"$@1a","b":"66dFv0V8EzNiqBl4J8Mwb"}
+12:null
+1a:true
+8:300
+8:C
+19:0
+6:"$undefined"
+18:"$undefined"
+13:"$undefined"
